@@ -1,0 +1,1001 @@
+Order_id,Order_date,Ship_date,Ship_mode,gender,ip_address,Customer_id,segment,City,State,Country,Category,Sub Category,Product Name,Quantity,Discount,Profit,Shipping Cost
+1,3/27/2024,9/2/2024,Express,Female,251.234.115.7,8MF0TK7NU14,Consumer,Bangkok,Bangkok,Thailand,Furniture,Home Decor,Industrial Metal Wall Clock,3,0.2,-$76.56,203.08
+2,3/30/2024,7/20/2024,Express,Female,158.170.21.227,4C82FD8HY57,Consumer,Denpasar,Bali,Indonesia,Furniture,Sports Equipment,Chic Marble Coaster Set,8,0,$298.51,202.94
+3,11/18/2024,3/17/2024,Standard,Female,176.93.106.247,5XN2PK2JT58,Consumer,Provo,Utah,United States,Technology,Clothing,Minimalist Concrete Coasters,2,0,$65.44,9.2
+4,1/13/2025,3/28/2024,Next-day,Female,144.194.190.232,3NC1TJ1YY89,Consumer,Pretoria,Gauteng,South Africa,Office Supplies,Beauty Products,Trendy Succulent Planter,10,0.7,$728.70,202.49
+5,5/13/2024,8/29/2024,Standard,Genderfluid,148.196.43.171,6MW2XN9MA94,Consumer,Mexico City,Distrito Federal,Mexico,Technology,Pet Supplies,Chic Acrylic Magazine Holder,4,0.1,-$193.15,202.387
+6,9/11/2024,11/14/2024,Next-day,Female,103.235.99.26,4YU9VJ0MT40,Corporate,Gold Coast,Queensland,Australia,Furniture,Books,Rustic Wooden Picture Frame,3,0,$124.01,202.36
+7,6/9/2024,3/30/2024,Next-day,Female,192.52.176.71,4WY8U14RU59,Home Office,Toulon,Provence-Alpes-Côte d'Azur,France,Office Supplies,Sports Equipment,Modern Marble Coaster Set,9,0.1,$124.58,202.32
+8,6/22/2024,11/9/2024,Express,Female,167.126.12.243,7MF3P94RP43,Consumer,Pune,Maharashtra,India,Furniture,Books,Vintage-Inspired Globe Bar Cart,4,0,$349.20,202.32
+9,12/22/2024,3/22/2024,Standard,Agender,136.54.8.25,5QD0KH7MF63,Consumer,Provo,Utah,United States,Technology,Sports Equipment,Boho Rattan Basket,2,0.17,$8.95,4.15
+10,12/14/2024,1/6/2025,Economy,Non-binary,133.148.47.123,1U98FM6AF81,Consumer,Longmont,Colorado,United States,Technology,Clothing,Artistic Ceramic Sculpture,3,0,-$6.21,3.86
+11,5/18/2024,11/1/2024,Next-day,Female,73.181.143.14,5MU7J49MK66,Consumer,Goyang,Gyeonggi,South Korea,Technology,Toys,Chic Velvet Throw Pillow,9,0.47,-$553.88,202.08
+12,1/31/2025,3/27/2024,Next-day,Male,43.242.201.164,5AN0N52NR50,Consumer,Kalyan,Maharashtra,India,Furniture,Outdoor Gear,Chic Rose Gold Earrings,9,0,$48.06,202.06
+13,10/28/2024,6/27/2024,Next-day,Male,206.183.140.180,9XQ5Y17FC70,Consumer,Mejicanos,San Salvador,El Salvador,Office Supplies,Pet Supplies,Charming Floral Tea Towel,2,0.1,$239.52,201.969
+14,12/11/2024,7/22/2024,Standard,Non-binary,118.102.34.149,8JR1K53PG28,Home Office,Sydney,New South Wales,Australia,Office Supplies,Outdoor Gear,Minimalist Glass Vase,9,0.1,-$149.36,201.82
+15,11/26/2024,5/18/2024,Next-day,Male,200.209.53.142,3RC5TJ6EC14,Consumer,Kendari,Sulawesi Tenggara,Indonesia,Office Supplies,Beauty Products,Chic Velvet Throw Pillow,3,0.47,$172.91,201.68
+16,8/30/2024,7/30/2024,Next-day,Male,21.231.86.180,2QN7JE1KA52,Home Office,Casablanca,Grand Casablanca,Morocco,Furniture,Beauty Products,Modern Hanging Plant Holder,4,0.1,$327.12,201.54
+17,1/1/2025,8/21/2024,Express,Female,35.167.83.206,5YW1TG7XD34,Home Office,Khulna,Khulna,Bangladesh,Office Supplies,Electronics,Sleek Glass Water Pitcher,10,0.4,$108.90,201.18
+18,4/21/2024,10/28/2024,Standard,Male,164.88.240.130,7V04J18YN35,Consumer,Medan,Sumatera Utara,Indonesia,Office Supplies,Electronics,Whimsical Unicorn Night Light,7,0.15,$399.98,200.9
+19,4/27/2024,11/4/2024,Express,Female,122.119.248.211,7VH7NK4NE00,Consumer,Avadi,Tamil Nadu,India,Office Supplies,Home Decor,Funky Retro Wall Clock,6,0.15,$184.50,200.83
+20,6/27/2024,5/8/2024,Next-day,Female,119.237.36.38,6YV9YR1NG61,Home Office,Semarang,Jawa Tengah,Indonesia,Furniture,Electronics,Artistic Ceramic Sculpture,13,0.25,$127.34,200.7
+21,8/11/2024,8/19/2024,Express,Male,83.7.196.73,3V04R76KN32,Home Office,Stuttgart,Baden-Württemberg,Germany,Furniture,Home Decor,Quirky Pop Art Print,2,0.3,$371.04,200.65
+22,6/10/2024,12/20/2024,Next-day,Female,50.150.190.212,4UV1K15JC33,Consumer,Hamilton,Waikato,New Zealand,Office Supplies,Pet Supplies,Modern Concrete Planter,8,0.1,$632.40,200.47
+23,2/3/2025,9/16/2024,Economy,Female,70.87.203.245,4XW4D66UG05,Home Office,Kinshasa,Kinshasa,Democratic Republic of the Congo,Office Supplies,Electronics,Dainty Rose Gold Hoop Earrings,8,0,$78.72,200.45
+24,5/20/2024,7/1/2024,Next-day,Female,104.155.173.79,9VA3YE7MU05,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Office Supplies,Toys,Cozy Faux Fur Rug,6,0,$920.75,200.41
+25,9/2/2024,5/16/2024,Economy,Male,96.69.201.20,5RU0XU2UE42,Consumer,Lille,Nord-Pas-de-Calais-Picardie,France,Office Supplies,Home Decor,Sleek Glass Water Pitcher,3,0.1,-$27.94,200.35
+26,12/28/2024,2/8/2025,Standard,Genderfluid,112.138.139.222,5RX2UR8NN62,Home Office,Chelyabinsk,Chelyabinsk,Russia,Office Supplies,Clothing,Chic Linen Table Runner,2,0.6,$255.48,200.09
+27,7/23/2024,1/10/2025,Next-day,Female,44.252.109.216,2X32AF3GM75,Home Office,Zhanjiang,Guangdong,China,Office Supplies,Toys,Funky Neon Wall Clock,7,0.2,$101.22,200.07
+28,10/21/2024,2/6/2025,Economy,Male,186.7.115.39,2EV8ME5WJ35,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Furniture,Sports Equipment,Glamorous Gold Bar Cart,9,0,$923.54,200.06
+29,10/6/2024,7/3/2024,Next-day,Female,144.183.89.220,1WQ0EN9KR66,Corporate,Santo Domingo,Santo Domingo,Dominican Republic,Office Supplies,Electronics,Sleek Glass Water Pitcher,5,0.7,-$45.54,199.986
+30,9/18/2024,12/24/2024,Next-day,Male,239.1.127.106,9DV9KW1GD92,Corporate,Regina,Saskatchewan,Canada,Technology,Toys,Funky Geometric Wall Art,1,0,$4.14,2.65
+31,10/14/2024,1/12/2025,Express,Female,230.228.3.195,2YY6EC7QK06,Consumer,Mejicanos,San Salvador,El Salvador,Office Supplies,Sports Equipment,Eco-Friendly Bamboo Cutting Board,3,0,$182.82,199.794
+32,8/16/2024,10/5/2024,Economy,Male,166.221.8.144,4H49DF9RV92,Home Office,Jakarta,Jakarta,Indonesia,Furniture,Sports Equipment,Classic Stainless Steel Watch,4,0.1,$234.27,199.66
+33,3/25/2024,7/3/2024,Next-day,Female,69.25.1.237,4WH1NA0QF24,Home Office,Berlin,Berlin,Germany,Furniture,Kitchen Appliances,Unique Hand-Carved Wooden Bowl,5,0,$241.89,199.64
+34,10/6/2024,10/7/2024,Next-day,Male,183.50.91.220,7A45T18WW87,Home Office,Yueyang,Hunan,China,Technology,Electronics,Minimalist Glass Vase,8,0.1,$308.16,199.53
+35,8/4/2024,10/15/2024,Express,Female,134.33.255.139,9ET2VX3VD85,Home Office,New York City,New York,United States,Office Supplies,Electronics,Industrial Metal Wall Clock,2,0,$12.86,2.01
+36,7/8/2024,4/18/2024,Economy,Female,216.51.237.191,3U33M69HR62,Corporate,Tijuana,Baja California,Mexico,Furniture,Sports Equipment,Vintage Camera Lens Necklace,3,0.1,$150.89,199.425
+37,7/24/2024,6/20/2024,Express,Female,193.21.118.17,9CK6QT4UF35,Home Office,Surabaya,Jawa Timur,Indonesia,Furniture,Home Decor,Sustainable Bamboo Salad Bowl,4,0,$39.55,199.05
+38,2/20/2024,10/3/2024,Express,Male,203.11.251.19,5E95QX3HK29,Home Office,Algiers,Alger,Algeria,Furniture,Sports Equipment,Elegant Sapphire Necklace,4,0,$506.52,199.04
+39,8/8/2024,12/31/2024,Economy,Non-binary,78.135.104.53,9JE7VM1TA77,Home Office,Townsville,Queensland,Australia,Furniture,Sports Equipment,Edgy Skull Print Shower Curtain,8,0,$274.08,198.47
+40,10/4/2024,11/6/2024,Standard,Male,7.224.17.241,4DM2H99CY56,Home Office,Pretoria,Gauteng,South Africa,Office Supplies,Kitchen Appliances,Cozy Knit Throw Pillow,4,0.1,$182.28,198.39
+41,8/20/2024,4/24/2024,Economy,Polygender,75.74.5.83,7JR7UG7PH46,Consumer,Melbourne,Victoria,Australia,Technology,Electronics,Sleek Stainless Steel Water Bottle,7,0,$20.62,198.28
+42,3/9/2024,9/26/2024,Express,Female,133.174.76.129,8XN9A32TQ55,Corporate,Reutlingen,Baden-Württemberg,Germany,Furniture,Toys,Rustic Farmhouse Sign,5,0,$716.40,198.27
+43,5/1/2024,2/21/2024,Next-day,Male,110.161.106.117,6M51MJ9WF11,Home Office,Canberra,Australian Capital Territory,Australia,Office Supplies,Beauty Products,Artistic Hand-Painted Plate,9,0,-$428.87,198.02
+44,5/26/2024,2/20/2024,Standard,Female,93.106.124.184,6WU0NX7TK94,Consumer,Soyapango,San Salvador,El Salvador,Office Supplies,Home Decor,Chic Velvet Throw Pillow,7,0.2,$118.72,197.94
+45,4/9/2024,10/4/2024,Economy,Female,190.222.31.125,7H87XQ1GP80,Corporate,Arras,Nord-Pas-de-Calais-Picardie,France,Furniture,Pet Supplies,Bohemian Fringe Hammock,7,0,$660.37,197.93
+46,10/30/2024,3/20/2024,Next-day,Male,181.44.106.140,9C35KH0JC00,Corporate,Townsville,Queensland,Australia,Furniture,Kitchen Appliances,Vintage Brass Desk Lamp,4,0.402,$208.00,197.79
+47,6/9/2024,7/4/2024,Next-day,Male,10.126.207.39,4MV4V26JX40,Corporate,Kuala Lumpur,Kuala Lumpur,Malaysia,Furniture,Clothing,Glamorous Crystal Chandelier,5,0.2,$171.30,197.68
+48,1/20/2025,11/12/2024,Economy,Male,83.13.148.159,1DA9WD1KE06,Consumer,Matsudo,Chiba,Japan,Technology,Home Decor,Modern Concrete Planter,9,0,$453.87,197.68
+49,5/6/2024,9/9/2024,Next-day,Male,221.204.157.131,3KE1XD7FE30,Home Office,Bayamo,Granma,Cuba,Technology,Sports Equipment,Art Deco Brass Candle Holder,2,0.5,$50.56,197.659
+50,10/25/2024,11/1/2024,Next-day,Female,189.20.15.207,6PW1P74QF01,Home Office,Reynosa,Tamaulipas,Mexico,Furniture,Outdoor Gear,Trendy Succulent Planter,2,0,$141.18,197.263
+51,5/5/2024,1/20/2025,Standard,Male,143.0.78.114,9AQ7F21MX99,Consumer,Chester,England,United Kingdom,Furniture,Kitchen Appliances,Retro Vinyl Record Storage,9,0,$255.69,197.22
+52,10/13/2024,4/7/2024,Next-day,Female,209.167.52.84,8AR1QU7CM58,Consumer,Rostock,Mecklenburg-Vorpommern,Germany,Office Supplies,Sports Equipment,Unique Handmade Pottery Bowl,2,0.1,$224.94,197.18
+53,4/10/2024,10/28/2024,Next-day,Male,14.53.66.133,7W58DX2EM53,Home Office,San Luis,San Luis,Argentina,Office Supplies,Kitchen Appliances,Artistic Hand-Painted Plate,5,0,-$236.88,197.179
+54,9/13/2024,7/15/2024,Economy,Genderfluid,133.110.153.184,2DR9AA8WU52,Corporate,Namur,Namur,Belgium,Furniture,Toys,Dainty Silver Charm Bracelet,5,0.002,$103.80,197.11
+55,5/9/2024,2/26/2024,Economy,Female,2.30.42.231,3NU6WT4GY01,Corporate,Aachen,North Rhine-Westphalia,Germany,Furniture,Home Decor,Charming Vintage Tea Set,7,0.002,$494.40,197.03
+56,6/3/2024,12/5/2024,Next-day,Male,123.209.54.176,1K14QE3WY14,Corporate,Jakarta,Jakarta,Indonesia,Technology,Pet Supplies,Edgy Skull Print Throw Blanket,5,0.07,-$0.05,196.97
+57,7/21/2024,11/1/2024,Standard,Male,91.161.242.6,2P74E86XT76,Consumer,Boulogne-Billancourt,Ile-de-France,France,Furniture,Toys,Art Deco Glass Decanter,2,0,$89.07,196.9
+58,2/12/2025,10/31/2024,Express,Male,107.161.254.80,1RT2MU6NH20,Consumer,Melbourne,Victoria,Australia,Office Supplies,Beauty Products,Industrial Steampunk Desk Lamp,8,0.1,"$1,202.02",196.84
+59,3/13/2024,5/18/2024,Standard,Male,248.39.105.74,6PW6M83MT42,Home Office,Ballarat,Victoria,Australia,Office Supplies,Sports Equipment,Stylish Faux Fur Throw,5,0.2,$604.86,196.63
+60,7/27/2024,7/18/2024,Next-day,Male,16.184.101.174,9K75MX4QN58,Home Office,Gold Coast,Queensland,Australia,Furniture,Home Decor,Trendy Succulent Planter,6,0,-$705.10,196.55
+61,9/25/2024,12/22/2024,Express,Female,210.46.173.223,3RQ4DU3XA77,Corporate,Vienna,Vienna,Austria,Technology,Books,Chic Marble Serving Tray,4,0,$449.88,196.32
+62,4/26/2024,1/10/2025,Standard,Female,228.84.102.12,6PC3XC6NN48,Corporate,Rasht,Gilan,Iran,Office Supplies,Clothing,Unique Hand-Blown Glass Vase,2,0.002,$68.70,196.23
+63,4/1/2024,2/11/2025,Next-day,Male,74.86.21.222,8DH2Q78GD05,Home Office,Provo,Utah,United States,Office Supplies,Sports Equipment,Sleek Aluminum Water Bottle,3,0,$4.27,1.9
+64,10/30/2024,4/14/2024,Standard,Female,138.241.254.79,7YN0UY3GT81,Consumer,Paris,Ile-de-France,France,Office Supplies,Toys,Industrial Metal Wall Clock,5,0,$350.48,195.87
+65,8/31/2024,3/30/2024,Next-day,Male,254.137.129.162,4FJ4JK2CK79,Corporate,Oyonnax,Auvergne-Rhône-Alpes,France,Office Supplies,Pet Supplies,Artistic Hand-Painted Plate,4,0.2,$129.20,195.59
+66,9/8/2024,10/31/2024,Standard,Bigender,85.80.215.124,2MR1X18WY48,Consumer,Provo,Utah,United States,Office Supplies,Pet Supplies,Charming Floral Tea Cup Set,3,0,$3.50,1.35
+67,12/24/2024,6/1/2024,Standard,Male,84.187.80.189,6V46RJ5VK20,Corporate,Managua,Managua,Nicaragua,Technology,Books,Vintage Typewriter Key Necklace,3,0,$225.47,195.533
+68,3/21/2024,7/28/2024,Standard,Female,193.72.220.239,8CW1GV2NP98,Consumer,Provo,Utah,United States,Technology,Beauty Products,Playful Emoji Pillow,5,0,$7.06,1.34
+69,7/24/2024,5/14/2024,Express,Male,59.142.13.117,4HJ0GK4XD85,Corporate,Tampa,Florida,United States,Technology,Sports Equipment,Cozy Faux Fur Rug,3,0.002,$47.82,12.44
+70,4/1/2024,1/2/2025,Economy,Female,169.154.153.84,1AK1K20YX16,Home Office,Grajaú,Maranhão,Brazil,Office Supplies,Toys,Elegant Sapphire Necklace,6,0.2,$9.96,195.371
+71,1/5/2025,11/30/2024,Next-day,Female,24.224.71.70,2HU2UF6DJ72,Corporate,Barcelona,Catalonia,Spain,Office Supplies,Kitchen Appliances,Industrial Metal Wall Clock,7,0,$186.06,195.34
+72,3/2/2024,3/27/2024,Next-day,Female,219.41.138.7,6K08VQ5VY30,Corporate,Luoyang,Fujian,China,Technology,Kitchen Appliances,Edgy Leather Cuff Bracelet,4,0,$238.68,195.25
+73,12/15/2024,10/29/2024,Economy,Female,62.95.74.135,5GH6RC1AD53,Consumer,Koshigaya,Saitama,Japan,Office Supplies,Pet Supplies,Minimalist Concrete Coasters,6,0,$250.38,195.24
+74,2/24/2024,7/1/2024,Next-day,Female,122.199.97.56,7WW4GN4HC84,Consumer,Beirut,Beirut,Lebanon,Office Supplies,Sports Equipment,Quirky Pop Art Print,2,0.4,$124.86,195.23
+75,11/25/2024,4/16/2024,Express,Male,90.240.44.108,7J52VQ2JN84,Home Office,Wollongong,New South Wales,Australia,Technology,Beauty Products,Trendy Terrarium Kit,8,0,$28.56,194.97
+76,6/8/2024,2/15/2025,Standard,Male,231.82.2.106,4A87DE3QA63,Consumer,Sydney,New South Wales,Australia,Technology,Kitchen Appliances,Industrial Metal Wall Clock,5,0,-$41.81,194.67
+77,9/23/2024,11/10/2024,Express,Female,181.239.249.216,9F16NQ0AA51,Home Office,Jixi,Heilongjiang,China,Technology,Sports Equipment,Dainty Rose Gold Hoop Earrings,6,0,$558.72,194.61
+78,10/10/2024,7/24/2024,Economy,Female,123.215.236.58,8DC9D89UT12,Consumer,Huelva,Andalusía,Spain,Office Supplies,Toys,Rustic Farmhouse Sign,3,0.27,$232.08,194.6
+79,11/20/2024,1/15/2025,Express,Male,2.14.10.185,2PU9R98PR63,Consumer,Luoyang,Fujian,China,Office Supplies,Home Decor,Whimsical Unicorn Night Light,6,0,$174.60,194.55
+80,8/26/2024,12/9/2024,Economy,Female,178.94.22.238,9YV0C97PQ60,Consumer,Alexandria,Al Iskandariyah,Egypt,Office Supplies,Kitchen Appliances,Vintage-Inspired Globe Bar Cart,6,0.2,$236.34,194.42
+81,9/10/2024,12/5/2024,Express,Female,79.104.214.207,8CT7AA8XJ21,Corporate,Geelong,Victoria,Australia,Technology,Books,Cozy Faux Fur Rug,7,0.1,-$821.96,194.41
+82,10/2/2024,8/25/2024,Economy,Female,22.191.171.133,3GR2YD7UX48,Home Office,Hefei,Anhui,China,Office Supplies,Toys,Stylish Enamel Pin Set,7,0.1,$371.49,194.36
+83,5/11/2024,1/3/2025,Economy,Male,169.238.12.115,2P27Y10GT13,Consumer,Tampa,Florida,United States,Furniture,Electronics,Unique Hand-Blown Glass Vase,1,0,$17.85,12.03
+84,5/3/2024,11/4/2024,Standard,Male,128.75.157.124,2PD9G96GM78,Consumer,Valenzuela,National Capital,Philippines,Office Supplies,Kitchen Appliances,Funky Retro Wall Clock,3,0.07,$171.70,194.21
+85,3/23/2024,5/19/2024,Economy,Female,14.229.194.235,7FT0T51GC16,Corporate,Tampa,Florida,United States,Office Supplies,Beauty Products,Minimalist Glass Vase,4,0,-$31.67,5.01
+86,2/12/2025,11/9/2024,Next-day,Male,58.30.255.186,2P10QD5TE03,Home Office,Thanjavur,Tamil Nadu,India,Office Supplies,Electronics,Sophisticated Leather Laptop Sleeve,9,0,$613.17,193.81
+87,9/4/2024,5/6/2024,Express,Female,87.73.222.7,4H15E56TD34,Home Office,San Luis Potosí,San Luis Potosí,Mexico,Furniture,Kitchen Appliances,Stylish Enamel Pin Set,3,0,$126.59,193.758
+88,4/24/2024,7/4/2024,Next-day,Male,67.233.39.35,5JF4YF5MV35,Corporate,Tegal,Jawa Tengah,Indonesia,Office Supplies,Kitchen Appliances,Stylish Engraved Cuff Bracelet,3,0.2,$381.72,193.62
+89,2/20/2024,12/10/2024,Standard,Male,74.251.19.222,5UU0NC3TX46,Home Office,Tampa,Florida,United States,Office Supplies,Toys,Classic Leather Passport Cover,3,0.1,$5.14,4.57
+90,11/15/2024,10/4/2024,Express,Male,254.90.237.218,8M72R55MX34,Consumer,Rome,Lazio,Italy,Office Supplies,Electronics,Boho Rattan Basket,3,0,$140.58,193.57
+91,11/4/2024,2/3/2025,Economy,Female,97.9.18.171,1XK3KR8DV36,Consumer,Phnom Penh,Phnom Penh,Cambodia,Furniture,Beauty Products,Modern Hanging Plant Holder,4,0,$405.36,193.56
+92,5/24/2024,5/13/2024,Express,Male,134.136.218.20,2VA9TC6XQ90,Home Office,Gold Coast,Queensland,Australia,Technology,Electronics,Bohemian Dreamcatcher Wall Decor,2,0,-$321.37,193.37
+93,3/3/2024,7/10/2024,Next-day,Female,59.130.217.215,6NV1JT1EJ03,Corporate,Los Angeles,California,United States,Furniture,Toys,Funky Retro Wall Clock,3,0,$17.03,4.29
+94,7/26/2024,8/30/2024,Economy,Female,148.155.28.238,7PD0XX8VG35,Corporate,Melbourne,Victoria,Australia,Furniture,Sports Equipment,Chic Marble Coaster Set,3,0.17,$124.01,193.21
+95,1/9/2025,8/9/2024,Next-day,Male,79.200.30.20,6CY3C52FH69,Home Office,Philadelphia,Pennsylvania,United States,Furniture,Outdoor Gear,Vintage Typewriter Key Necklace,3,0.1,$3.67,2.83
+96,9/21/2024,7/5/2024,Express,Female,196.160.128.10,7G05XQ7DT84,Corporate,Sevran,Ile-de-France,France,Furniture,Home Decor,Retro Polaroid Camera,3,0.6,$14.98,193.09
+97,4/1/2024,5/14/2024,Standard,Female,159.129.10.9,7CH5AY8XE29,Home Office,Hastings,England,United Kingdom,Technology,Clothing,Timeless Diamond Stud Earrings,4,0.1,$331.68,192.96
+98,10/5/2024,6/22/2024,Express,Male,180.91.85.22,5A41UM3PU16,Corporate,Halmstad,Halland,Sweden,Office Supplies,Toys,Coastal Seashell Decor,6,0.002,-$177.39,192.81
+99,1/14/2025,10/11/2024,Economy,Male,120.242.183.197,9C20P34CR74,Corporate,Amstelveen,North Holland,Netherlands,Technology,Electronics,Vintage-Inspired Globe Bar Cart,7,0.1,-$458.43,192.64
+100,7/23/2024,11/7/2024,Standard,Male,129.21.78.79,7U72NN4PX74,Consumer,Portici,Campania,Italy,Office Supplies,Clothing,Glamorous Crystal Chandelier,7,0.15,$340.83,192.52
+101,4/30/2024,9/6/2024,Next-day,Female,106.205.238.218,7HH3T74UE01,Home Office,Philadelphia,Pennsylvania,United States,Office Supplies,Home Decor,Retro Vinyl Record Storage,2,0,$3.63,2.24
+102,4/1/2024,9/8/2024,Standard,Female,3.43.30.110,4VM5CV2JN39,Corporate,Springfield,Virginia,United States,Technology,Electronics,Modern Hanging Plant Holder,2,0.3,$1.45,2.01
+103,12/30/2024,3/16/2024,Standard,Genderfluid,21.91.49.24,3JQ9K42NX25,Consumer,Khulna,Khulna,Bangladesh,Technology,Sports Equipment,Edgy Leather Cuff Bracelet,9,0,"$1,594.89",192.23
+104,8/24/2024,7/16/2024,Standard,Genderqueer,104.196.141.92,9VA3TU8UT89,Home Office,Cleveland,Ohio,United States,Furniture,Beauty Products,Timeless Pearl Drop Earrings,6,0.1,-$34.38,1.93
+105,12/25/2024,2/3/2025,Standard,Male,46.78.242.99,2GA5XY1VY13,Consumer,Murray Bridge,South Australia,Australia,Office Supplies,Beauty Products,Bohemian Dreamcatcher Wall Decor,2,0,$188.01,191.99
+106,9/24/2024,2/25/2024,Standard,Male,62.32.233.200,9NW4TP8RN61,Consumer,Tengzhou,Shandong,China,Technology,Beauty Products,Sustainable Bamboo Utensil Set,5,0,$438.75,191.76
+107,8/18/2024,11/8/2024,Next-day,Male,128.237.231.250,9HN7HG4JY14,Consumer,Bagneux,Ile-de-France,France,Furniture,Pet Supplies,Bold Striped Beach Towel,4,0,$132.17,191.65
+108,6/30/2024,1/1/2025,Next-day,Male,83.226.80.201,3R40KD9XW89,Home Office,Duisburg,North Rhine-Westphalia,Germany,Furniture,Books,Vintage-Inspired Globe Bar Cart,8,0,$205.92,191.64
+109,6/10/2024,9/19/2024,Economy,Male,38.114.15.139,4PK3HX6QM42,Consumer,Balikpapan,Kalimantan Timur,Indonesia,Technology,Beauty Products,Classic Stainless Steel Watch,8,0.1,$396.67,191.58
+110,11/7/2024,2/5/2025,Economy,Male,23.17.142.74,3TM4C13JN18,Corporate,Bhatinda,Punjab,India,Office Supplies,Toys,Art Deco Brass Candle Holder,4,0.15,$298.08,191.29
+111,1/20/2025,4/13/2024,Economy,Male,130.123.149.14,3GT7U99PA35,Corporate,Bandung,Jawa Barat,Indonesia,Office Supplies,Outdoor Gear,Glamorous Crystal Chandelier,3,0,-$916.04,191.26
+112,2/9/2025,8/29/2024,Express,Male,129.251.7.40,7KV1N41EE53,Corporate,Poza Rica de Hidalgo,Veracruz,Mexico,Office Supplies,Electronics,Timeless Pearl Necklace,8,0.1,$999.36,191.201
+113,11/16/2024,10/6/2024,Standard,Male,50.136.191.138,6RK3HK9CN50,Consumer,Le Petit-Quevilly,Normandy,France,Technology,Outdoor Gear,Modern Marble Coaster Set,4,0,$551.98,191.2
+114,1/11/2025,8/10/2024,Express,Female,216.167.181.178,2R76QX3YJ61,Corporate,Colmar,Alsace-Champagne-Ardenne-Lorraine,France,Furniture,Kitchen Appliances,Boho Rattan Basket,3,0,-$124.66,190.96
+115,6/26/2024,1/16/2025,Express,Female,67.73.146.110,9K01KU9QM18,Corporate,Bekasi,Jawa Barat,Indonesia,Technology,Toys,Dainty Rose Gold Hoop Earrings,5,0,-$0.05,190.79
+116,6/22/2024,7/6/2024,Express,Genderqueer,135.152.51.124,3M26PC3VG45,Consumer,Madrid,Madrid,Spain,Office Supplies,Sports Equipment,Vintage Camera Lens Necklace,7,0.07,-$88.81,190.71
+117,10/10/2024,11/23/2024,Next-day,Male,206.128.39.210,2CQ4A01XG31,Corporate,Rome,Lazio,Italy,Furniture,Beauty Products,Coastal Seashell Jewelry Box,7,0.07,"-$1,476.09",190.6
+118,11/5/2024,8/11/2024,Standard,Male,219.250.205.255,1A58F72TK40,Home Office,Clichy-sous-Bois,Ile-de-France,France,Furniture,Sports Equipment,Coastal Seashell Jewelry Box,9,0.1,$841.79,190.51
+119,3/19/2024,12/24/2024,Express,Male,139.202.116.9,1V40X14CN01,Corporate,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur,France,Furniture,Home Decor,Bold Striped Beach Towel,6,0,$594.22,190.42
+120,3/30/2024,5/23/2024,Next-day,Female,46.70.124.82,9T92KD2GC56,Home Office,Antipolo,Calabarzon,Philippines,Furniture,Sports Equipment,Funky Geometric Wall Art,3,0,-$14.35,190.41
+121,10/16/2024,7/8/2024,Standard,Female,42.171.149.234,3Y98QM4JP84,Consumer,Luoyang,Guangdong,China,Technology,Home Decor,Chic Marble Serving Tray,4,0.1,$103.07,190.28
+122,5/7/2024,9/24/2024,Express,Female,100.252.230.22,2JA0CU0KF57,Corporate,Creil,Nord-Pas-de-Calais-Picardie,France,Office Supplies,Pet Supplies,Retro Vinyl Record Storage,7,0.2,-$30.43,190.15
+123,3/14/2024,11/13/2024,Economy,Agender,18.120.64.106,7D58XG5MX02,Consumer,Curitiba,Parana,Brazil,Technology,Books,Bohemian Dreamcatcher Wall Decor,7,0,$923.44,190.079
+124,11/13/2024,1/12/2025,Standard,Female,199.143.25.253,5D70F81UJ51,Corporate,Sale,Rabat-Salé-Zemmour-Zaer,Morocco,Furniture,Kitchen Appliances,Cozy Knit Throw Pillow,2,0.2,$156.24,190.03
+125,3/25/2024,6/22/2024,Standard,Male,82.223.36.121,1PN2PM5MU83,Home Office,Albury,New South Wales,Australia,Furniture,Toys,Bohemian Dreamcatcher Wall Decor,6,0,$704.63,190
+126,3/14/2024,11/20/2024,Express,Female,71.13.109.158,5GE6Y12ER39,Home Office,Kutahya,Kutahya,Turkey,Technology,Pet Supplies,Unique Hand-Carved Wooden Bowl,6,0,-$781.85,189.89
+127,7/17/2024,5/3/2024,Economy,Female,148.113.77.37,8CF2PP6CA77,Consumer,Cleveland,Ohio,United States,Furniture,Books,Rustic Farmhouse Sign,5,0.17,$2.46,1.82
+128,8/14/2024,10/10/2024,Economy,Male,60.139.124.17,8AP9UE2RR60,Corporate,Daqing,Heilongjiang,China,Technology,Kitchen Appliances,Boho Macrame Wall Hanging,3,0,$206.64,189.75
+129,12/16/2024,2/15/2025,Next-day,Female,186.148.57.46,6PD2DF2XH75,Corporate,Tampa,Florida,United States,Furniture,Outdoor Gear,Sleek Aluminum Water Bottle,3,0,-$5.53,1.58
+130,2/29/2024,1/12/2025,Standard,Female,208.225.220.238,5HU3TP7PG57,Consumer,Yaounde,Centre,Cameroon,Technology,Kitchen Appliances,Cozy Cable Knit Blanket,8,0.2,$809.28,189.54
+131,2/18/2024,1/2/2025,Next-day,Male,71.155.114.242,1YN6QM0NT91,Consumer,Vaughan,Ontario,Canada,Office Supplies,Books,Trendy Neon Sign,1,0,$1.44,1.35
+132,1/22/2025,12/17/2024,Next-day,Female,7.34.25.211,1JM0CG6RX63,Consumer,Elx,Valenciana,Spain,Office Supplies,Beauty Products,Industrial Pipe Coat Rack,11,0.27,$547.57,189.33
+133,7/20/2024,3/13/2024,Standard,Male,124.37.10.64,8UF9VX3DR63,Home Office,Vienna,Vienna,Austria,Furniture,Electronics,Sleek Glass Water Pitcher,7,0,$579.81,189.33
+134,12/5/2024,4/10/2024,Next-day,Female,247.210.7.208,3VG9RY9KU64,Corporate,Rockhampton,Queensland,Australia,Office Supplies,Books,Rustic Woodland Wall Art,5,0.2,$75.93,189.08
+135,12/23/2024,11/27/2024,Economy,Male,89.38.94.162,2J58H30FN51,Home Office,Redondo Beach,California,United States,Office Supplies,Books,Glamorous Crystal Candle Holder,1,0,$3.74,1.33
+136,4/30/2024,11/10/2024,Next-day,Male,125.48.93.182,4WH9RR5MV14,Consumer,Brisbane,Queensland,Australia,Technology,Books,Industrial Pipe Coat Rack,4,0.002,$193.61,188.92
+137,9/12/2024,1/29/2025,Next-day,Male,186.180.17.64,7Y06XW0KA19,Corporate,Accra,Greater Accra,Ghana,Technology,Books,Charming Floral Tea Towel,4,0,$573.12,188.65
+138,5/1/2024,10/22/2024,Standard,Female,241.19.249.97,2YU8GA8AP47,Corporate,Conselheiro Lafaiete,Minas Gerais,Brazil,Office Supplies,Beauty Products,Bohemian Fringe Hammock,5,0,$129.80,188.395
+139,10/29/2024,9/17/2024,Next-day,Male,22.120.113.19,5HT1PE9CE85,Home Office,Jiangdu,Jiangsu,China,Technology,Books,Minimalist Desk Organizer,4,0.2,$364.80,188.37
+140,7/8/2024,10/21/2024,Standard,Female,17.205.72.163,5G28MQ1PK82,Home Office,Mackay,Queensland,Australia,Office Supplies,Beauty Products,Modern Hanging Plant Holder,3,0.15,$135.86,188.21
+141,4/17/2024,11/15/2024,Standard,Male,157.56.153.10,1A61EU0RP86,Home Office,Kinshasa,Kinshasa,Democratic Republic of the Congo,Furniture,Kitchen Appliances,Vintage-Inspired Rotary Phone,2,0,$132.30,188.1
+142,7/7/2024,7/15/2024,Express,Male,190.109.33.48,2RT3Y29UX17,Home Office,Cochabamba,Cochabamba,Bolivia,Office Supplies,Books,Trendy Neon Sign,5,0.15,$352.00,188.013
+143,6/22/2024,6/30/2024,Next-day,Male,62.68.15.9,2D00RK3RW19,Consumer,Wolverhampton,England,United Kingdom,Office Supplies,Electronics,Vintage Brass Desk Lamp,7,0,$923.37,187.88
+144,1/18/2025,9/2/2024,Express,Male,129.28.192.18,6A85GQ5AQ44,Home Office,Puebla,Puebla,Mexico,Technology,Books,Charming Floral Tea Towel,10,0,$240.28,187.88
+145,2/25/2024,9/22/2024,Express,Female,136.51.21.222,9D21DA6RE67,Home Office,Hamburg,Hamburg,Germany,Furniture,Electronics,Bold Graphic Print Poster,2,0.17,$546.96,187.69
+146,12/22/2024,4/16/2024,Economy,Polygender,250.172.34.16,2GK4J29FG43,Home Office,Tegucigalpa,Francisco Morazán,Honduras,Furniture,Pet Supplies,Glamorous Crystal Candle Holder,8,0,-$286.89,187.686
+147,4/6/2024,10/17/2024,Express,Female,30.111.206.195,5Q09E66VK08,Consumer,Philadelphia,Pennsylvania,United States,Furniture,Books,Eco-Friendly Bamboo Cutting Board,3,0.4,$2.51,1.11
+148,11/23/2024,10/6/2024,Next-day,Female,221.78.142.57,4VQ7X19UA21,Corporate,Guangzhou,Guangdong,China,Technology,Outdoor Gear,Funky Geometric Wall Art,5,0,$655.65,187.65
+149,11/11/2024,6/22/2024,Economy,Female,81.116.60.142,9PA2VK9NJ26,Consumer,Mumbai,Maharashtra,India,Furniture,Pet Supplies,Industrial Pipe Shelving Unit,2,0,-$96.48,187.63
+150,3/16/2024,4/6/2024,Standard,Male,8.194.16.143,6U43G03YC02,Home Office,Stuttgart,Baden-Württemberg,Germany,Furniture,Sports Equipment,Glamorous Crystal Chandelier,3,0.1,$305.37,187.61
+151,8/1/2024,9/2/2024,Standard,Female,66.44.90.21,8T58GP5PU39,Consumer,Himeji,Hyogo,Japan,Office Supplies,Books,Sleek Glass Water Pitcher,4,0.1,$114.24,187.48
+152,4/23/2024,6/25/2024,Standard,Male,66.37.114.1,7JW6HV3RK25,Home Office,Caloundra,Queensland,Australia,Technology,Books,Coastal Seashell Jewelry Box,7,0.002,$214.37,187.45
+153,6/19/2024,8/25/2024,Express,Male,90.226.114.45,2DE9HN4TK19,Corporate,Carlsbad,New Mexico,United States,Technology,Electronics,Vintage Camera Lens Necklace,4,0,$92.24,37.84
+154,6/24/2024,6/30/2024,Next-day,Male,152.225.173.23,6PV6JR6PT70,Consumer,Talcahuano,Biobio,Chile,Furniture,Books,Vintage-Inspired Rotary Phone,3,0,$251.69,187.404
+155,7/26/2024,12/2/2024,Economy,Male,53.251.66.183,6QV4VY6RE01,Consumer,Santiago,Santiago,Chile,Office Supplies,Home Decor,Artistic Abstract Painting,7,0.4,$422.05,187.391
+156,10/21/2024,2/28/2024,Express,Genderfluid,252.254.50.74,1GX6VJ4FM88,Corporate,Jakarta,Jakarta,Indonesia,Furniture,Books,Modern Concrete Planter,7,0,$227.22,187.29
+157,3/5/2024,4/10/2024,Express,Female,101.163.48.127,6AN2JR5DG93,Corporate,Nairobi,Nairobi,Kenya,Furniture,Beauty Products,Artistic Hand-Painted Plate,1,0.002,$178.11,187.2
+158,6/14/2024,3/11/2024,Next-day,Non-binary,64.214.65.39,3XG1EE7NA56,Home Office,Adelaide,South Australia,Australia,Office Supplies,Pet Supplies,Unique Hand-Blown Glass Vase,14,0,-$0.34,187.19
+159,7/6/2024,8/20/2024,Economy,Bigender,233.229.212.201,9WG0XM9DC93,Consumer,Los Angeles,California,United States,Furniture,Beauty Products,Trendy Canvas Tote Bag,2,0.002,$90.00,28.66
+160,1/20/2025,11/7/2024,Economy,Bigender,106.209.223.46,9H93NH3KD79,Consumer,Hyderabad,Telangana,India,Office Supplies,Sports Equipment,Playful Animal Print Rug,5,0.6,$43.35,186.83
+161,9/14/2024,8/11/2024,Standard,Female,189.207.201.16,4CF2XM4QA34,Corporate,Whitby,Ontario,Canada,Office Supplies,Sports Equipment,Vintage-Inspired Rotary Phone,2,0,$57.24,23.65
+162,8/8/2024,7/31/2024,Economy,Male,227.93.248.30,4D91QK5RD39,Home Office,San Salvador,San Salvador,El Salvador,Office Supplies,Outdoor Gear,Artistic Abstract Painting,7,0,$526.32,186.293
+163,3/23/2024,2/22/2024,Next-day,Male,44.235.130.82,1UN2EM4FU26,Consumer,Dhaka,Dhaka,Bangladesh,Technology,Home Decor,Industrial Metal Wall Clock,10,0,$356.40,185.97
+164,4/6/2024,11/26/2024,Economy,Female,207.158.9.18,8JQ2FV9UU08,Corporate,New York City,New York,United States,Furniture,Toys,Dainty Rose Gold Hoop Earrings,2,0,$18.21,4.5
+165,1/24/2025,11/6/2024,Next-day,Female,159.216.250.143,5GR1CH2MN05,Corporate,Plano,Texas,United States,Technology,Toys,Stylish Enamel Pin Set,2,0,$3.57,2.65
+166,8/4/2024,2/29/2024,Standard,Female,86.48.136.15,4F75YR2YP67,Consumer,Qingdao,Shandong,China,Office Supplies,Pet Supplies,Eco-Friendly Reusable Straw Set,7,0,"$1,463.07",185.65
+167,8/26/2024,3/15/2024,Next-day,Male,56.6.11.30,1TC5TH1CR38,Corporate,New Plymouth,Taranaki,New Zealand,Furniture,Outdoor Gear,Coastal Seashell Jewelry Box,2,0,$91.38,185.63
+168,7/22/2024,6/10/2024,Next-day,Male,73.110.172.156,5JA0V40FK31,Consumer,Sesto San Giovanni,Lombardy,Italy,Office Supplies,Sports Equipment,Charming Floral Tea Towel,3,0.4,$529.83,185.6
+169,6/29/2024,2/12/2025,Express,Female,118.244.67.223,8JA0KE2JX85,Corporate,Mexico City,Distrito Federal,Mexico,Office Supplies,Beauty Products,Sophisticated Leather Journal,3,0.1,$5.66,185.452
+170,1/18/2025,6/8/2024,Next-day,Male,101.28.85.61,3WN2FE3KG97,Corporate,Mexicali,Baja California,Mexico,Technology,Pet Supplies,Edgy Skull Print Shower Curtain,5,0,$198.04,185.44
+171,12/28/2024,3/14/2024,Next-day,Male,82.159.255.111,8QM0QG4FP82,Consumer,Bayamo,Granma,Cuba,Technology,Pet Supplies,Sophisticated Silk Scarf,6,0,$498.24,185.402
+172,7/24/2024,4/24/2024,Standard,Male,10.10.31.90,8PY6CF9GM34,Corporate,Carlsbad,New Mexico,United States,Office Supplies,Kitchen Appliances,Bold Striped Beach Towel,2,0,$4.34,2.58
+173,1/4/2025,12/23/2024,Economy,Male,144.227.165.180,8XP6E32GG20,Home Office,Carlsbad,New Mexico,United States,Technology,Electronics,Boho Macrame Wall Tapestry,3,0,$9.33,2.4
+174,1/30/2025,8/2/2024,Standard,Female,243.238.12.178,4Q90CY0VU08,Corporate,Velletri,Lazio,Italy,Office Supplies,Clothing,Industrial Metal Wall Clock,5,0.1,$89.22,185.28
+175,10/6/2024,1/3/2025,Standard,Male,99.131.22.143,4P02M69AR05,Corporate,Tangshan,Hebei,China,Technology,Toys,Chic Linen Table Runner,9,0,$35.37,185.15
+176,5/11/2024,11/27/2024,Standard,Male,43.241.21.81,1CP0J24TC91,Consumer,Aurangabad,Bihar,India,Office Supplies,Beauty Products,Charming Vintage Tea Set,5,0.002,$68.55,185.11
+177,2/18/2024,11/10/2024,Next-day,Female,166.150.240.157,4N30HC6FQ11,Consumer,Kabul,Kabul,Afghanistan,Technology,Outdoor Gear,Bold Striped Beach Towel,5,0,$848.70,185.01
+178,2/11/2025,1/12/2025,Express,Male,71.252.219.226,1T81E26UK85,Corporate,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Furniture,Sports Equipment,Trendy Terrarium Kit,8,0.1,$181.65,184.98
+179,12/20/2024,8/23/2024,Economy,Male,59.177.145.16,2Q88M84AQ87,Consumer,Shanghai,Shanghai,China,Office Supplies,Electronics,Edgy Skull Print Throw Blanket,6,0,$254.52,184.92
+180,12/25/2024,9/23/2024,Standard,Female,232.226.112.162,2GW0VA8TG91,Home Office,Lorain,Ohio,United States,Technology,Pet Supplies,Artistic Hand-Painted Plate,2,0,$2.40,2.29
+181,7/3/2024,12/14/2024,Standard,Female,149.133.13.108,2WW7NJ8FK76,Home Office,Lismore,New South Wales,Australia,Office Supplies,Electronics,Stylish Engraved Cuff Bracelet,6,0.2,$101.21,184.8
+182,7/17/2024,7/29/2024,Next-day,Male,49.170.181.0,7DM5AT4MC43,Corporate,Geelong,Victoria,Australia,Furniture,Electronics,Eco-Friendly Reusable Straw Set,7,0,$340.87,184.78
+183,1/14/2025,8/22/2024,Standard,Non-binary,177.154.10.204,3WQ2XX4TC56,Corporate,Sikasso,Sikasso,Mali,Furniture,Clothing,Eclectic Woven Throw Blanket,6,0,$317.16,184.6
+184,6/4/2024,5/28/2024,Next-day,Male,101.61.124.20,3X45RY5AP69,Home Office,Bandung,Jawa Barat,Indonesia,Technology,Pet Supplies,Sleek Glass Water Pitcher,7,0,$903.99,184.56
+185,1/17/2025,5/23/2024,Economy,Male,77.1.227.197,4FC8N19AT40,Home Office,Jackson,Mississippi,United States,Furniture,Beauty Products,Edgy Skull Print Shower Curtain,2,0,$6.94,2.02
+186,10/28/2024,11/22/2024,Standard,Genderqueer,43.205.63.144,1UU8ND9HT15,Home Office,Macapá,Amapá,Brazil,Furniture,Clothing,Industrial Metal Wall Clock,5,0.2,$486.80,184.298
+187,2/29/2024,12/5/2024,Express,Female,34.17.48.150,5NM2H37YJ78,Consumer,Nottingham,England,United Kingdom,Furniture,Electronics,Funky Retro Wall Clock,12,0,$706.68,184.2
+188,5/20/2024,4/4/2024,Economy,Female,237.253.109.251,4QV8WR4GT61,Consumer,Santo Domingo,Santo Domingo,Dominican Republic,Furniture,Books,Bold Striped Beach Towel,7,0.4,$532.39,184.171
+189,5/14/2024,5/13/2024,Express,Male,122.167.221.26,1VM0M81MQ41,Consumer,Mandurah,Western Australia,Australia,Furniture,Clothing,Unique Handmade Pottery Bowl,8,0,$941.69,184.17
+190,11/6/2024,12/25/2024,Economy,Female,233.125.119.159,4GG1FX5ND48,Home Office,Venice,Veneto,Italy,Office Supplies,Outdoor Gear,Playful Animal Print Rug,2,0.1,$239.94,184.11
+191,11/6/2024,1/17/2025,Next-day,Male,239.28.145.40,1AD7D35YT36,Corporate,Dormagen,North Rhine-Westphalia,Germany,Furniture,Sports Equipment,Glamorous Gold Bar Cart,3,0,$781.74,183.9
+192,1/15/2025,3/2/2024,Economy,Male,238.162.61.71,6EF3NY0DH78,Home Office,Bilbao,Basque Country,Spain,Furniture,Electronics,Minimalist Glass Vase,7,0,$431.76,183.86
+193,10/20/2024,2/25/2024,Next-day,Male,0.45.129.242,4RW7CE1VE69,Consumer,Coyoacán,Distrito Federal,Mexico,Technology,Toys,Artistic Hand-Painted Plate,11,0,$327.14,183.663
+194,9/16/2024,10/6/2024,Standard,Polygender,247.146.127.46,9K13FC9ET76,Corporate,Medan,Sumatera Utara,Indonesia,Office Supplies,Books,Modern Geometric Plant Stand,12,0.1,-$71.68,183.59
+195,10/5/2024,12/19/2024,Express,Male,121.157.12.198,7CF4MY4QV95,Consumer,Whyalla,South Australia,Australia,Technology,Pet Supplies,Bold Striped Beach Towel,4,0,-$0.07,183.4
+196,1/10/2025,11/25/2024,Economy,Polygender,216.133.165.246,1H65W92DN88,Consumer,Bagcilar,Istanbul,Turkey,Technology,Electronics,Dainty Silver Charm Bracelet,6,0,-$325.12,183.33
+197,8/3/2024,12/21/2024,Economy,Male,242.149.118.15,7K63X80QP95,Corporate,Dar es Salaam,Dar Es Salaam,Tanzania,Office Supplies,Books,Sophisticated Silk Scarf,2,0.15,$332.18,183.32
+198,7/16/2024,4/15/2024,Economy,Male,35.43.160.25,5CK7Q32KY33,Home Office,Morelia,Michoacán,Mexico,Furniture,Toys,Chic Rose Gold Earrings,7,0,$49.65,183.315
+199,6/21/2024,3/4/2024,Standard,Female,54.21.167.210,9EM7NE3MT62,Corporate,Sydney,New South Wales,Australia,Furniture,Pet Supplies,Quirky Cat Print Tote Bag,3,0.1,$199.78,183.28
+200,9/3/2024,10/21/2024,Economy,Non-binary,178.181.172.60,6E24JT3RD86,Consumer,Bressuire,Aquitaine-Limousin-Poitou-Charentes,France,Office Supplies,Kitchen Appliances,Industrial Pipe Shelving Unit,3,0,$534.21,183.14
+201,10/30/2024,12/18/2024,Economy,Male,224.206.82.51,4VD5DE3YY74,Consumer,Swansea,Wales,United Kingdom,Office Supplies,Books,Coastal Nautical Rope Mirror,3,0.25,$81.45,183.08
+202,11/15/2024,1/7/2025,Standard,Male,60.225.79.252,8NR3Y83RG84,Corporate,Perth,Western Australia,Australia,Technology,Sports Equipment,Eco-Friendly Bamboo Cutting Board,5,0.25,-$26.67,182.88
+203,3/20/2024,3/2/2024,Next-day,Male,31.150.8.1,4C44GX0FQ96,Corporate,Edinburgh,Scotland,United Kingdom,Technology,Pet Supplies,Whimsical Fairy Lights,4,0.5,$471.60,182.84
+204,9/12/2024,4/13/2024,Next-day,Genderfluid,120.41.48.10,6CK8K96QH64,Corporate,Houilles,Ile-de-France,France,Furniture,Toys,Artistic Abstract Painting,3,0.15,-$54.96,182.79
+205,9/21/2024,2/19/2024,Next-day,Male,1.40.255.213,1A28Q24KX83,Corporate,Chelyabinsk,Chelyabinsk,Russia,Office Supplies,Books,Modern Marble Coaster Set,8,0,$181.68,182.73
+206,5/21/2024,10/18/2024,Next-day,Female,146.196.142.44,8HV2DV2CF46,Consumer,Guangzhou,Guangdong,China,Technology,Sports Equipment,Sophisticated Silk Scarf,2,0,$479.52,182.61
+207,4/5/2024,2/8/2025,Standard,Male,164.98.203.174,3HA5PJ9TJ33,Home Office,Solapur,Maharashtra,India,Furniture,Pet Supplies,Stylish Engraved Cuff Bracelet,6,0,$445.86,182.54
+208,10/19/2024,7/22/2024,Economy,Male,170.37.210.114,5PK6VC0CD01,Consumer,Pretoria,Gauteng,South Africa,Furniture,Outdoor Gear,Whimsical Fairy Lights,6,0,$400.32,182.38
+209,7/18/2024,4/22/2024,Economy,Female,156.209.167.28,1TR4HU6AY46,Home Office,Oyonnax,Auvergne-Rhône-Alpes,France,Furniture,Toys,Modern Geometric Plant Stand,4,0.2,$208.61,182.2
+210,11/13/2024,5/3/2024,Standard,Male,218.232.246.67,7ME5FK7ED77,Consumer,Toulon,Provence-Alpes-Côte d'Azur,France,Furniture,Clothing,Chic Marble Serving Tray,3,0,-$42.53,182.15
+211,2/25/2024,1/27/2025,Standard,Female,111.18.156.120,2NV6P12MR34,Consumer,Ivry-sur-Seine,Ile-de-France,France,Furniture,Books,Eco-Friendly Reusable Straw Set,3,0.002,$139.59,182.04
+212,12/11/2024,9/25/2024,Economy,Female,21.41.11.253,9DY7GT0DQ64,Home Office,London,England,United Kingdom,Office Supplies,Beauty Products,Coastal Seashell Decor,4,0,$356.00,181.95
+213,11/4/2024,10/31/2024,Express,Male,161.210.101.226,5ER0TA2JM57,Corporate,Luoyang,Guangdong,China,Technology,Books,Stylish Enamel Pin Set,5,0.1,$172.80,181.87
+214,8/28/2024,4/16/2024,Next-day,Male,162.177.59.126,3VP3ER6MR21,Consumer,Capannori,Tuscany,Italy,Office Supplies,Kitchen Appliances,Chic Marble Serving Tray,5,0,$700.50,181.65
+215,2/6/2025,10/4/2024,Economy,Male,195.9.117.154,4CV6UJ3NT72,Corporate,Kawagoe,Saitama,Japan,Furniture,Pet Supplies,Vintage-Inspired Globe Bar Cart,4,0,$645.24,181.61
+216,7/1/2024,11/20/2024,Express,Female,215.219.63.215,3AD1X43ER01,Home Office,Depok,Yogyakarta,Indonesia,Furniture,Pet Supplies,Luxury Leather Wallet,4,0,-$13.98,181.61
+217,9/14/2024,4/4/2024,Economy,Female,3.109.135.207,4UF0E69VY74,Corporate,Depok,Yogyakarta,Indonesia,Technology,Books,Quirky Pop Art Print,5,0.002,$114.78,181.55
+218,1/23/2025,6/30/2024,Standard,Female,167.24.38.227,3XT4GG2HV06,Home Office,Sydney,New South Wales,Australia,Furniture,Home Decor,Bohemian Beaded Bracelet,3,0,$286.97,181.49
+219,11/17/2024,8/22/2024,Next-day,Female,218.62.200.50,6GF7D71PK09,Home Office,Qingdao,Shandong,China,Technology,Kitchen Appliances,Elegant Sapphire Necklace,5,0,$103.20,181.45
+220,9/8/2024,12/31/2024,Next-day,Male,104.221.73.98,9XU4DD5DQ40,Home Office,Yangzhou,Jiangsu,China,Technology,Home Decor,Classic Stainless Steel Watch,2,0,$216.72,181.42
+221,7/11/2024,8/16/2024,Economy,Male,10.157.189.175,7T12AV8DP71,Home Office,Madrid,Madrid,Spain,Technology,Home Decor,Edgy Skull Print Shower Curtain,3,0,-$133.63,181.15
+222,5/11/2024,3/10/2024,Standard,Male,77.193.229.45,6N72EP8VF13,Corporate,Monterrey,Nuevo León,Mexico,Office Supplies,Sports Equipment,Glamorous Crystal Candle Holder,6,0,$33.00,181.116
+223,1/29/2025,10/17/2024,Express,Genderfluid,205.91.238.68,6QE5F48YV89,Consumer,Raipur,Uttarakhand,India,Furniture,Clothing,Boho Macrame Wall Hanging,5,0,$31.50,181.05
+224,10/4/2024,6/21/2024,Express,Female,193.206.32.61,7WH2CM4AF85,Home Office,Philadelphia,Pennsylvania,United States,Technology,Clothing,Artistic Ceramic Sculpture,2,0,$10.58,1.96
+225,4/2/2024,6/28/2024,Next-day,Male,137.160.93.135,7K04P93GV75,Corporate,Misratah,Misratah,Libya,Technology,Beauty Products,Stylish Engraved Cuff Bracelet,6,0,$938.70,180.89
+226,12/21/2024,1/28/2025,Standard,Female,181.110.155.165,4AF6E06RA80,Consumer,Whitby,Ontario,Canada,Technology,Clothing,Dainty Gold Pendant Necklace,1,0.1,$0.72,1.7
+227,9/27/2024,7/2/2024,Standard,Male,127.180.10.196,1ET2V03XW17,Corporate,Bangkok,Bangkok,Thailand,Technology,Electronics,Playful Emoji Pillow,5,0,$227.76,180.82
+228,7/29/2024,3/1/2024,Economy,Male,239.100.215.6,9MV0VN5TK59,Consumer,Mixco,Guatemala,Guatemala,Technology,Electronics,Funky Neon Wall Clock,7,0,"$1,192.52",180.531
+229,1/8/2025,12/30/2024,Next-day,Female,199.86.208.229,1J95AC1PA81,Consumer,Managua,Managua,Nicaragua,Technology,Kitchen Appliances,Sophisticated Leather Laptop Sleeve,5,0,$233.80,180.522
+230,7/13/2024,8/2/2024,Next-day,Female,163.6.219.28,3VJ2Y63PT56,Home Office,Tlalpan,Distrito Federal,Mexico,Technology,Beauty Products,Minimalist Wooden Desk Organizer,6,0,-$204.31,180.502
+231,1/28/2025,4/6/2024,Express,Female,87.245.134.27,4J80NE1KP93,Corporate,Matanzas,Matanzas,Cuba,Office Supplies,Beauty Products,Vintage Brass Desk Lamp,4,0.002,$115.92,180.382
+232,4/30/2024,6/9/2024,Express,Female,157.224.170.11,2M32F69QK43,Corporate,Can Tho,T?nh C?n Th?,Vietnam,Office Supplies,Sports Equipment,Funky Retro Wall Clock,5,0.1,-$72.44,180.33
+233,6/12/2024,11/26/2024,Economy,Female,210.154.200.34,6QQ5Q32HQ16,Corporate,Jackson,Mississippi,United States,Office Supplies,Electronics,Retro Vinyl Record Storage,4,0,$7.38,1.45
+234,1/17/2025,10/3/2024,Next-day,Male,150.143.1.219,9UH0CT3KG64,Home Office,Morelia,Michoacán,Mexico,Office Supplies,Beauty Products,Eco-Friendly Reusable Straw Set,7,0,$379.82,180.272
+235,3/12/2024,12/14/2024,Standard,Female,166.54.49.107,6KA3G04TC61,Home Office,Santiago de Cuba,Santiago de Cuba,Cuba,Office Supplies,Clothing,Dainty Silver Charm Bracelet,3,0.1,$248.34,180.013
+236,1/8/2025,10/9/2024,Economy,Female,28.75.26.94,2PQ1W67UW37,Consumer,Las Tunas,Las Tunas,Cuba,Office Supplies,Beauty Products,Chic Linen Table Runner,8,0,$83.89,180.012
+237,11/19/2024,10/4/2024,Standard,Male,200.146.247.50,1KQ4XX5JJ10,Home Office,Seattle,Washington,United States,Furniture,Electronics,Trendy Terrarium Kit,5,0,$8.18,1.41
+238,6/1/2024,11/1/2024,Economy,Male,72.70.225.45,9EN1XH0KJ96,Home Office,Vienna,Vienna,Austria,Office Supplies,Books,Cozy Cable Knit Blanket,8,0,$153.84,179.84
+239,3/3/2024,6/10/2024,Next-day,Male,66.96.3.193,9RD2X89VG05,Corporate,Philadelphia,Pennsylvania,United States,Office Supplies,Kitchen Appliances,Whimsical Fairy Lights,2,0.17,$5.55,1.37
+240,8/13/2024,9/7/2024,Express,Male,148.199.229.139,4CE1XK8JE88,Corporate,Villeneuve-le-Roi,Ile-de-France,France,Technology,Electronics,Classic Leather Passport Cover,5,0,$187.53,179.69
+241,12/23/2024,8/8/2024,Economy,Non-binary,105.11.0.227,1UJ3RC3AR11,Consumer,Tiruchchirappalli,Tamil Nadu,India,Office Supplies,Home Decor,Charming Vintage Tea Set,4,0,$116.40,179.62
+242,12/23/2024,11/16/2024,Standard,Female,96.143.90.232,7G02D87NM21,Consumer,Vitrolles,Provence-Alpes-Côte d'Azur,France,Furniture,Home Decor,Retro Vinyl Record Storage,3,0.002,$151.06,179.62
+243,1/12/2025,10/10/2024,Next-day,Bigender,62.39.48.162,3J61A31RK67,Consumer,Hengyang,Hunan,China,Furniture,Outdoor Gear,Cozy Faux Fur Rug,5,0,$886.05,179.5
+244,11/2/2024,7/14/2024,Standard,Female,53.232.195.148,5FM6YN7JW54,Consumer,Los Angeles,California,United States,Technology,Electronics,Art Deco Brass Candle Holder,6,0.1,$6.49,1.37
+245,12/18/2024,5/2/2024,Next-day,Female,166.246.118.23,5J01P72VD73,Home Office,Jakarta,Jakarta,Indonesia,Office Supplies,Toys,Funky Neon Wall Clock,3,0.4,$364.23,179.38
+246,8/13/2024,1/24/2025,Standard,Male,64.123.65.174,6XA9TX0MV73,Consumer,Woking,England,United Kingdom,Office Supplies,Toys,Coastal Seashell Jewelry Box,3,0,$13.77,178.98
+247,6/20/2024,3/15/2024,Economy,Female,86.167.206.124,5QU3JM5VU06,Home Office,Lorain,Ohio,United States,Furniture,Outdoor Gear,Funky Geometric Wall Art,1,0,-$0.64,1.14
+248,12/16/2024,5/12/2024,Economy,Female,60.151.21.83,1TN1FU9MR30,Consumer,Singapore,Singapore,Singapore,Office Supplies,Toys,Bold Graphic Print Poster,8,0,$413.04,178.88
+249,4/22/2024,11/22/2024,Next-day,Male,228.117.151.27,5F59NQ5GW96,Consumer,Mixco,Guatemala,Guatemala,Furniture,Pet Supplies,Boho Macrame Wall Hanging,6,0.2,$400.80,178.769
+250,1/7/2025,4/6/2024,Economy,Male,243.118.149.243,4C53PU2RN47,Corporate,Albury,New South Wales,Australia,Office Supplies,Books,Whimsical Unicorn Night Light,7,0,$36.62,178.71
+251,10/10/2024,6/7/2024,Next-day,Female,170.57.21.124,9J14HG4EQ78,Corporate,London,England,United Kingdom,Furniture,Clothing,Playful Emoji Pillow,3,0.25,$323.46,178.63
+252,12/16/2024,1/25/2025,Economy,Male,203.41.59.165,5XY3W69UE96,Corporate,Mexico City,Distrito Federal,Mexico,Office Supplies,Electronics,Boho Macrame Wall Tapestry,8,0.2,$713.23,178.618
+253,2/2/2025,9/3/2024,Express,Polygender,127.60.195.174,8JA8P50JM01,Consumer,Johannesburg,Gauteng,South Africa,Office Supplies,Electronics,Dainty Rose Gold Hoop Earrings,4,0.2,$18.36,178.56
+254,1/18/2025,2/22/2024,Next-day,Male,254.124.222.235,6WG2X43CY29,Consumer,Port Elizabeth,Eastern Cape,South Africa,Furniture,Pet Supplies,Trendy Neon Sign,1,0,$70.08,178.49
+255,1/27/2025,2/23/2024,Express,Male,103.252.87.1,5X08JT9XC27,Consumer,Rome,Lazio,Italy,Furniture,Pet Supplies,Sophisticated Leather Journal,7,0,$133.39,178.48
+256,3/3/2024,1/15/2025,Express,Male,49.101.77.42,1T84MG1FM84,Home Office,Omaha,Nebraska,United States,Office Supplies,Beauty Products,Chic Marble Coaster Set,6,0,$100.73,36.51
+257,2/15/2025,4/7/2024,Standard,Female,164.217.199.136,9HK6U54HQ20,Corporate,Reynosa,Tamaulipas,Mexico,Technology,Books,Classic Leather Passport Cover,5,0.15,$301.47,178.371
+258,8/3/2024,4/12/2024,Economy,Female,255.174.86.197,8HK0EJ5GR74,Home Office,Mashhad,Razavi Khorasan,Iran,Furniture,Sports Equipment,Whimsical Ceramic Mug,8,0,"$1,484.16",178.35
+259,10/11/2024,10/25/2024,Next-day,Female,226.156.172.126,5F15YK8GF83,Corporate,Ilopango,San Salvador,El Salvador,Technology,Beauty Products,Stylish Faux Fur Throw,7,0,$20.15,178.321
+260,4/12/2024,5/31/2024,Standard,Male,71.250.65.129,2MR7YK7UM33,Home Office,Torbali,Izmir,Turkey,Office Supplies,Pet Supplies,Stylish Faux Fur Throw,2,0.1,-$260.62,178.3
+261,10/25/2024,1/8/2025,Standard,Male,101.15.81.203,5J21Q36PA14,Home Office,Morelia,Michoacán,Mexico,Furniture,Beauty Products,Bold Graphic Print Poster,6,0,$168.72,178.21
+262,4/15/2024,4/21/2024,Standard,Polygender,145.131.144.8,2D26UT0FJ22,Consumer,Bhiwandi,Maharashtra,India,Furniture,Clothing,Bohemian Beaded Bracelet,5,0.1,$481.05,178.04
+263,9/15/2024,2/8/2025,Standard,Female,160.222.237.68,2TU3PD1YC97,Home Office,Palmerston North,Manawatu-Wanganui,New Zealand,Technology,Pet Supplies,Playful Cactus Print Pillow,8,0.07,$495.84,177.92
+264,11/6/2024,10/13/2024,Express,Female,33.141.151.50,6YV2PP7DV46,Corporate,Omaha,Nebraska,United States,Technology,Toys,Whimsical Ceramic Mug,2,0,$136.08,31.54
+265,1/5/2025,11/23/2024,Express,Polygender,46.72.73.71,7R04UX4JX33,Home Office,Kaifeng,Henan,China,Technology,Home Decor,Elegant Sapphire Necklace,7,0,$38.43,177.72
+266,5/23/2024,10/7/2024,Standard,Male,26.184.81.70,5A50QD3CA86,Home Office,Omaha,Nebraska,United States,Technology,Toys,Charming Floral Tea Cup Set,14,0.002,$387.57,28.95
+267,11/20/2024,2/17/2025,Next-day,Female,22.232.124.195,3QU9UC9NE02,Home Office,New York City,New York,United States,Office Supplies,Outdoor Gear,Artistic Hand-Painted Plate,2,0,$8.00,22.93
+268,7/11/2024,8/7/2024,Economy,Female,1.246.156.3,9FA9TK7FF41,Consumer,Auckland,Auckland,New Zealand,Technology,Home Decor,Chic Rose Gold Earrings,2,0.1,-$306.22,177.36
+269,8/8/2024,11/23/2024,Express,Female,255.84.186.29,3D25PR5UD07,Consumer,Caloundra,Queensland,Australia,Furniture,Toys,Playful Cactus Print Pillow,4,0.5,$408.88,177.32
+270,4/11/2024,8/26/2024,Next-day,Female,89.193.28.140,7J30GP7ED57,Home Office,Abbotsford,British Columbia,Canada,Furniture,Sports Equipment,Whimsical Unicorn Night Light,10,0,$31.20,18.7
+271,8/7/2024,3/3/2024,Express,Female,193.9.23.121,5T62RW7KT70,Consumer,Abbotsford,British Columbia,Canada,Technology,Beauty Products,Cozy Cable Knit Blanket,4,0,$16.32,12.43
+272,8/2/2024,11/8/2024,Economy,Female,91.252.179.141,9MH1TP2VW51,Home Office,Villa Alemana,Valparaíso,Chile,Furniture,Beauty Products,Boho Macrame Wall Hanging,6,0,$190.92,177.153
+273,6/22/2024,12/8/2024,Economy,Male,185.121.199.165,9VJ5CK9PU12,Corporate,Omaha,Nebraska,United States,Office Supplies,Outdoor Gear,Timeless Diamond Stud Earrings,5,0.2,$41.99,11.99
+274,4/12/2024,7/30/2024,Express,Male,171.250.52.69,5JG1EU9WW44,Consumer,Sydney,New South Wales,Australia,Furniture,Sports Equipment,Boho Macrame Wall Hanging,5,0,$302.73,177.07
+275,2/1/2025,1/9/2025,Next-day,Male,181.200.79.32,1PT9M53YH00,Consumer,Lawrence,Massachusetts,United States,Technology,Beauty Products,Artistic Ceramic Sculpture,6,0,$16.96,7.64
+276,2/20/2024,5/12/2024,Next-day,Female,255.116.109.244,8HV6X62FF66,Corporate,Tlalnepantla,México,Mexico,Office Supplies,Pet Supplies,Vintage Camera Lens Necklace,4,0,$300.75,177.044
+277,6/1/2024,1/12/2025,Standard,Female,198.168.176.162,7DH7WU4NM28,Corporate,São Gonçalo,Rio de Janeiro,Brazil,Furniture,Home Decor,Eco-Friendly Bamboo Cutting Board,7,0,$0.00,176.878
+278,12/23/2024,9/10/2024,Economy,Male,29.239.208.136,2FV4T66DQ57,Home Office,Sydney,New South Wales,Australia,Office Supplies,Pet Supplies,Coastal Nautical Rope Mirror,13,0,$282.13,176.85
+279,7/31/2024,8/23/2024,Economy,Male,183.209.236.216,2CH5A75NK43,Consumer,Abbotsford,British Columbia,Canada,Technology,Home Decor,Edgy Skull Print Shower Curtain,2,0,$7.92,4.72
+280,1/24/2025,11/5/2024,Economy,Male,239.27.91.41,3HC1KT6DP17,Home Office,Singapore,Singapore,Singapore,Furniture,Outdoor Gear,Playful Animal Print Rug,2,0.2,$166.26,176.63
+281,7/22/2024,10/12/2024,Standard,Female,96.215.246.168,4CQ7EJ2MA38,Home Office,Philadelphia,Pennsylvania,United States,Office Supplies,Home Decor,Vintage-Inspired Rotary Phone,2,0.5,$1.50,2.21
+282,12/13/2024,3/31/2024,Standard,Male,48.202.50.138,7Q42FF4EG50,Home Office,Katowice,Silesia,Poland,Office Supplies,Electronics,Dainty Gold Pendant Necklace,2,0,$416.22,176.54
+283,9/12/2024,8/6/2024,Standard,Male,173.220.43.222,1MH9F17HQ22,Consumer,Guantánamo,Guantánamo,Cuba,Technology,Clothing,Artistic Ceramic Sculpture,2,0.002,$171.72,176.465
+284,9/21/2024,9/20/2024,Economy,Male,86.128.155.183,8QD2KN6PX78,Home Office,Nairobi,Nairobi,Kenya,Office Supplies,Beauty Products,Trendy Terrarium Kit,2,0,$318.84,176.43
+285,2/28/2024,11/4/2024,Express,Male,26.21.46.11,9CA9GT3FY38,Corporate,Whangarei,Northland,New Zealand,Office Supplies,Clothing,Unique Hand-Blown Glass Vase,4,0,$238.68,176.37
+286,11/3/2024,9/13/2024,Standard,Male,251.226.203.228,5VM3K40KR17,Consumer,La Romana,La Romana,Dominican Republic,Furniture,Clothing,Sleek Stainless Steel Water Bottle,3,0,$103.61,176.206
+287,5/21/2024,2/3/2025,Express,Female,55.59.115.190,9UV7U87AP39,Consumer,Cambridge,England,United Kingdom,Technology,Electronics,Playful Animal Print Rug,6,0,$451.08,176.19
+288,5/3/2024,7/11/2024,Economy,Female,128.77.31.211,3X93NJ2AA49,Consumer,Carora,Lara,Venezuela,Furniture,Clothing,Timeless Pearl Drop Earrings,3,0,-$306.01,176.178
+289,5/24/2024,2/15/2025,Express,Male,123.232.205.197,7N62VN1NY23,Home Office,Orihuela,Valenciana,Spain,Furniture,Outdoor Gear,Funky Geometric Wall Art,4,0.4,$479.88,176.12
+290,12/3/2024,10/6/2024,Next-day,Male,105.21.207.55,9WD4PU9XM16,Consumer,Augsburg,Bavaria,Germany,Furniture,Home Decor,Modern Hanging Plant Holder,3,0,-$41.80,176.06
+291,6/4/2024,10/3/2024,Next-day,Male,77.162.20.217,3NU7Q70KT71,Home Office,Omaha,Nebraska,United States,Office Supplies,Sports Equipment,Art Deco Brass Candle Holder,2,0,$5.07,2.13
+292,4/12/2024,6/23/2024,Express,Male,13.252.130.142,5Q57MM0MM57,Home Office,Fasa,Fars,Iran,Furniture,Books,Playful Emoji Pillow,4,0.4,$449.88,176.01
+293,1/10/2025,1/25/2025,Standard,Female,211.218.193.196,4FH3N17RQ46,Home Office,San Fernando,San Fernando,Trinidad and Tobago,Furniture,Books,Dainty Gold Pendant Necklace,6,0.15,$996.60,175.993
+294,2/2/2025,9/17/2024,Standard,Female,140.97.102.36,1AG8WC7AA00,Corporate,Newcastle,New South Wales,Australia,Furniture,Pet Supplies,Funky Geometric Wall Art,5,0,$243.48,175.98
+295,1/12/2025,7/10/2024,Next-day,Male,4.111.46.103,4N86KX4UM41,Consumer,Mainz,Rhineland-Palatinate,Germany,Furniture,Outdoor Gear,Whimsical Starburst Wall Art,3,0,$259.74,175.94
+296,10/3/2024,2/24/2024,Economy,Female,221.33.32.245,2MG3AX4GC13,Corporate,Mérida,Yucatán,Mexico,Office Supplies,Clothing,Sustainable Cork Coasters,3,0.15,$120.84,175.74
+297,9/3/2024,12/18/2024,Express,Female,28.89.157.196,5AD3XF0CF92,Consumer,Le Chesnay,Ile-de-France,France,Office Supplies,Outdoor Gear,Chic Velvet Throw Pillow,4,0.1,$206.56,175.73
+298,8/4/2024,11/18/2024,Standard,Male,37.152.161.192,4Y43PJ8WX86,Consumer,Gronau,North Rhine-Westphalia,Germany,Technology,Sports Equipment,Cozy Faux Fur Rug,5,0.17,$198.15,175.7
+299,10/10/2024,1/30/2025,Next-day,Male,58.76.25.153,5DH3D72FV86,Home Office,Newcastle,New South Wales,Australia,Office Supplies,Books,Playful Animal Print Rug,9,0.1,$592.81,175.62
+300,1/30/2025,5/16/2024,Express,Male,211.121.67.141,6J99VC3MD87,Corporate,Bengbu,Anhui,China,Furniture,Sports Equipment,Minimalist Desk Organizer,3,0,$369.54,175.48
+301,3/30/2024,12/3/2024,Express,Male,186.64.71.24,9QE2V90AQ86,Consumer,Manila,National Capital,Philippines,Office Supplies,Beauty Products,Eclectic Woven Throw Blanket,4,0.1,-$286.68,175.45
+302,7/24/2024,11/14/2024,Economy,Male,119.171.95.48,2EC3XV1CD98,Corporate,Manila,National Capital,Philippines,Furniture,Books,Minimalist Desk Organizer,2,0.15,-$28.59,175.43
+303,12/4/2024,9/16/2024,Next-day,Genderfluid,220.11.7.25,8MW5CM7RN40,Home Office,Dublin,Dublin,Ireland,Furniture,Toys,Glamorous Crystal Chandelier,5,0,-$352.80,175.41
+304,8/25/2024,5/11/2024,Economy,Female,104.106.25.161,2FA4CK5VH83,Home Office,Antibes,Provence-Alpes-Côte d'Azur,France,Technology,Home Decor,Industrial Steampunk Desk Lamp,4,0.5,-$175.03,175.36
+305,1/21/2025,1/1/2025,Next-day,Female,160.126.237.84,3HJ0CP3EE37,Home Office,Omaha,Nebraska,United States,Office Supplies,Beauty Products,Sophisticated Silk Scarf,3,0,$0.41,2.04
+306,7/13/2024,11/25/2024,Standard,Male,23.157.123.45,9FQ9UA3FH45,Corporate,Mixco,Guatemala,Guatemala,Office Supplies,Sports Equipment,Bohemian Dreamcatcher Wall Decor,3,0,$496.26,175.199
+307,3/1/2024,2/26/2024,Express,Female,52.93.61.237,1UF8CJ0NQ25,Consumer,Omaha,Nebraska,United States,Furniture,Sports Equipment,Vintage-Inspired Record Player,5,0,$7.06,2
+308,12/22/2024,5/29/2024,Express,Female,199.37.13.190,7VT1JC0VW67,Corporate,Nice,Provence-Alpes-Côte d'Azur,France,Furniture,Outdoor Gear,Rustic Farmhouse Sign,9,0.1,$38.88,174.89
+309,10/18/2024,4/20/2024,Economy,Male,175.214.137.79,4F86K37EM06,Consumer,Mexico City,Distrito Federal,Mexico,Technology,Books,Bold Striped Beach Towel,9,0.8,-$396.68,174.865
+310,2/10/2025,8/30/2024,Next-day,Male,203.96.81.128,5T79G62TP09,Corporate,Quetzaltenango,Quezaltenango,Guatemala,Office Supplies,Outdoor Gear,Classic Monogrammed Stationery Set,5,0,$239.70,174.853
+311,6/30/2024,9/23/2024,Express,Male,58.71.38.65,1EW6F74HR89,Consumer,Natal,Rio Grande do Norte,Brazil,Furniture,Home Decor,Industrial Steampunk Desk Lamp,6,0,$241.15,174.797
+312,9/25/2024,12/10/2024,Standard,Female,52.136.32.102,1KD3V31AJ46,Corporate,Mixco,Guatemala,Guatemala,Furniture,Sports Equipment,Chic Acrylic Magazine Holder,6,0.1,$448.92,174.678
+313,9/26/2024,2/27/2024,Express,Female,78.199.123.81,3WU5HM9VC87,Consumer,Concarneau,Brittany,France,Technology,Home Decor,Modern Geometric Plant Stand,3,0.2,$117.72,174.41
+314,6/21/2024,8/17/2024,Economy,Agender,95.154.190.142,6PA3VV7RG20,Home Office,Omaha,Nebraska,United States,Office Supplies,Kitchen Appliances,Cozy Faux Fur Rug,3,0.47,$8.45,1.93
+315,10/5/2024,4/1/2024,Economy,Male,230.185.101.132,5A81HD2CP06,Consumer,Cape Town,Western Cape,South Africa,Furniture,Electronics,Boho Macrame Wall Tapestry,4,0.15,$292.80,173.83
+316,6/12/2024,2/10/2025,Express,Non-binary,191.149.146.17,5T95E28QX31,Home Office,Trier,Rhineland-Palatinate,Germany,Furniture,Kitchen Appliances,Vintage Typewriter Key Necklace,10,0.15,$237.60,173.73
+317,8/18/2024,6/10/2024,Express,Male,28.13.60.30,5V77E02MU26,Consumer,Morelia,Michoacán,Mexico,Office Supplies,Clothing,Eco-Friendly Reusable Straw Set,3,0,$120.57,173.682
+318,12/31/2024,1/3/2025,Next-day,Male,107.196.106.200,6U98MQ8YW70,Consumer,Matanzas,Matanzas,Cuba,Office Supplies,Books,Industrial Metal Wall Clock,4,0.15,$172.40,173.645
+319,8/28/2024,3/8/2024,Economy,Male,52.190.39.53,8YT5D04KC05,Home Office,Ghent,East Flanders,Belgium,Furniture,Kitchen Appliances,Sleek Aluminum Water Bottle,12,0,$315.72,173.24
+320,6/24/2024,9/13/2024,Economy,Female,34.74.138.170,7UC0N06WK62,Home Office,Shiraz,Fars,Iran,Furniture,Books,Industrial Pipe Coat Rack,14,0,$650.58,173.19
+321,2/16/2025,5/23/2024,Economy,Male,161.241.177.250,6H30PD5RE57,Consumer,West Jordan,Utah,United States,Technology,Kitchen Appliances,Minimalist Glass Vase,2,0,$9.99,1.82
+322,2/23/2024,10/6/2024,Express,Female,69.54.56.196,8K49H90TU34,Corporate,Chihuahua,Chihuahua,Mexico,Furniture,Clothing,Quirky Pop Art Print,6,0.07,$110.40,173.13
+323,11/2/2024,6/1/2024,Economy,Female,159.111.86.135,8G19YP4PD72,Home Office,Omaha,Nebraska,United States,Office Supplies,Outdoor Gear,Charming Floral Tea Towel,3,0,$0.30,1.79
+324,12/9/2024,8/22/2024,Next-day,Female,42.114.76.209,1JD6UM3FV03,Home Office,Wellington,Wellington,New Zealand,Office Supplies,Sports Equipment,Bold Graphic Print Poster,4,0,$437.28,173.02
+325,4/10/2024,8/25/2024,Express,Male,169.147.186.177,8FP8QR7DF70,Corporate,Solingen,North Rhine-Westphalia,Germany,Office Supplies,Toys,Sleek Stainless Steel Water Bottle,7,0,$444.57,173.01
+326,8/20/2024,6/29/2024,Next-day,Female,227.126.39.225,7TK6YW8NH09,Home Office,Palmerston,Northern Territory,Australia,Office Supplies,Home Decor,Minimalist Concrete Coasters,5,0.1,$580.02,173.01
+327,12/25/2024,12/26/2024,Standard,Male,202.129.27.86,6J19AX5QT91,Home Office,Omaha,Nebraska,United States,Office Supplies,Outdoor Gear,Chic Velvet Throw Pillow,3,0.1,$8.64,1.25
+328,3/2/2024,12/18/2024,Express,Male,106.157.31.71,3XC3AG1HE06,Consumer,Marrakech,Marrakech-Tensift-El Haouz,Morocco,Office Supplies,Electronics,Timeless Diamond Stud Earrings,6,0,$203.40,172.91
+329,5/15/2024,11/20/2024,Standard,Female,250.0.7.140,5PQ8NM5TX48,Home Office,Cologne,North Rhine-Westphalia,Germany,Furniture,Home Decor,Chic Velvet Throw Pillow,8,0.1,$87.84,172.82
+330,1/25/2025,10/18/2024,Economy,Male,68.182.201.102,7R96UU5WP34,Consumer,Reading,England,United Kingdom,Furniture,Electronics,Sustainable Cork Coasters,2,0.002,$140.16,172.78
+331,12/7/2024,12/21/2024,Standard,Female,168.192.32.247,6DA8E86AE88,Home Office,Cancún,Quintana Roo,Mexico,Furniture,Pet Supplies,Dainty Silver Charm Bracelet,7,0,$236.41,172.693
+332,4/9/2024,6/25/2024,Economy,Agender,243.163.184.9,7NK8XV2CM73,Consumer,Saint-Brieuc,Brittany,France,Technology,Kitchen Appliances,Dainty Gold Pendant Necklace,6,0,$214.74,172.69
+333,5/9/2024,11/13/2024,Next-day,Female,18.14.97.104,5X03PP9KN20,Home Office,Newcastle,New South Wales,Australia,Furniture,Home Decor,Whimsical Starburst Wall Art,4,0,$139.32,172.64
+334,8/8/2024,7/19/2024,Express,Male,101.53.102.178,9ME2UJ8PG92,Home Office,Noblesville,Indiana,United States,Furniture,Kitchen Appliances,Timeless Diamond Stud Earrings,6,0,$241.10,228.95
+335,3/28/2024,12/23/2024,Standard,Male,242.49.233.67,2C94UC1YC84,Corporate,Barakaldo,Basque Country,Spain,Technology,Books,Eclectic Patchwork Quilt,4,0,$124.84,172.48
+336,7/15/2024,3/26/2024,Standard,Male,181.249.79.59,8RU4CY1KE06,Corporate,Xinshi,Hubei,China,Furniture,Clothing,Eclectic Moroccan Pouf,9,0,$656.64,172.32
+337,5/28/2024,4/25/2024,Standard,Female,39.6.218.137,7W41DX9YC98,Home Office,Katowice,Silesia,Poland,Office Supplies,Kitchen Appliances,Playful Cactus Print Pillow,8,0,$406.56,172.29
+338,5/15/2024,2/17/2025,Express,Female,7.78.69.196,7QY2Q16EK38,Home Office,Sofia,Sofiya-Grad,Bulgaria,Technology,Beauty Products,Timeless Pearl Necklace,2,0.5,$391.14,172.29
+339,5/29/2024,3/25/2024,Economy,Female,165.255.43.4,1N44A65AM83,Corporate,Depok,Yogyakarta,Indonesia,Technology,Sports Equipment,Eclectic Patchwork Quilt,9,0,-$429.39,172.27
+340,11/28/2024,6/4/2024,Express,Female,82.57.47.83,2JJ7YC5NX24,Consumer,Lucknow,Uttar Pradesh,India,Furniture,Home Decor,Sustainable Bamboo Utensil Set,5,0.1,$100.80,172.19
+341,1/24/2025,8/15/2024,Economy,Male,17.18.197.177,5R01G30KD50,Home Office,Kryvyy Rih,Dnipropetrovs'k,Ukraine,Office Supplies,Beauty Products,Minimalist Concrete Coasters,8,0.1,$389.52,172.16
+342,12/25/2024,5/25/2024,Next-day,Female,129.119.219.217,1H18PF8GY90,Consumer,Culiacán,Sinaloa,Mexico,Technology,Pet Supplies,Art Deco Velvet Armchair,5,0.2,$472.13,172.128
+343,6/12/2024,10/12/2024,Next-day,Female,41.55.38.91,8UD0A83YW72,Consumer,Seattle,Washington,United States,Technology,Pet Supplies,Vintage-Inspired Globe Bar Cart,3,0.2,$35.68,34.48
+344,6/18/2024,8/21/2024,Next-day,Female,164.44.136.113,9V34PN6EG67,Consumer,Cachan,Ile-de-France,France,Office Supplies,Toys,Trendy Succulent Planter,7,0.7,$221.07,171.99
+345,4/2/2024,5/27/2024,Economy,Male,234.158.108.111,4QA8ER9FG50,Corporate,Auckland,Auckland,New Zealand,Technology,Home Decor,Elegant Sapphire Necklace,2,0,-$263.20,171.98
+346,12/2/2024,10/14/2024,Next-day,Female,155.83.187.224,7J56EK7XY54,Corporate,Carlisle,England,United Kingdom,Technology,Electronics,Bohemian Fringe Hammock,4,0.07,$36.12,171.96
+347,8/29/2024,2/3/2025,Next-day,Male,133.140.7.251,5AT8Q14AV55,Corporate,Wetzlar,Hesse,Germany,Technology,Clothing,Quirky Cat Print Tote Bag,3,0.15,$420.39,171.89
+348,1/24/2025,4/18/2024,Next-day,Female,125.183.164.136,8FG6TP4GY84,Home Office,Casablanca,Grand Casablanca,Morocco,Office Supplies,Outdoor Gear,Glamorous Gold Bar Cart,4,0.1,$209.52,171.74
+349,12/6/2024,6/26/2024,Express,Male,59.211.15.189,2AW8T73TT71,Corporate,Palatine,Illinois,United States,Furniture,Books,Rustic Wooden Picture Frame,7,0,$23.26,21.6
+350,5/13/2024,7/13/2024,Next-day,Female,198.35.174.21,9R20DR4VQ31,Consumer,Montenegro,Quindío,Colombia,Office Supplies,Beauty Products,Eclectic Woven Throw Blanket,5,0,$887.60,171.565
+351,11/3/2024,3/5/2024,Express,Female,191.97.3.173,4Y99DJ0QC32,Consumer,Manila,National Capital,Philippines,Furniture,Electronics,Edgy Skull Print Shower Curtain,8,0,$822.66,171.36
+352,2/20/2024,11/14/2024,Express,Female,236.33.153.255,8PR4PN8AT89,Consumer,Dallas,Texas,United States,Office Supplies,Books,Chic Marble Serving Tray,9,0,$31.00,8.15
+353,10/29/2024,5/7/2024,Standard,Male,89.138.196.118,9FY3P58CX18,Consumer,San Francisco,California,United States,Technology,Books,Timeless Pearl Necklace,3,0,$17.34,7.99
+354,3/27/2024,3/24/2024,Next-day,Male,12.170.208.185,7W23XF7HH68,Corporate,Ipoh,Perak,Malaysia,Office Supplies,Electronics,Industrial Metal Wall Clock,5,0.2,$628.50,171.13
+355,12/17/2024,5/23/2024,Economy,Female,0.14.98.6,6AP9QA4DV89,Corporate,Xiaogan,Hubei,China,Furniture,Sports Equipment,Chic Marble Serving Tray,4,0,$418.92,171.05
+356,5/5/2024,12/25/2024,Standard,Female,13.76.252.11,8DN2EY7RX11,Corporate,Yuci,Shanxi,China,Furniture,Books,Retro Vintage Film Camera,3,0,$225.09,170.99
+357,11/5/2024,8/17/2024,Next-day,Male,106.150.78.24,5F06K26PF41,Consumer,Boulogne-Billancourt,Ile-de-France,France,Office Supplies,Home Decor,Trendy Canvas Tote Bag,6,0,$37.48,170.95
+358,5/13/2024,4/4/2024,Economy,Male,90.154.199.123,8E06G31YQ78,Corporate,Makhachkala,Dagestan,Russia,Furniture,Home Decor,Trendy Succulent Planter,6,0.1,$318.42,170.85
+359,12/24/2024,2/26/2024,Express,Male,168.97.231.218,4KU2WG4FX20,Home Office,Gongzhuling,Jilin,China,Furniture,Electronics,Elegant Sapphire Necklace,7,0,$248.64,170.77
+360,3/4/2024,4/8/2024,Express,Male,151.222.216.85,8G26V37CM13,Corporate,Devonport,Tasmania,Australia,Technology,Sports Equipment,Rustic Woodland Wall Art,4,0.17,$55.08,170.7
+361,6/15/2024,10/18/2024,Next-day,Female,48.96.180.142,1D85T35UM82,Consumer,Leipzig,Saxony,Germany,Office Supplies,Electronics,Sleek Stainless Steel Water Bottle,5,0,$227.85,170.66
+362,11/18/2024,4/13/2024,Standard,Male,102.178.37.110,6GH4K76MA29,Corporate,Bottrop,North Rhine-Westphalia,Germany,Office Supplies,Clothing,Quirky Cat Print Tote Bag,5,0.2,$68.19,170.61
+363,10/13/2024,1/28/2025,Express,Female,125.211.235.228,2CD5TQ2JV84,Corporate,Jember,Jawa Timur,Indonesia,Furniture,Books,Modern Marble Coaster Set,5,0,$109.62,170.58
+364,1/13/2025,1/4/2025,Next-day,Bigender,207.242.192.105,7YG6D19CU21,Corporate,Ilopango,San Salvador,El Salvador,Technology,Beauty Products,Vintage-Inspired Record Player,3,0.15,$496.26,170.413
+365,8/10/2024,6/29/2024,Economy,Female,19.112.253.94,6P24G13UF43,Consumer,Luoyang,Fujian,China,Furniture,Toys,Stylish Enamel Pin Set,5,0,$135.60,170.38
+366,5/25/2024,10/21/2024,Express,Non-binary,117.42.67.99,8YK3NM4WE08,Home Office,Tlalpan,Distrito Federal,Mexico,Furniture,Sports Equipment,Coastal Seashell Jewelry Box,3,0,$44.08,170.366
+367,10/27/2024,2/1/2025,Economy,Female,46.59.6.107,4VR3Q72NW43,Home Office,Shulan,Jilin,China,Furniture,Kitchen Appliances,Artistic Abstract Painting,6,0.2,$45.00,170.36
+368,8/6/2024,10/12/2024,Express,Male,101.105.177.240,6PW9UR4WJ79,Home Office,Ulm,Baden-Württemberg,Germany,Technology,Beauty Products,Whimsical Fairy Lights,3,0,$259.59,170.12
+369,9/2/2024,10/23/2024,Express,Male,76.182.194.231,8UT0E76WP46,Corporate,Sheffield,England,United Kingdom,Furniture,Kitchen Appliances,Sleek Glass Water Pitcher,6,0,-$686.97,170.11
+370,1/7/2025,9/30/2024,Next-day,Female,86.166.11.197,9CK6QM2KM96,Corporate,Kermanshah,Kermanshah,Iran,Furniture,Toys,Quirky Novelty Socks,2,0,$386.34,170.03
+371,9/21/2024,6/22/2024,Next-day,Male,77.143.191.32,7KE7R71WF95,Consumer,Monterrey,Nuevo León,Mexico,Office Supplies,Books,Edgy Leather Cuff Bracelet,5,0.4,$275.70,169.981
+372,1/20/2025,9/18/2024,Next-day,Male,83.72.109.4,8RJ1K16DR26,Corporate,Ensenada,Baja California,Mexico,Office Supplies,Electronics,Bold Graphic Print Poster,7,0,$574.14,169.965
+373,8/23/2024,12/8/2024,Express,Male,113.52.21.26,8VP5NE4KN53,Corporate,Reynosa,Tamaulipas,Mexico,Technology,Outdoor Gear,Modern Hanging Plant Holder,9,0.07,$52.27,169.925
+374,10/17/2024,10/24/2024,Economy,Female,211.4.164.40,3NQ8YW6YU93,Home Office,Guangzhou,Guangdong,China,Furniture,Books,Trendy Neon Sign,9,0,$609.12,169.9
+375,9/6/2024,4/19/2024,Express,Female,184.94.231.24,1YQ2RV5DF13,Consumer,Gongzhuling,Jilin,China,Furniture,Outdoor Gear,Elegant Sapphire Necklace,5,0.2,$190.95,169.8
+376,2/4/2025,10/22/2024,Express,Genderqueer,237.72.159.239,5EM1AP9RH52,Home Office,Pune,Maharashtra,India,Furniture,Clothing,Industrial Pipe Shelving Unit,4,0,$878.76,169.79
+377,6/25/2024,3/7/2024,Economy,Agender,98.154.230.235,3DU7YV6YX73,Consumer,Dortmund,North Rhine-Westphalia,Germany,Office Supplies,Toys,Eco-Friendly Bamboo Cutting Board,7,0,$55.23,169.71
+378,5/25/2024,11/20/2024,Standard,Male,226.207.12.55,9AX7W33NH16,Corporate,Guelma,Guelma,Algeria,Technology,Books,Minimalist Desk Organizer,6,0.1,$190.80,169.7
+379,4/13/2024,12/18/2024,Next-day,Male,150.60.115.112,5X19N51DC72,Home Office,Singapore,Singapore,Singapore,Office Supplies,Pet Supplies,Playful Animal Print Rug,5,0,$55.05,169.69
+380,1/20/2025,9/17/2024,Next-day,Agender,31.84.3.46,1G89JM5GW56,Consumer,Soyapango,San Salvador,El Salvador,Technology,Home Decor,Luxury Leather Wallet,5,0.55,$377.34,169.684
+381,12/21/2024,9/1/2024,Standard,Polygender,72.233.150.217,8N33AJ9PM65,Corporate,Stockholm,Stockholm,Sweden,Technology,Kitchen Appliances,Sophisticated Leather Journal,4,0,-$655.86,169.62
+382,4/19/2024,3/12/2024,Economy,Polygender,177.184.120.7,5AR2KM6DP48,Home Office,Liaocheng,Shandong,China,Technology,Kitchen Appliances,Bold Graphic Print Poster,14,0,"$1,134.84",169.57
+383,5/24/2024,6/14/2024,Next-day,Polygender,58.249.158.43,7T90VH8YU18,Corporate,Monterrey,Nuevo León,Mexico,Furniture,Electronics,Vintage Typewriter Key Necklace,8,0,$706.06,169.505
+384,6/24/2024,3/22/2024,Express,Female,66.1.55.141,9AM1R30MG14,Home Office,San Francisco,California,United States,Office Supplies,Clothing,Modern Geometric Plant Stand,7,0,$25.48,6.12
+385,12/26/2024,10/25/2024,Express,Male,232.118.141.51,3C05K44QT86,Home Office,Estelí,Estelí,Nicaragua,Office Supplies,Pet Supplies,Glamorous Crystal Chandelier,7,0.1,$426.58,169.403
+386,8/21/2024,4/21/2024,Next-day,Male,150.106.255.79,6MX8FM3AJ79,Corporate,Puebla,Puebla,Mexico,Office Supplies,Home Decor,Vintage-Inspired Record Player,7,0,$318.50,169.216
+387,8/11/2024,2/12/2025,Express,Polygender,134.222.191.127,4YK7GR8TN06,Consumer,Innsbruck,Tyrol,Austria,Furniture,Toys,Elegant Sapphire Necklace,4,0,$360.48,169.2
+388,3/5/2024,4/19/2024,Next-day,Genderqueer,53.78.229.187,4U13HC5RD10,Corporate,Seville,Andalusía,Spain,Office Supplies,Pet Supplies,Bold Striped Beach Towel,9,0.47,$178.20,169.12
+389,9/1/2024,1/13/2025,Next-day,Female,20.31.250.56,4QV2T86MY67,Home Office,Philadelphia,Pennsylvania,United States,Technology,Books,Cozy Knit Throw Pillow,2,0,-$15.99,1.78
+390,7/4/2024,6/30/2024,Express,Bigender,183.15.192.123,7VT0ET1YR49,Home Office,Shantou,Guangdong,China,Furniture,Home Decor,Edgy Skull Print Shower Curtain,2,0,$265.02,169.09
+391,7/24/2024,8/13/2024,Next-day,Female,54.86.199.50,3G89MX6NE07,Corporate,Frankfurt,Hesse,Germany,Furniture,Outdoor Gear,Bohemian Dreamcatcher Wall Decor,4,0,$310.80,169.05
+392,4/20/2024,5/18/2024,Economy,Female,110.61.53.184,3CV5HD0YX61,Corporate,Panama City,Panama,Panama,Furniture,Kitchen Appliances,Cozy Faux Fur Rug,6,0.3,-$284.26,169.008
+393,1/22/2025,11/22/2024,Express,Male,126.13.159.103,1CF3UF5WA02,Corporate,Nantes,Pays de la Loire,France,Furniture,Clothing,Sustainable Cork Coasters,2,0.5,$356.14,168.98
+394,7/4/2024,7/21/2024,Express,Male,8.152.7.135,4AH3G03UD18,Consumer,Wellington,Wellington,New Zealand,Office Supplies,Outdoor Gear,Boho Rattan Basket,2,0.2,$536.46,168.88
+395,7/20/2024,12/14/2024,Economy,Female,0.124.246.246,1V78T07DP69,Home Office,Cabo de Santo Agostinho,Pernambuco,Brazil,Office Supplies,Toys,Unique Hand-Blown Glass Vase,5,0,$55.00,168.814
+396,1/20/2025,11/11/2024,Economy,Male,28.164.37.219,1RW6TC9EQ00,Home Office,Grenoble,Auvergne-Rhône-Alpes,France,Technology,Electronics,Luxury Leather Wallet,3,0,$248.04,168.62
+397,6/7/2024,12/24/2024,Economy,Genderqueer,116.11.127.109,4ET0TU7WP59,Corporate,Castrop-Rauxel,North Rhine-Westphalia,Germany,Furniture,Toys,Chic Marble Serving Tray,5,0,$720.75,168.59
+398,4/11/2024,12/23/2024,Express,Polygender,114.132.53.207,5T09U22XR86,Consumer,Samarinda,Kalimantan Timur,Indonesia,Technology,Books,Luxury Leather Wallet,3,0.3,$371.40,168.55
+399,12/29/2024,8/4/2024,Standard,Female,67.166.253.38,9M08JE4PF11,Consumer,Saint-Germain-en-Laye,Ile-de-France,France,Technology,Clothing,Edgy Skull Print Throw Blanket,9,0,$124.90,168.49
+400,9/25/2024,12/19/2024,Express,Female,149.31.13.125,3TD8WQ2QQ65,Home Office,Dhaka,Dhaka,Bangladesh,Furniture,Beauty Products,Retro Vintage Film Camera,8,0.07,$146.64,167.89
+401,11/19/2024,10/16/2024,Economy,Male,112.155.77.21,4TT6HV7TF20,Corporate,Barcelona,Catalonia,Spain,Furniture,Outdoor Gear,Sophisticated Silk Scarf,3,0.25,$110.42,167.78
+402,3/27/2024,8/13/2024,Economy,Male,126.174.10.173,1NK8FK4RT96,Corporate,Baguio City,Cordillera,Philippines,Technology,Electronics,Retro Vinyl Record Storage,5,0,$138.83,167.74
+403,7/25/2024,11/17/2024,Express,Female,1.78.98.206,9M36G83HF11,Home Office,Cuttack,Odisha,India,Furniture,Sports Equipment,Rustic Woodland Wall Art,3,0.1,$102.42,167.66
+404,2/19/2024,7/28/2024,Economy,Genderfluid,185.251.15.135,8WC3QR9VR10,Home Office,Tilburg,North Brabant,Netherlands,Technology,Home Decor,Chic Rose Gold Earrings,10,0.2,"-$1,672.50",167.55
+405,1/2/2025,5/9/2024,Economy,Male,58.112.144.104,7JT8NR7NN40,Home Office,Parla,Madrid,Spain,Furniture,Books,Stylish Engraved Cuff Bracelet,7,0.5,$27.09,167.35
+406,10/2/2024,1/5/2025,Next-day,Female,189.106.12.205,1DY9N28PM42,Home Office,Leeds,England,United Kingdom,Furniture,Electronics,Vintage-Inspired Rotary Phone,5,0.1,$24.30,167.11
+407,8/11/2024,7/2/2024,Express,Female,93.94.103.215,5Y77RP2YJ08,Consumer,Ludhiana,Punjab,India,Office Supplies,Toys,Retro Vinyl Record Storage,9,0,$775.98,166.98
+408,6/1/2024,7/21/2024,Express,Male,190.130.48.201,3JF1EX8WG26,Home Office,Sydney,New South Wales,Australia,Technology,Electronics,Trendy Succulent Planter,4,0,$213.97,166.98
+409,2/24/2024,11/14/2024,Next-day,Female,150.116.154.134,6RT7FN0ME76,Home Office,Dallas,Texas,United States,Furniture,Beauty Products,Playful Cactus Print Pillow,2,0.1,-$3.24,1.12
+410,5/20/2024,7/18/2024,Next-day,Male,160.43.19.44,7HN3YY1RF20,Consumer,Xinzhou,Shanxi,China,Technology,Beauty Products,Modern Concrete Planter,4,0,$434.40,166.93
+411,9/17/2024,11/13/2024,Express,Male,171.31.239.1,5NX2J24WR69,Corporate,Rasht,Gilan,Iran,Technology,Outdoor Gear,Eclectic Patchwork Quilt,8,0.5,$57.60,166.89
+412,8/30/2024,6/29/2024,Economy,Female,32.96.3.197,6KH6E14QM04,Consumer,Seville,Andalusía,Spain,Office Supplies,Sports Equipment,Sleek Stainless Steel Water Bottle,8,0.17,"$1,439.45",166.71
+413,7/10/2024,1/5/2025,Next-day,Non-binary,200.247.25.144,8W41K48YK51,Consumer,Los Angeles,California,United States,Technology,Pet Supplies,Glamorous Gold Bar Cart,3,0,$23.03,34.42
+414,10/16/2024,7/21/2024,Standard,Bigender,176.17.50.22,2GN8UV4VQ54,Corporate,Jakarta,Jakarta,Indonesia,Furniture,Books,Whimsical Unicorn Night Light,6,0.1,-$575.31,166.65
+415,11/25/2024,6/2/2024,Next-day,Agender,241.107.222.95,5H98HX5UH73,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Office Supplies,Toys,Sophisticated Silk Scarf,9,0.3,$21.52,166.56
+416,3/11/2024,7/10/2024,Next-day,Male,131.200.118.250,1FT5JA8DP30,Consumer,La Rochelle,Aquitaine-Limousin-Poitou-Charentes,France,Technology,Sports Equipment,Minimalist Desk Organizer,3,0.15,$9.34,166.45
+417,10/19/2024,3/26/2024,Economy,Male,97.173.23.201,4EP8RF0UP23,Corporate,Cairo,Al Qahirah,Egypt,Furniture,Beauty Products,Sleek Stainless Steel Water Bottle,4,0,$714.00,166.44
+418,8/1/2024,6/27/2024,Next-day,Female,158.21.109.235,7H65GT0UC20,Consumer,Dieppe,Normandy,France,Office Supplies,Beauty Products,Charming Floral Tea Cup Set,8,0,-$15.52,166.39
+419,9/27/2024,9/16/2024,Next-day,Female,40.41.170.132,9GN8RF6CK31,Corporate,Franklin,Massachusetts,United States,Technology,Kitchen Appliances,Modern Marble Coaster Set,1,0,$20.49,9.11
+420,8/27/2024,6/16/2024,Economy,Female,189.182.39.150,9Y68J43KV98,Consumer,Soledad,Atlántico,Colombia,Office Supplies,Books,Vintage Typewriter Key Necklace,3,0,$0.00,166.26
+421,1/29/2025,6/26/2024,Standard,Female,80.111.164.99,5HQ8XQ2KM42,Corporate,Ramat Aviv,Tel Aviv,Israel,Office Supplies,Electronics,Eclectic Patchwork Quilt,2,0.2,$91.62,166.24
+422,5/9/2024,1/13/2025,Economy,Male,254.71.65.151,1C87HM8DM64,Consumer,Jakarta,Jakarta,Indonesia,Furniture,Toys,Vintage-Inspired Record Player,2,0,$288.44,166.24
+423,10/8/2024,7/10/2024,Standard,Female,75.240.136.183,7RK6WE1QY18,Consumer,Khulna,Khulna,Bangladesh,Technology,Kitchen Appliances,Edgy Skull Print Shower Curtain,7,0.2,$752.64,166.17
+424,8/11/2024,3/3/2024,Next-day,Female,229.232.35.23,1YU1K59RF42,Home Office,Paulista,Pernambuco,Brazil,Office Supplies,Outdoor Gear,Glamorous Crystal Chandelier,5,0,$598.80,166.136
+425,10/24/2024,7/20/2024,Standard,Female,227.205.169.141,6MD6A39YM76,Consumer,Wollongong,New South Wales,Australia,Furniture,Electronics,Charming Floral Tea Towel,4,0,$305.28,166.09
+426,7/3/2024,5/8/2024,Standard,Male,218.20.111.117,4RR5Y09CX46,Corporate,Wagga Wagga,New South Wales,Australia,Furniture,Books,Chic Acrylic Magazine Holder,5,0.002,$206.69,166.04
+427,12/19/2024,10/11/2024,Economy,Male,72.218.43.117,1KN2KY9AY25,Home Office,Wagga Wagga,New South Wales,Australia,Technology,Home Decor,Bohemian Fringe Hammock,6,0,$123.35,166.02
+428,12/23/2024,6/28/2024,Standard,Male,167.239.7.244,5YV3Q17XJ85,Consumer,Hamilton,Waikato,New Zealand,Furniture,Beauty Products,Timeless Pearl Necklace,6,0,$568.26,165.92
+429,10/10/2024,3/18/2024,Standard,Female,196.102.28.161,4HK6RU5VY23,Corporate,Lunel,Languedoc-Roussillon-Midi-Pyrénées,France,Office Supplies,Sports Equipment,Eco-Friendly Bamboo Cutting Board,1,0.07,$137.99,165.91
+430,10/8/2024,9/8/2024,Economy,Male,24.255.172.137,5T35WE1FD14,Home Office,Cajazeiras,Paraíba,Brazil,Technology,Kitchen Appliances,Glamorous Crystal Candle Holder,4,0.1,$177.45,165.709
+431,6/21/2024,1/5/2025,Next-day,Female,40.13.89.180,7A61VH0DK91,Home Office,Whangarei,Northland,New Zealand,Furniture,Books,Sustainable Cork Coasters,8,0.2,$175.20,165.5
+432,5/16/2024,4/2/2024,Standard,Female,254.206.207.108,5K53UY3MR24,Consumer,Laiyang,Shandong,China,Furniture,Beauty Products,Charming Vintage Tea Set,6,0,$534.78,165.47
+433,2/5/2025,4/22/2024,Next-day,Male,12.130.236.38,8D52KK1KV94,Consumer,Pretoria,Gauteng,South Africa,Furniture,Sports Equipment,Sustainable Cork Coasters,6,0,$791.46,165.46
+434,12/27/2024,11/3/2024,Standard,Male,249.101.164.42,1VV9NG5MP40,Home Office,Las Vegas,Nevada,United States,Office Supplies,Outdoor Gear,Glamorous Crystal Chandelier,4,0.1,$8.39,2.74
+435,6/3/2024,4/29/2024,Express,Male,77.125.219.200,5TF3AD5NT52,Corporate,Tangier,Tanger-Tétouan,Morocco,Technology,Clothing,Vintage Camera Lens Necklace,2,0.2,$377.28,165.38
+436,8/15/2024,2/1/2025,Express,Female,124.65.12.189,9PU7HY9EK64,Consumer,Guyancourt,Ile-de-France,France,Office Supplies,Books,Unique Hand-Carved Wooden Bowl,7,0,$843.99,165.31
+437,8/11/2024,7/15/2024,Standard,Male,48.143.213.163,3XP6EY5PR72,Corporate,Treviso,Veneto,Italy,Office Supplies,Beauty Products,Quirky Cat Print Tote Bag,4,0.15,$106.32,165.3
+438,9/29/2024,4/28/2024,Next-day,Male,27.162.183.204,9GQ1FK9UM04,Consumer,Stockholm,Stockholm,Sweden,Furniture,Beauty Products,Boho Rattan Basket,13,0,"-$1,981.40",165.22
+439,1/19/2025,11/30/2024,Economy,Female,90.221.69.251,1G51JR1NU83,Corporate,San Francisco,California,United States,Technology,Home Decor,Coastal Seashell Decor,2,0.15,$1.67,1.56
+440,7/1/2024,9/19/2024,Express,Female,168.6.217.208,7Q55JC0DC61,Consumer,Sydney,New South Wales,Australia,Technology,Clothing,Trendy Canvas Tote Bag,7,0.2,-$224.60,165.03
+441,9/14/2024,4/8/2024,Express,Genderqueer,119.71.46.77,7GD6QY8JT56,Corporate,Zamora,Castile and León,Spain,Office Supplies,Books,Bohemian Fringe Hammock,5,0.2,$381.75,165
+442,10/8/2024,1/29/2025,Next-day,Male,236.89.192.59,4VT8PF6RG44,Consumer,Los Angeles,California,United States,Technology,Beauty Products,Minimalist Desk Organizer,6,0.4,$5.72,1.54
+443,12/2/2024,9/9/2024,Standard,Agender,155.225.99.150,6C92PV1RY75,Corporate,Round Rock,Texas,United States,Furniture,Toys,Coastal Seashell Jewelry Box,3,0.1,-$786.01,253.2
+444,3/4/2024,6/20/2024,Next-day,Genderfluid,219.55.168.179,3U84AW6HV20,Home Office,Lagos,Lagos,Nigeria,Office Supplies,Home Decor,Boho Macrame Wall Hanging,4,0,-$695.17,164.81
+445,7/1/2024,1/31/2025,Next-day,Male,167.194.170.181,6TM1AM1FN10,Consumer,Ninghai,Shandong,China,Technology,Home Decor,Charming Floral Tea Cup Set,2,0,$333.36,164.79
+446,6/29/2024,12/6/2024,Economy,Female,63.133.205.78,5DV5QK1DY24,Consumer,Bogor,Jawa Barat,Indonesia,Furniture,Beauty Products,Charming Vintage Tea Set,7,0,$263.30,164.71
+447,1/13/2025,8/23/2024,Next-day,Male,175.89.56.28,6T20HA6RN33,Corporate,Nancy,Alsace-Champagne-Ardenne-Lorraine,France,Technology,Sports Equipment,Coastal Seashell Decor,5,0,-$24.03,164.68
+448,12/2/2024,3/26/2024,Standard,Female,113.36.182.12,6FF5J29RK78,Corporate,Lille,Nord-Pas-de-Calais-Picardie,France,Furniture,Home Decor,Industrial Pipe Shelving Unit,9,0,-$176.77,164.64
+449,10/8/2024,3/26/2024,Next-day,Male,234.94.223.236,2PQ0HF1FN96,Home Office,Namur,Namur,Belgium,Furniture,Outdoor Gear,Trendy Terrarium Kit,2,0.1,$319.74,164.64
+450,5/21/2024,3/30/2024,Express,Male,239.22.111.99,9F88A96WJ22,Corporate,Singapore,Singapore,Singapore,Office Supplies,Home Decor,Sleek Stainless Steel Water Bottle,7,0.1,$208.32,164.5
+451,8/20/2024,5/11/2024,Next-day,Female,58.186.252.214,5Y21MY4NU94,Consumer,Bello,Antioquia,Colombia,Technology,Books,Artistic Hand-Painted Plate,3,0.1,$411.06,164.447
+452,9/27/2024,12/28/2024,Standard,Male,125.199.180.55,4Y61HN7DA48,Corporate,Chimaltenango,Chimaltenango,Guatemala,Technology,Electronics,Modern Geometric Plant Stand,3,0,$22.38,164.445
+453,8/20/2024,3/18/2024,Economy,Male,49.79.215.96,7X56F86AV66,Corporate,Mixco,Guatemala,Guatemala,Technology,Pet Supplies,Classic Stainless Steel Watch,7,0,$49.70,164.394
+454,9/3/2024,12/23/2024,Economy,Male,177.181.0.145,6A47NU0CJ02,Consumer,San Francisco,California,United States,Technology,Sports Equipment,Edgy Leather Cuff Bracelet,2,0,$252.59,54.96
+455,8/4/2024,8/27/2024,Economy,Female,13.109.53.8,1QY6E79NR61,Consumer,Ninghai,Shandong,China,Furniture,Beauty Products,Rustic Farmhouse Sign,14,0.8,$483.84,164.33
+456,11/3/2024,10/24/2024,Economy,Male,121.153.190.154,5DP5NE1AN61,Corporate,Burnley,England,United Kingdom,Office Supplies,Sports Equipment,Funky Neon Wall Clock,4,0,$394.68,164.16
+457,10/16/2024,3/3/2024,Next-day,Male,107.22.180.104,1EJ1KP3KP81,Corporate,Nagpur,Maharashtra,India,Furniture,Outdoor Gear,Sustainable Bamboo Salad Bowl,3,0,$237.15,164.14
+458,7/16/2024,12/10/2024,Standard,Male,5.225.149.148,6F11JM9KV13,Corporate,El Prat de Llobregat,Catalonia,Spain,Technology,Home Decor,Whimsical Ceramic Mug,5,0.002,$165.74,164.04
+459,12/7/2024,2/3/2025,Next-day,Agender,72.174.199.139,5Q50NJ1EQ38,Home Office,Minneapolis,Minnesota,United States,Furniture,Beauty Products,Boho Rattan Basket,3,0.5,$90.74,30.74
+460,8/12/2024,10/27/2024,Next-day,Male,123.10.217.200,4C15F60XU70,Corporate,Pematangsiantar,Sumatera Utara,Indonesia,Office Supplies,Kitchen Appliances,Charming Floral Tea Cup Set,3,0,-$76.56,164
+461,11/22/2024,9/23/2024,Standard,Genderfluid,216.7.140.215,2D08WM7RY19,Corporate,Albacete,Castile-La Mancha,Spain,Technology,Beauty Products,Sophisticated Leather Laptop Sleeve,5,0,$108.60,163.94
+462,6/11/2024,12/8/2024,Express,Male,81.38.131.91,1FG1M43WC22,Consumer,Round Rock,Texas,United States,Technology,Books,Whimsical Unicorn Night Light,3,0.15,$32.40,28.86
+463,8/18/2024,6/1/2024,Standard,Female,217.84.151.1,7U84WG4VE18,Consumer,San Francisco,California,United States,Technology,Clothing,Modern Marble Coaster Set,2,0.4,$7.01,5.23
+464,1/16/2025,6/1/2024,Economy,Male,111.152.127.146,9DV2HW7XU74,Corporate,Nantes,Pays de la Loire,France,Office Supplies,Books,Retro Vintage Film Camera,3,0,-$68.15,163.74
+465,12/14/2024,2/9/2025,Express,Female,135.194.11.255,4DX1VX1UT89,Consumer,Santa Clara,Villa Clara,Cuba,Furniture,Books,Artistic Abstract Painting,3,0.4,$293.16,163.701
+466,2/26/2024,6/4/2024,Express,Female,29.152.226.117,6KE3TH1XM47,Corporate,Maringá,Parana,Brazil,Office Supplies,Books,Bold Geometric Area Rug,3,0,$224.58,163.695
+467,10/4/2024,5/10/2024,Standard,Female,3.99.88.105,6JT7MQ8QM28,Consumer,Round Rock,Texas,United States,Office Supplies,Beauty Products,Vintage-Inspired Globe Bar Cart,7,0.2,$5.74,3.52
+468,9/1/2024,4/2/2024,Economy,Female,104.208.195.238,2CN1D81DJ34,Consumer,Cairo,Al Qahirah,Egypt,Office Supplies,Clothing,Timeless Diamond Stud Earrings,2,0.4,$140.16,163.5
+469,8/4/2024,3/15/2024,Express,Male,123.116.14.99,7QV4M06VN64,Consumer,Osorno,Los Lagos,Chile,Technology,Pet Supplies,Classic Leather Passport Cover,7,0,$24.22,163.456
+470,7/19/2024,1/11/2025,Standard,Male,181.87.130.117,4W07J07FD41,Home Office,Daqing,Heilongjiang,China,Technology,Books,Bold Striped Beach Towel,7,0,$203.70,163.42
+471,4/10/2024,2/3/2025,Next-day,Non-binary,218.198.124.0,4MQ7GW5KU78,Consumer,Brindisi,Apulia,Italy,Furniture,Pet Supplies,Charming Floral Tea Towel,4,0.4,-$237.58,163.42
+472,9/1/2024,6/24/2024,Express,Female,127.40.85.83,7WX5X39AA68,Corporate,San Francisco,California,United States,Furniture,Beauty Products,Sleek Stainless Steel Water Bottle,2,0.3,$14.83,3.17
+473,5/25/2024,10/23/2024,Economy,Polygender,40.16.68.60,8AU0FQ2QG71,Consumer,Surabaya,Jawa Timur,Indonesia,Office Supplies,Kitchen Appliances,Coastal Seashell Jewelry Box,7,0.2,$136.24,163.3
+474,11/5/2024,3/18/2024,Next-day,Female,238.27.122.54,3F21HD1RK10,Home Office,Monterrey,Nuevo León,Mexico,Office Supplies,Home Decor,Rustic Woodland Wall Art,8,0.1,$254.56,163.281
+475,12/9/2024,3/22/2024,Next-day,Male,41.132.9.109,7GE5QJ6HN71,Corporate,Tijuana,Baja California,Mexico,Office Supplies,Pet Supplies,Edgy Leather Cuff Bracelet,2,0,$12.13,163.26
+476,6/24/2024,6/30/2024,Economy,Female,118.242.47.104,6F94AP6PH21,Corporate,Woking,England,United Kingdom,Office Supplies,Books,Eclectic Patchwork Quilt,5,0,$686.40,163.21
+477,7/30/2024,2/1/2025,Next-day,Male,134.25.9.41,7TJ7PM6TR50,Corporate,Cape Town,Western Cape,South Africa,Furniture,Toys,Industrial Steampunk Desk Lamp,4,0,$129.84,163.07
+478,7/29/2024,4/22/2024,Next-day,Female,218.178.134.32,3Q02UW4EW41,Home Office,Hamburg,Hamburg,Germany,Furniture,Home Decor,Chic Acrylic Magazine Holder,2,0,$247.30,163.07
+479,8/10/2024,1/6/2025,Standard,Male,248.42.93.179,2TT1N48VP66,Corporate,Doncaster,England,United Kingdom,Technology,Electronics,Quirky Cat Print Tote Bag,7,0.15,$153.93,163.05
+480,11/7/2024,1/11/2025,Economy,Female,68.224.53.107,2EA4V52QF83,Home Office,Manila,National Capital,Philippines,Office Supplies,Sports Equipment,Dainty Rose Gold Hoop Earrings,5,0.27,-$976.50,163.02
+481,10/19/2024,1/25/2025,Standard,Male,150.215.37.247,2VN9DQ0RY14,Consumer,New York City,New York,United States,Office Supplies,Electronics,Cozy Faux Fur Rug,3,0,$7.02,1.99
+482,1/10/2025,9/9/2024,Next-day,Male,252.147.223.19,8T55PG6PT90,Consumer,Santa Catarina,Nuevo León,Mexico,Office Supplies,Kitchen Appliances,Artistic Abstract Painting,3,0,$516.06,162.998
+483,11/8/2024,8/28/2024,Standard,Female,75.73.141.139,9J16N68XF26,Consumer,Shantou,Guangdong,China,Office Supplies,Outdoor Gear,Coastal Seashell Decor,10,0,$392.40,162.76
+484,12/8/2024,10/17/2024,Economy,Female,242.73.72.50,9JY8W65PE66,Home Office,Minneapolis,Minnesota,United States,Office Supplies,Books,Vintage Camera Lens Necklace,2,0.17,$5.77,1.48
+485,4/17/2024,12/18/2024,Express,Male,210.130.43.78,1RX7GH3QA09,Consumer,Angers,Pays de la Loire,France,Office Supplies,Toys,Quirky Pop Art Print,4,0,$212.76,162.72
+486,5/30/2024,3/24/2024,Next-day,Genderqueer,203.81.98.202,5G40DX8KD99,Corporate,Annaba,Annaba,Algeria,Technology,Home Decor,Minimalist Wooden Desk Organizer,4,0.1,$55.56,162.67
+487,10/27/2024,1/11/2025,Next-day,Male,143.198.169.93,4VK7E68AR12,Corporate,Medellín,Antioquia,Colombia,Technology,Home Decor,Whimsical Ceramic Mug,7,0.1,$452.76,162.574
+488,3/31/2024,12/31/2024,Standard,Female,184.156.225.78,4QJ0VP3PE88,Consumer,Yangon,Yangon,Myanmar (Burma),Office Supplies,Electronics,Dainty Silver Charm Bracelet,3,0.5,-$81.72,162.56
+489,11/15/2024,4/14/2024,Economy,Female,30.175.39.163,3J48KQ0TW18,Consumer,León,León,Nicaragua,Technology,Home Decor,Retro Polaroid Camera,3,0,$395.94,162.558
+490,5/30/2024,6/1/2024,Next-day,Female,201.164.217.98,6EN0C12FE21,Home Office,Jizan,Jizan,Saudi Arabia,Furniture,Kitchen Appliances,Eclectic Patchwork Quilt,8,0,$53.04,162.51
+491,4/22/2024,3/9/2024,Economy,Female,120.232.107.177,4PJ9CW9GV57,Home Office,New York City,New York,United States,Office Supplies,Toys,Luxury Leather Wallet,2,0,$6.26,1.31
+492,12/11/2024,7/30/2024,Standard,Female,10.223.202.114,4GH7UY8VX63,Corporate,Yuci,Shanxi,China,Furniture,Pet Supplies,Sustainable Cork Coasters,6,0,-$161.96,162.45
+493,12/9/2024,5/11/2024,Standard,Male,161.74.25.32,8XQ7A33CU33,Home Office,Utrecht,Utrecht,Netherlands,Office Supplies,Sports Equipment,Minimalist Wooden Desk Organizer,4,0,-$615.96,162.41
+494,4/30/2024,8/22/2024,Economy,Male,220.141.17.17,7DW0CD4RT60,Home Office,Nagasaki,Nagasaki,Japan,Office Supplies,Sports Equipment,Trendy Neon Sign,10,0,$88.44,162.31
+495,3/15/2024,6/11/2024,Economy,Male,13.22.66.127,6K26QQ1YM48,Corporate,Tehran,Tehran,Iran,Technology,Books,Retro Vinyl Record Storage,4,0.2,$669.72,162.31
+496,2/9/2025,1/12/2025,Next-day,Female,75.217.231.244,2YY0D94TH42,Home Office,San Salvador,San Salvador,El Salvador,Technology,Home Decor,Eco-Friendly Bamboo Cutting Board,2,0.2,$238.12,162.253
+497,12/16/2024,8/7/2024,Next-day,Female,17.82.73.213,2AK6R12TQ08,Home Office,Suzhou,Anhui,China,Technology,Pet Supplies,Retro Polaroid Camera,2,0,$454.62,162.08
+498,4/10/2024,5/27/2024,Economy,Male,126.217.44.179,5XU7EN2RF29,Consumer,Albany,Western Australia,Australia,Office Supplies,Sports Equipment,Retro Vintage Film Camera,9,0.17,$86.32,161.98
+499,1/8/2025,9/20/2024,Next-day,Genderqueer,54.107.193.104,4UF2XD0RW20,Home Office,Avadi,Tamil Nadu,India,Furniture,Electronics,Playful Emoji Pillow,3,0,$210.33,161.95
+500,6/23/2024,12/3/2024,Economy,Female,58.28.66.71,5UX2PV8FU77,Home Office,Bogor,Jawa Barat,Indonesia,Office Supplies,Pet Supplies,Whimsical Unicorn Night Light,5,0.2,$155.46,161.95
+501,4/7/2024,5/23/2024,Economy,Male,229.136.184.223,2GK5JC1HG37,Consumer,Las Pinas,National Capital,Philippines,Furniture,Clothing,Cozy Knit Throw Pillow,5,0,$381.68,161.92
+502,11/15/2024,6/29/2024,Express,Female,80.51.213.81,1Y61VC1WR12,Corporate,Managua,Managua,Nicaragua,Technology,Kitchen Appliances,Bohemian Dreamcatcher Wall Decor,5,0.07,$396.50,161.846
+503,2/15/2025,12/30/2024,Express,Female,190.203.71.213,6TJ7MC0PA18,Corporate,London,England,United Kingdom,Office Supplies,Clothing,Stylish Engraved Cuff Bracelet,5,0,$502.50,161.76
+504,7/20/2024,3/14/2024,Express,Non-binary,225.58.143.79,8NF2UX9EM45,Corporate,Round Rock,Texas,United States,Office Supplies,Toys,Classic Leather Passport Cover,1,0,$0.78,1.14
+505,9/23/2024,2/28/2024,Express,Male,208.54.93.244,7T83NG8JF74,Home Office,Mesa,Arizona,United States,Furniture,Clothing,Trendy Terrarium Kit,2,0.1,-$135.09,26.82
+506,12/12/2024,7/8/2024,Express,Female,70.199.81.202,9AF6VP8DY32,Home Office,Brisbane,Queensland,Australia,Technology,Pet Supplies,Dainty Silver Charm Bracelet,5,0,$54.87,161.63
+507,7/21/2024,11/2/2024,Next-day,Female,106.98.119.236,7G46N72PR55,Home Office,Tulsa,Oklahoma,United States,Office Supplies,Toys,Eco-Friendly Reusable Straw Set,12,0,$23.42,25.22
+508,10/9/2024,12/25/2024,Next-day,Male,128.250.46.203,7H80J68CE85,Home Office,Mexico City,Distrito Federal,Mexico,Furniture,Kitchen Appliances,Modern Hanging Plant Holder,5,0.3,$0.00,161.089
+509,4/9/2024,12/15/2024,Next-day,Male,164.45.255.139,6R87FQ8NW59,Corporate,London,England,United Kingdom,Furniture,Toys,Minimalist Concrete Coasters,4,0.002,$613.84,161.06
+510,7/20/2024,6/28/2024,Next-day,Female,228.51.169.5,8T28GH1UQ01,Corporate,Shah Alam,Selangor,Malaysia,Furniture,Home Decor,Classic Stainless Steel Watch,5,0.25,$215.70,161.05
+511,6/25/2024,3/24/2024,Economy,Male,110.30.129.47,2MU9UQ8NQ88,Home Office,Birmingham,England,United Kingdom,Technology,Clothing,Eco-Friendly Bamboo Cutting Board,6,0,-$161.55,161.04
+512,2/10/2025,3/8/2024,Express,Male,162.228.222.26,3WY7RK5JN00,Consumer,Rach Gia,Kiên Giang,Vietnam,Furniture,Toys,Chic Velvet Throw Pillow,5,0,$676.17,161
+513,4/18/2024,12/28/2024,Economy,Female,98.104.55.30,5HW4P74WW04,Corporate,Baghdad,Baghdad,Iraq,Furniture,Books,Chic Linen Table Runner,12,0,$441.72,160.99
+514,8/2/2024,9/13/2024,Standard,Male,129.113.206.223,2YX2FE4GC39,Consumer,Brisbane,Queensland,Australia,Technology,Pet Supplies,Playful Emoji Pillow,7,0,$228.59,160.66
+515,7/13/2024,3/26/2024,Express,Male,186.65.78.199,1M25MY9JP96,Corporate,Dongguan,Guangdong,China,Office Supplies,Books,Art Deco Glass Decanter,6,0,$420.30,160.54
+516,10/17/2024,7/2/2024,Next-day,Male,0.183.238.150,2GM2Q06WU91,Home Office,Fontainebleau,Ile-de-France,France,Office Supplies,Clothing,Quirky Novelty Socks,9,0,-$0.05,160.41
+517,8/23/2024,1/11/2025,Next-day,Male,105.208.237.131,7QJ3CV9XY07,Corporate,Santa Cruz de la Sierra,Santa Cruz,Bolivia,Furniture,Electronics,Trendy Neon Sign,9,0,$169.20,160.301
+518,7/23/2024,2/20/2024,Next-day,Female,187.155.38.215,2N17ND7WR78,Corporate,Surat,Gujarat,India,Furniture,Toys,Coastal Seashell Decor,4,0.2,$172.08,160.28
+519,8/4/2024,9/29/2024,Standard,Female,182.192.197.232,6T99TC2QX05,Consumer,Donets'k,Donetsk,Ukraine,Office Supplies,Sports Equipment,Timeless Diamond Stud Earrings,14,0,$347.76,160.27
+520,5/25/2024,8/2/2024,Express,Male,116.231.219.183,2R71YR8JP21,Home Office,Tulsa,Oklahoma,United States,Technology,Clothing,Modern Geometric Plant Stand,3,0.1,$38.32,19.06
+521,9/13/2024,1/13/2025,Express,Female,86.176.34.166,3MF0XQ7NN37,Corporate,Houston,Texas,United States,Technology,Home Decor,Eco-Friendly Reusable Straw Set,5,0.5,$26.56,3.62
+522,1/16/2025,5/7/2024,Economy,Female,77.55.124.16,5TN0U22DK53,Corporate,Cardiff,Wales,United Kingdom,Technology,Clothing,Eclectic Moroccan Pouf,2,0.17,$357.00,160.05
+523,9/26/2024,7/6/2024,Economy,Female,7.196.211.40,8QE6QQ8VE07,Corporate,Stockton,California,United States,Technology,Electronics,Retro Polaroid Camera,4,0,$34.74,2.74
+524,3/23/2024,4/4/2024,Economy,Female,216.250.19.206,7WR8D52UQ19,Corporate,Dar es Salaam,Dar Es Salaam,Tanzania,Technology,Sports Equipment,Quirky Novelty Socks,2,0,$379.68,159.8
+525,8/26/2024,8/16/2024,Next-day,Female,127.248.38.105,8R98KU9RD56,Consumer,Managua,Managua,Nicaragua,Technology,Sports Equipment,Minimalist Wooden Desk Organizer,2,0.6,$249.84,159.71
+526,4/4/2024,10/2/2024,Express,Female,207.56.237.254,1YD0MW9AF73,Consumer,San Salvador,San Salvador,El Salvador,Technology,Clothing,Modern Geometric Plant Stand,11,0,$251.71,159.515
+527,6/15/2024,8/31/2024,Standard,Male,69.21.2.14,1RD4TE1EY06,Corporate,Tianjin,Tianjin,China,Furniture,Clothing,Playful Emoji Pillow,5,0.2,$104.25,159.5
+528,8/16/2024,10/14/2024,Next-day,Genderfluid,188.230.7.76,2DW7RT4CK05,Consumer,Riyadh,Ar Riyad,Saudi Arabia,Office Supplies,Home Decor,Glamorous Crystal Chandelier,2,0,$332.88,159.47
+529,10/12/2024,7/7/2024,Standard,Female,91.205.4.136,4QV8KP3EJ77,Corporate,Jakarta,Jakarta,Indonesia,Technology,Beauty Products,Retro Vintage Film Camera,5,0,$337.14,159.38
+530,5/11/2024,10/14/2024,Express,Male,87.149.250.147,8MW6PA6QK99,Corporate,Villeurbanne,Auvergne-Rhône-Alpes,France,Office Supplies,Books,Sleek Stainless Steel Water Bottle,6,0,$604.35,159.34
+531,9/5/2024,10/20/2024,Next-day,Female,48.41.3.255,4AE7KY5XP71,Consumer,Nicolás Romero,México,Mexico,Office Supplies,Electronics,Boho Rattan Basket,4,0,-$8.11,159.301
+532,3/15/2024,12/22/2024,Express,Male,28.118.191.156,7PV3Q83XR82,Home Office,Chililabombwe,Copperbelt,Zambia,Furniture,Kitchen Appliances,Funky Neon Wall Clock,4,0,$0.00,159.27
+533,9/21/2024,7/17/2024,Standard,Female,193.158.225.122,6TA4ME0AK93,Consumer,Singapore,Singapore,Singapore,Technology,Pet Supplies,Dainty Gold Pendant Necklace,3,0.002,$230.31,159.19
+534,11/5/2024,12/6/2024,Economy,Male,42.34.136.195,5YE8P17KQ21,Corporate,Newcastle,New South Wales,Australia,Technology,Home Decor,Stylish Engraved Cuff Bracelet,7,0,$301.81,159.13
+535,5/3/2024,5/11/2024,Next-day,Female,249.143.113.132,4JC7ME4NH38,Corporate,Charlotte,North Carolina,United States,Furniture,Outdoor Gear,Dainty Rose Gold Hoop Earrings,9,0,$1.43,2.35
+536,10/10/2024,7/29/2024,Next-day,Female,168.30.163.44,3V63XU0QG87,Consumer,Singapore,Singapore,Singapore,Technology,Sports Equipment,Rustic Woodland Wall Art,6,0,$321.66,159
+537,12/24/2024,11/25/2024,Standard,Female,78.58.62.87,4FF8PR8KU22,Home Office,Nanterre,Ile-de-France,France,Furniture,Home Decor,Classic Stainless Steel Watch,2,0,$165.75,158.99
+538,11/29/2024,9/13/2024,Express,Female,60.133.96.226,1K18VD6UW02,Home Office,Shihezi,Xinjiang Uygur,China,Technology,Electronics,Industrial Steampunk Desk Lamp,6,0.1,$269.82,158.92
+539,8/27/2024,6/6/2024,Standard,Female,14.15.3.72,2P17GP0DW01,Corporate,Givors,Auvergne-Rhône-Alpes,France,Office Supplies,Home Decor,Funky Geometric Wall Art,3,0,$38.22,158.88
+540,1/19/2025,9/19/2024,Express,Male,76.67.130.27,8DX6GR4ER91,Consumer,Mexico City,Distrito Federal,Mexico,Furniture,Books,Rustic Woodland Wall Art,7,0,$75.63,158.843
+541,9/23/2024,6/24/2024,Economy,Non-binary,102.50.55.128,5EJ8WV7GX67,Corporate,Houston,Texas,United States,Technology,Clothing,Sleek Aluminum Water Bottle,5,0,$9.07,2.33
+542,11/21/2024,1/16/2025,Economy,Male,66.239.169.228,9TV1WN4YX11,Consumer,Carrefour,Ouest,Haiti,Technology,Kitchen Appliances,Cozy Faux Fur Rug,7,0.2,-$527.55,158.588
+543,10/13/2024,1/25/2025,Economy,Male,131.61.15.158,6JJ9A66HT67,Consumer,Schwerin,Mecklenburg-Vorpommern,Germany,Technology,Sports Equipment,Classic Leather Passport Cover,9,0,$260.98,158.54
+544,11/2/2024,7/29/2024,Standard,Male,21.160.123.211,9RD0VJ6PV15,Consumer,Bradford,England,United Kingdom,Office Supplies,Electronics,Funky Neon Wall Clock,8,0,$94.80,158.5
+545,10/11/2024,6/17/2024,Standard,Female,139.42.72.90,1QP7R86UP38,Consumer,Brasov,Brasov,Romania,Furniture,Clothing,Timeless Pearl Necklace,4,0,$33.00,158.43
+546,8/4/2024,7/23/2024,Standard,Male,182.141.172.152,1PK3E99YX46,Corporate,Arbil,Arbil,Iraq,Furniture,Outdoor Gear,Bohemian Fringe Hammock,4,0,$210.60,158.38
+547,1/1/2025,6/6/2024,Economy,Female,231.94.104.146,3AN1VV2WP91,Home Office,Dhaka,Dhaka,Bangladesh,Office Supplies,Sports Equipment,Edgy Skull Print Shower Curtain,5,0,$495.75,158.23
+548,5/9/2024,10/8/2024,Economy,Male,215.32.37.109,3EA8WP6UJ20,Consumer,Stockton,California,United States,Furniture,Home Decor,Bold Geometric Area Rug,2,0,$6.22,1.65
+549,10/28/2024,2/23/2024,Standard,Female,90.48.92.224,9PG8UM5VM21,Consumer,Perth,Western Australia,Australia,Furniture,Pet Supplies,Eclectic Moroccan Pouf,5,0.1,$473.60,158.1
+550,8/16/2024,6/18/2024,Standard,Genderqueer,154.200.213.228,9DC0TD0KD26,Consumer,Brisbane,Queensland,Australia,Office Supplies,Pet Supplies,Chic Rose Gold Earrings,3,0.7,$19.08,158
+551,10/16/2024,5/22/2024,Express,Agender,190.45.27.20,7RJ7Q16AV36,Home Office,Vichy,Auvergne,France,Technology,Pet Supplies,Luxury Leather Wallet,3,0.07,$14.09,157.98
+552,1/11/2025,7/2/2024,Standard,Male,141.10.5.40,1WG8CR5XV31,Home Office,Dortmund,North Rhine-Westphalia,Germany,Office Supplies,Sports Equipment,Edgy Skull Print Throw Blanket,3,0,$509.04,157.74
+553,5/26/2024,4/8/2024,Standard,Female,96.16.110.145,6KH5RU8EM39,Consumer,Munich,Bavaria,Germany,Furniture,Home Decor,Charming Floral Tea Cup Set,7,0,$711.48,157.69
+554,10/19/2024,1/21/2025,Standard,Female,34.162.36.225,9T55MA7FU85,Consumer,Kure,Hiroshima,Japan,Office Supplies,Toys,Dainty Rose Gold Hoop Earrings,7,0,$292.11,157.58
+555,10/3/2024,7/8/2024,Standard,Female,254.64.75.154,3TG3RD5HA24,Corporate,Houston,Texas,United States,Office Supplies,Pet Supplies,Artistic Ceramic Sculpture,5,0,-$9.81,1.42
+556,9/4/2024,9/24/2024,Standard,Male,81.69.111.210,8N65XU2FN10,Home Office,Derby,England,United Kingdom,Furniture,Home Decor,Timeless Pearl Drop Earrings,8,0,$360.48,157.47
+557,12/27/2024,10/2/2024,Express,Male,115.200.114.228,6HC4JN2XQ94,Corporate,Nairobi,Nairobi,Kenya,Furniture,Outdoor Gear,Minimalist Wooden Desk Organizer,1,0.2,$169.68,157.47
+558,3/6/2024,1/6/2025,Standard,Female,43.83.72.252,2P36UW1FR11,Corporate,Quito,Pichincha,Ecuador,Office Supplies,Beauty Products,Whimsical Fairy Lights,4,0,$131.48,157.461
+559,1/17/2025,8/17/2024,Economy,Female,33.213.190.184,7QW3FM7MX59,Home Office,Arnhem,Gelderland,Netherlands,Furniture,Home Decor,Vintage-Inspired Record Player,8,0.47,-$626.52,157.46
+560,3/22/2024,10/22/2024,Economy,Female,86.93.229.175,6T10UN7AT67,Corporate,Brasília,Federal District,Brazil,Furniture,Pet Supplies,Chic Rose Gold Earrings,5,0.2,$444.30,157.406
+561,2/24/2024,4/15/2024,Express,Bigender,122.149.9.121,4MC2MC9PF33,Home Office,Makhachkala,Dagestan,Russia,Furniture,Toys,Eco-Friendly Bamboo Cutting Board,12,0,$273.24,157.36
+562,6/1/2024,8/19/2024,Economy,Female,26.245.245.162,8PV0DA8DH42,Home Office,Paris,Ile-de-France,France,Office Supplies,Clothing,Sophisticated Silk Scarf,7,0.2,$596.05,157.34
+563,6/10/2024,11/5/2024,Next-day,Female,35.108.197.237,9K87XN5MT82,Corporate,Philadelphia,Pennsylvania,United States,Furniture,Clothing,Glamorous Mirrored Tray,3,0.1,-$192.05,28.73
+564,12/16/2024,11/11/2024,Next-day,Female,176.130.7.111,9GF5AW6GF10,Corporate,Dhaka,Dhaka,Bangladesh,Office Supplies,Pet Supplies,Boho Macrame Wall Tapestry,2,0,$140.22,157.14
+565,1/17/2025,8/1/2024,Economy,Male,16.57.7.234,4FY9PM7WT89,Home Office,Cairns,Queensland,Australia,Technology,Toys,Modern Marble Coaster Set,7,0,-$409.63,156.97
+566,10/19/2024,8/22/2024,Next-day,Male,118.48.227.17,8VQ4NU7DP52,Home Office,Leeds,England,United Kingdom,Technology,Toys,Charming Floral Tea Towel,7,0,$34.23,156.84
+567,12/8/2024,11/1/2024,Standard,Male,24.79.132.192,4W46GQ0CW13,Consumer,Tlalpan,Distrito Federal,Mexico,Furniture,Pet Supplies,Industrial Steampunk Desk Lamp,8,0.1,$44.03,156.804
+568,9/17/2024,5/10/2024,Express,Male,110.246.165.143,9A11R81VM53,Home Office,Philadelphia,Pennsylvania,United States,Furniture,Electronics,Industrial Steampunk Desk Lamp,6,0,-$50.39,28.56
+569,12/22/2024,10/22/2024,Standard,Female,75.134.79.207,7E48Q96UV37,Home Office,Aprilia,Lazio,Italy,Technology,Sports Equipment,Dainty Silver Charm Bracelet,2,0,$33.66,156.78
+570,7/23/2024,8/22/2024,Next-day,Male,137.37.93.59,8M30C67WV00,Home Office,Rome,Lazio,Italy,Furniture,Clothing,Timeless Pearl Necklace,3,0.1,$219.42,156.77
+571,1/29/2025,9/2/2024,Standard,Female,19.241.134.225,3KM0GF6FY20,Consumer,Waitakere,Auckland,New Zealand,Furniture,Clothing,Art Deco Velvet Armchair,6,0,$34.92,156.66
+572,11/14/2024,11/22/2024,Standard,Male,91.109.214.152,5F20VC4VJ80,Corporate,Austin,Texas,United States,Office Supplies,Kitchen Appliances,Bohemian Beaded Bracelet,1,0.2,-$2.57,19.89
+573,1/29/2025,10/25/2024,Next-day,Male,212.209.179.246,8N69YK9MQ39,Corporate,Houston,Texas,United States,Office Supplies,Electronics,Retro Vinyl Record Storage,6,0.1,$20.24,13.03
+574,6/2/2024,11/26/2024,Express,Bigender,152.131.174.93,9M24J72EJ90,Corporate,Devonport,Tasmania,Australia,Technology,Home Decor,Classic Leather Passport Cover,14,0,-$56.32,156.62
+575,7/29/2024,6/8/2024,Standard,Male,212.226.124.207,6Y85ER4DE56,Home Office,Dhaka,Dhaka,Bangladesh,Technology,Toys,Chic Linen Table Runner,3,0.17,$311.49,156.61
+576,6/30/2024,4/22/2024,Express,Female,63.100.236.88,7DR9DK8KM94,Consumer,Milpa Alta,Distrito Federal,Mexico,Furniture,Books,Modern Marble Coaster Set,6,0,$50.76,156.514
+577,3/24/2024,11/18/2024,Economy,Male,133.224.253.217,5U92D17QW80,Home Office,Lawrence,Massachusetts,United States,Technology,Clothing,Retro Vinyl Record Storage,2,0,$3.72,2.61
+578,6/23/2024,10/31/2024,Economy,Non-binary,24.214.239.208,1FF2JX1EG64,Home Office,Los Angeles,California,United States,Office Supplies,Books,Modern Marble Coaster Set,3,0.5,$86.39,55.48
+579,3/25/2024,12/2/2024,Next-day,Male,86.47.154.167,9RJ6FJ9DX24,Corporate,Paris,Ile-de-France,France,Technology,Electronics,Eco-Friendly Reusable Straw Set,5,0,$252.80,156.35
+580,12/16/2024,10/19/2024,Next-day,Non-binary,32.62.1.69,7G15YP4QJ18,Corporate,Hanoi,Th? Dô Hà N?i,Vietnam,Furniture,Sports Equipment,Vintage Camera Lens Necklace,3,0.202,-$329.81,156.02
+581,1/5/2025,1/12/2025,Express,Female,136.168.73.119,3D46FT5PP41,Consumer,Allahabad,Uttar Pradesh,India,Office Supplies,Pet Supplies,Boho Macrame Wall Hanging,9,0,$194.94,155.98
+582,2/21/2024,3/28/2024,Next-day,Male,220.137.140.6,8AT8HV8HY11,Consumer,Genk,Limburg,Belgium,Technology,Kitchen Appliances,Artistic Hand-Painted Plate,5,0,$107.85,155.94
+583,5/28/2024,12/17/2024,Express,Genderqueer,8.184.16.22,1HF2P31DJ46,Consumer,Castanhal,Pará,Brazil,Technology,Books,Rustic Wooden Picture Frame,7,0.17,$768.88,155.854
+584,6/15/2024,4/29/2024,Economy,Male,31.27.104.186,5DC2M29EC06,Corporate,Surabaya,Jawa Timur,Indonesia,Office Supplies,Books,Coastal Seashell Decor,4,0,$570.83,155.81
+585,12/13/2024,1/30/2025,Economy,Female,165.246.207.2,4P55JX3AU95,Home Office,Los Angeles,California,United States,Furniture,Toys,Artistic Abstract Painting,11,0,$92.51,27.31
+586,5/17/2024,9/15/2024,Next-day,Female,206.176.156.228,4X72HQ6TN75,Home Office,Brisbane,Queensland,Australia,Furniture,Home Decor,Art Deco Glass Decanter,4,0,-$25.15,155.7
+587,11/28/2024,12/31/2024,Standard,Male,207.95.46.168,5YK7K84MW73,Home Office,Villeurbanne,Auvergne-Rhône-Alpes,France,Furniture,Beauty Products,Sustainable Bamboo Utensil Set,7,0,$190.58,155.69
+588,5/15/2024,6/29/2024,Economy,Non-binary,94.20.40.82,2GV2E73QC09,Consumer,Cleveland,Ohio,United States,Furniture,Sports Equipment,Classic Leather Passport Cover,4,0.2,-$64.94,11.05
+589,11/16/2024,8/5/2024,Standard,Female,145.146.107.34,6W57K15FT00,Corporate,La Spezia,Liguria,Italy,Office Supplies,Books,Quirky Pop Art Print,7,0,$304.08,155.61
+590,11/19/2024,1/19/2025,Economy,Genderfluid,225.54.35.189,5YV9NV8TD72,Home Office,Jiangyan,Jiangsu,China,Technology,Toys,Sophisticated Leather Laptop Sleeve,8,0,$541.44,155.51
+591,9/16/2024,5/10/2024,Economy,Female,110.107.123.116,4YH7P33QD74,Consumer,Los Angeles,California,United States,Technology,Home Decor,Cozy Faux Fur Rug,3,0.1,$22.25,8.23
+592,9/19/2024,8/31/2024,Standard,Genderqueer,92.216.52.76,5DT0GV8QC51,Consumer,Kumasi,Ashanti,Ghana,Office Supplies,Toys,Stylish Engraved Cuff Bracelet,6,0.2,$614.70,155.31
+593,5/30/2024,9/11/2024,Next-day,Agender,72.112.191.168,9AN1RD2MA59,Home Office,Kinshasa,Kinshasa,Democratic Republic of the Congo,Furniture,Outdoor Gear,Vintage Typewriter Key Necklace,4,0,$278.64,155.28
+594,4/3/2024,8/7/2024,Standard,Female,55.127.157.118,6EY6D46QT16,Corporate,Omaha,Nebraska,United States,Office Supplies,Toys,Glamorous Mirrored Tray,2,0,$7.68,5.31
+595,11/26/2024,5/1/2024,Standard,Female,0.236.98.9,9A27EV0CG82,Corporate,Los Angeles,California,United States,Furniture,Toys,Unique Hand-Blown Glass Vase,2,0,$22.57,5.15
+596,12/8/2024,12/1/2024,Economy,Female,37.19.49.29,7AQ0AR5QF64,Corporate,Grand Prairie,Texas,United States,Technology,Sports Equipment,Quirky Cat Print Tote Bag,3,0,$3.72,4.08
+597,11/20/2024,7/19/2024,Express,Male,255.146.12.141,1Y00KC7QK21,Corporate,Tianjin,Tianjin,China,Office Supplies,Clothing,Funky Geometric Wall Art,7,0.2,$203.70,155.15
+598,4/9/2024,11/25/2024,Express,Male,177.38.103.116,1FQ2UP9CC62,Home Office,Jakarta,Jakarta,Indonesia,Technology,Home Decor,Playful Cactus Print Pillow,4,0,$628.04,155.13
+599,12/20/2024,7/22/2024,Standard,Female,196.210.158.38,9EQ0UD9HC42,Corporate,Littlehampton,England,United Kingdom,Furniture,Beauty Products,Dainty Silver Charm Bracelet,5,0.17,$170.25,154.94
+600,11/11/2024,10/17/2024,Next-day,Male,239.33.105.95,8DE9EP8YC57,Home Office,Cleveland,Ohio,United States,Office Supplies,Toys,Bold Geometric Area Rug,3,0,$5.03,2.51
+601,8/31/2024,7/26/2024,Economy,Male,163.254.156.225,9NG5EQ3PF18,Home Office,Genk,Limburg,Belgium,Furniture,Pet Supplies,Eco-Friendly Reusable Straw Set,7,0.2,$843.99,154.61
+602,3/29/2024,9/25/2024,Next-day,Male,78.130.233.244,5CM0DF5XE97,Corporate,Padang,Sumatera Barat,Indonesia,Office Supplies,Pet Supplies,Bold Geometric Area Rug,6,0.1,$938.80,154.56
+603,11/15/2024,3/25/2024,Economy,Male,220.135.239.39,9G87QY8HP90,Consumer,Yunyang,Henan,China,Technology,Pet Supplies,Art Deco Glass Decanter,7,0.5,$105.21,154.4
+604,8/11/2024,10/10/2024,Next-day,Female,229.159.214.25,2YW7UP7WM18,Corporate,Bogotá,Bogota,Colombia,Furniture,Electronics,Sophisticated Silk Scarf,6,0,$246.12,154.311
+605,7/30/2024,10/10/2024,Standard,Female,253.231.183.217,9XT9UU7XH03,Home Office,Caloundra,Queensland,Australia,Office Supplies,Electronics,Trendy Terrarium Kit,5,0,$226.85,154.25
+606,3/27/2024,9/2/2024,Standard,Agender,126.9.215.141,5YG5T73MW04,Home Office,Agra,Uttar Pradesh,India,Office Supplies,Books,Playful Animal Print Rug,7,0,$260.82,154.18
+607,4/24/2024,4/13/2024,Economy,Female,160.32.228.107,4W06WJ6WA40,Consumer,Fatehpur,Rajasthan,India,Technology,Books,Dainty Gold Pendant Necklace,13,0.2,$66.30,154.11
+608,3/19/2024,11/20/2024,Standard,Male,222.130.221.113,5UJ1MX6FW51,Home Office,Changshu,Jiangsu,China,Technology,Pet Supplies,Playful Emoji Pillow,3,0,-$311.60,154.1
+609,12/30/2024,10/16/2024,Standard,Female,122.156.1.34,4YV2CW1AY15,Corporate,Quevedo,Los Rios,Ecuador,Office Supplies,Outdoor Gear,Stylish Faux Fur Throw,6,0.47,$36.93,154.074
+610,8/27/2024,12/17/2024,Express,Female,244.12.3.173,9HD7XF5EC60,Consumer,Manila,National Capital,Philippines,Technology,Sports Equipment,Rustic Wooden Picture Frame,4,0,$411.33,154.04
+611,11/2/2024,2/29/2024,Next-day,Male,12.36.111.24,3TA1D10WT09,Corporate,Anshan,Liaoning,China,Office Supplies,Clothing,Timeless Diamond Stud Earrings,3,0,$117.36,154
+612,7/23/2024,11/19/2024,Express,Male,67.173.246.226,9FP3Y49DF10,Consumer,Changzhou,Jiangsu,China,Furniture,Books,Coastal Nautical Rope Mirror,5,0,$132.30,153.99
+613,9/5/2024,3/21/2024,Next-day,Male,57.132.49.70,2KM6EG3FV60,Home Office,Poltava,Poltava,Ukraine,Technology,Kitchen Appliances,Chic Velvet Throw Pillow,4,0.35,$761.76,153.87
+614,2/16/2025,4/9/2024,Standard,Male,37.55.8.195,7WF5KJ9VJ11,Home Office,Madurai,Tamil Nadu,India,Furniture,Toys,Charming Vintage Tea Set,7,0,$199.92,153.76
+615,6/6/2024,11/15/2024,Standard,Male,15.177.56.155,5H78YR9GG47,Home Office,Sakaka,Al Jawf,Saudi Arabia,Furniture,Books,Timeless Pearl Necklace,4,0.1,$179.88,153.59
+616,3/8/2024,6/6/2024,Economy,Female,21.90.111.96,3U55FK7JH97,Corporate,Los Angeles,California,United States,Furniture,Beauty Products,Timeless Diamond Stud Earrings,2,0.6,$5.32,1.77
+617,2/10/2025,4/16/2024,Standard,Male,39.77.159.2,8D48TQ7UC30,Corporate,Beijing,Beijing,China,Furniture,Sports Equipment,Bold Graphic Print Poster,3,0.15,$214.29,153.48
+618,12/6/2024,10/10/2024,Next-day,Female,220.123.158.70,1T15CK1FC94,Corporate,Grand Prairie,Texas,United States,Technology,Pet Supplies,Bold Striped Beach Towel,3,0.35,$6.26,1.54
+619,10/23/2024,11/1/2024,Express,Male,43.234.141.131,8CQ2C41VT24,Consumer,Leeds,England,United Kingdom,Technology,Toys,Sophisticated Leather Laptop Sleeve,5,0.2,$217.20,153.37
+620,10/5/2024,11/29/2024,Next-day,Male,165.101.129.161,1TH8RM7ME32,Home Office,Saint-Dizier,Alsace-Champagne-Ardenne-Lorraine,France,Technology,Beauty Products,Charming Vintage Tea Set,2,0.002,$79.91,153.35
+621,9/29/2024,2/8/2025,Standard,Genderqueer,241.124.124.222,8CM8H95VU42,Home Office,Dublin,Dublin,Ireland,Office Supplies,Sports Equipment,Cozy Cable Knit Blanket,7,0,-$197.51,153.3
+622,12/5/2024,3/1/2024,Express,Male,246.116.56.194,3NG7KF1QE19,Home Office,Bandung,Jawa Barat,Indonesia,Technology,Books,Funky Retro Wall Clock,4,0,$73.46,153.25
+623,3/23/2024,4/2/2024,Express,Female,147.232.50.234,3DW1UE0XJ60,Home Office,Cuttack,Odisha,India,Technology,Outdoor Gear,Chic Acrylic Magazine Holder,8,0.1,$328.80,153.16
+624,1/10/2025,12/21/2024,Economy,Non-binary,25.147.151.146,9W58G34EV60,Corporate,Stourbridge,England,United Kingdom,Furniture,Home Decor,Cozy Faux Fur Rug,7,0.2,$10.29,153.11
+625,9/24/2024,7/14/2024,Standard,Male,31.210.200.89,3PW7E70CD71,Consumer,Presidente Dutra,Maranhão,Brazil,Office Supplies,Beauty Products,Eclectic Patchwork Quilt,4,0.25,-$188.34,153.098
+626,6/23/2024,12/21/2024,Next-day,Female,166.86.56.145,3MW8GA9VG92,Home Office,Chimaltenango,Chimaltenango,Guatemala,Technology,Electronics,Stylish Enamel Pin Set,4,0,$58.72,153.053
+627,3/27/2024,1/11/2025,Express,Female,143.129.134.247,4H50W81UE48,Home Office,Los Angeles,California,United States,Furniture,Sports Equipment,Dainty Rose Gold Hoop Earrings,6,0,$3.16,1.44
+628,11/12/2024,1/7/2025,Express,Bigender,1.156.85.133,4HN1W64MP61,Consumer,Bognor Regis,England,United Kingdom,Technology,Books,Art Deco Brass Candle Holder,7,0,$680.40,152.96
+629,5/8/2024,4/4/2024,Express,Male,59.246.205.28,8V43GN5MW14,Home Office,Xuzhou,Jiangsu,China,Furniture,Pet Supplies,Sustainable Bamboo Utensil Set,9,0,$89.91,152.89
+630,3/12/2024,11/1/2024,Express,Genderqueer,245.77.182.152,8W06E16DK23,Home Office,Jiangmen,Guangdong,China,Furniture,Home Decor,Charming Floral Tea Cup Set,3,0.2,$157.05,152.87
+631,3/29/2024,7/7/2024,Standard,Female,219.250.8.67,2M30R00UP66,Home Office,Bognor Regis,England,United Kingdom,Office Supplies,Kitchen Appliances,Industrial Pipe Shelving Unit,6,0.47,$136.26,152.77
+632,8/18/2024,5/12/2024,Next-day,Bigender,25.75.232.184,8C36AK7WJ27,Corporate,Ninghai,Zhejiang,China,Furniture,Books,Funky Geometric Wall Art,7,0.15,$43.47,152.6
+633,2/2/2025,7/22/2024,Express,Female,70.69.160.100,7WH5K80CM74,Corporate,Bridgetown,Saint Michael,Barbados,Technology,Toys,Timeless Pearl Necklace,7,0,$387.29,152.531
+634,12/16/2024,4/5/2024,Next-day,Genderqueer,225.216.99.48,4K61D53WC57,Consumer,Los Angeles,California,United States,Technology,Books,Art Deco Brass Candle Holder,6,0,$5.04,1.23
+635,11/16/2024,5/19/2024,Express,Male,48.127.185.57,1WH1J93RT28,Home Office,Atlanta,Georgia,United States,Technology,Pet Supplies,Classic Monogrammed Stationery Set,2,0.35,$115.00,139.02
+636,7/2/2024,4/10/2024,Next-day,Polygender,233.19.196.158,1DG0MV5DE80,Consumer,Lubumbashi,Katanga,Democratic Republic of the Congo,Office Supplies,Clothing,Whimsical Ceramic Mug,6,0.47,$227.88,152.36
+637,11/22/2024,2/3/2025,Next-day,Female,138.88.46.5,7J05E50JA32,Home Office,Omaha,Nebraska,United States,Office Supplies,Home Decor,Glamorous Crystal Candle Holder,3,0.1,$50.99,45.16
+638,5/21/2024,9/5/2024,Express,Female,122.45.34.63,6C04UM4EG48,Corporate,Beauvais,Nord-Pas-de-Calais-Picardie,France,Office Supplies,Pet Supplies,Artistic Hand-Painted Plate,5,0,$236.67,152.31
+639,4/18/2024,5/12/2024,Standard,Male,143.125.228.110,5KN4YC5KJ99,Home Office,Omaha,Nebraska,United States,Furniture,Sports Equipment,Bold Graphic Print Poster,2,0,$11.08,14.94
+640,4/20/2024,3/17/2024,Standard,Female,4.150.128.114,8KJ6GM9RR25,Home Office,South Shields,England,United Kingdom,Office Supplies,Clothing,Playful Animal Print Rug,3,0,$409.14,152.24
+641,1/30/2025,5/9/2024,Next-day,Female,76.216.149.133,7N01YD2MN49,Home Office,New York City,New York,United States,Furniture,Beauty Products,Trendy Terrarium Kit,2,0,$29.25,10.69
+642,6/20/2024,10/11/2024,Standard,Male,133.83.16.53,5QR0XM2XX97,Consumer,Lebanon,Tennessee,United States,Technology,Home Decor,Coastal Nautical Rope Mirror,6,0.1,$6.37,10.11
+643,12/7/2024,12/19/2024,Standard,Male,27.105.228.100,5TN2AY0KF79,Home Office,Dakar,Dakar,Senegal,Office Supplies,Pet Supplies,Glamorous Mirrored Tray,8,0,$431.04,152.16
+644,2/1/2025,7/19/2024,Economy,Male,214.31.116.60,5XK5TD8DA14,Consumer,Providence,Rhode Island,United States,Office Supplies,Outdoor Gear,Playful Animal Print Rug,2,0.1,$18.78,4.21
+645,10/2/2024,6/19/2024,Economy,Female,163.225.180.107,9NY2YU8DT65,Consumer,Providence,Rhode Island,United States,Furniture,Beauty Products,Vintage Typewriter Key Necklace,5,0,$7.77,2.98
+646,9/16/2024,10/1/2024,Express,Female,70.86.228.245,4P31MT5VM91,Home Office,Nuevo Laredo,Tamaulipas,Mexico,Technology,Beauty Products,Cozy Knit Throw Pillow,5,0.4,$488.60,151.918
+647,4/26/2024,9/29/2024,Standard,Female,187.166.52.109,9U17QA1VR97,Consumer,Jabalpur,Madhya Pradesh,India,Technology,Pet Supplies,Eco-Friendly Reusable Straw Set,2,0.17,$144.42,151.9
+648,4/29/2024,9/15/2024,Economy,Male,237.95.186.167,8JH6WN9DU13,Corporate,Montréal,Quebec,Canada,Technology,Home Decor,Funky Retro Wall Clock,4,0.002,$11.28,2.25
+649,12/2/2024,9/7/2024,Next-day,Genderfluid,252.95.132.197,4JE5J64FK66,Home Office,Sydney,New South Wales,Australia,Office Supplies,Toys,Bold Graphic Print Poster,3,0,$417.28,151.88
+650,2/5/2025,10/16/2024,Standard,Female,195.181.147.107,1WJ8NQ7EA37,Consumer,Kano,Kano,Nigeria,Office Supplies,Outdoor Gear,Whimsical Fairy Lights,4,0.07,-$886.46,151.84
+651,11/27/2024,4/11/2024,Next-day,Female,184.66.89.0,9CE9RK1XQ43,Consumer,Bekasi,Jawa Barat,Indonesia,Technology,Home Decor,Industrial Metal Wall Clock,8,0.7,-$147.60,151.74
+652,5/31/2024,8/24/2024,Standard,Male,244.109.242.45,3JH9DG9GX29,Home Office,Changzhou,Jiangsu,China,Technology,Books,Trendy Succulent Planter,3,0.2,$343.53,151.73
+653,3/29/2024,9/1/2024,Standard,Male,202.202.96.233,6KY6A88CX95,Corporate,Dewas,Madhya Pradesh,India,Furniture,Outdoor Gear,Industrial Steampunk Desk Lamp,9,0,$183.33,151.37
+654,12/13/2024,8/5/2024,Economy,Female,151.159.41.219,2TM6FW9RG38,Corporate,Hamburg,Hamburg,Germany,Technology,Electronics,Trendy Canvas Tote Bag,1,0,$139.98,151.11
+655,7/22/2024,3/3/2024,Express,Female,191.20.173.119,3D90J33NM16,Consumer,Puertollano,Castile-La Mancha,Spain,Office Supplies,Outdoor Gear,Sleek Stainless Steel Water Bottle,11,0.1,$989.01,151.11
+656,7/20/2024,10/7/2024,Standard,Male,4.151.25.178,9N14H09TV02,Corporate,Porirua,Wellington,New Zealand,Office Supplies,Kitchen Appliances,Dainty Silver Charm Bracelet,6,0,$246.96,150.94
+657,10/31/2024,12/30/2024,Standard,Male,28.207.84.141,5E04FD6TT47,Consumer,Monterrey,Nuevo León,Mexico,Office Supplies,Toys,Vintage-Inspired Record Player,7,0,$339.44,150.882
+658,11/15/2024,1/2/2025,Economy,Female,34.84.165.246,4CV7PF8NG22,Corporate,São Paulo,São Paulo,Brazil,Furniture,Toys,Minimalist Desk Organizer,5,0.7,$242.00,150.876
+659,9/9/2024,4/12/2024,Economy,Female,246.73.20.48,5XR9TG0MT47,Corporate,Depok,Jawa Barat,Indonesia,Technology,Toys,Modern Hanging Plant Holder,4,0.2,-$363.29,150.83
+660,2/9/2025,11/9/2024,Express,Genderqueer,215.83.32.127,2DW9FM8JT08,Home Office,Rancho Cucamonga,California,United States,Office Supplies,Home Decor,Classic Leather Passport Cover,3,0.1,$11.14,2.06
+661,3/13/2024,12/10/2024,Next-day,Genderqueer,193.123.128.242,1W43NP5MQ73,Consumer,Bonn,North Rhine-Westphalia,Germany,Furniture,Beauty Products,Stylish Engraved Cuff Bracelet,3,0,$86.31,150.74
+662,6/9/2024,3/28/2024,Economy,Male,171.182.49.128,2VC5PD6AX80,Home Office,Mesa,Arizona,United States,Office Supplies,Books,Modern Concrete Planter,2,0.3,$1.47,1.99
+663,10/20/2024,7/30/2024,Next-day,Agender,18.163.39.74,6KU2GY9YR74,Home Office,Arles,Provence-Alpes-Côte d'Azur,France,Technology,Home Decor,Sophisticated Leather Laptop Sleeve,8,0.5,$71.09,150.65
+664,1/6/2025,6/3/2024,Economy,Male,72.31.247.124,8K10VU9XG85,Corporate,Murcia,Murcia,Spain,Furniture,Sports Equipment,Bohemian Dreamcatcher Wall Decor,4,0.07,$108.60,150.48
+665,5/13/2024,10/24/2024,Express,Female,93.145.145.157,9Q56HH8CD14,Consumer,Kaifeng,Henan,China,Office Supplies,Pet Supplies,Eco-Friendly Beeswax Wrap Set,4,0,$215.76,150.47
+666,2/12/2025,6/20/2024,Economy,Male,112.187.144.241,4AC6R53JF62,Consumer,Liverpool,England,United Kingdom,Office Supplies,Electronics,Glamorous Gold Bar Cart,4,0,$135.60,150.43
+667,1/27/2025,11/6/2024,Next-day,Female,86.75.63.12,5U88MT6NN85,Consumer,Gold Coast,Queensland,Australia,Office Supplies,Kitchen Appliances,Bold Geometric Area Rug,6,0,-$10.04,150.43
+668,5/27/2024,7/18/2024,Next-day,Female,115.12.203.254,4NT2FD8NW84,Home Office,Fes,Fès-Boulemane,Morocco,Office Supplies,Toys,Coastal Seashell Decor,2,0,$323.40,150.41
+669,7/4/2024,11/20/2024,Next-day,Female,229.196.72.14,2R94GQ7QD35,Consumer,Vienna,Vienna,Austria,Office Supplies,Pet Supplies,Sleek Glass Water Pitcher,11,0,$273.24,150.41
+670,3/29/2024,5/6/2024,Standard,Male,231.77.156.65,8JY3RA4HX51,Corporate,Gold Coast,Queensland,Australia,Furniture,Home Decor,Unique Hand-Blown Glass Vase,3,0.07,$135.86,150.4
+671,4/5/2024,10/3/2024,Express,Female,133.67.46.161,7HQ3TJ6XF99,Home Office,Farnborough,England,United Kingdom,Technology,Clothing,Dainty Silver Charm Bracelet,3,0,$341.73,150.4
+672,2/29/2024,9/9/2024,Standard,Male,159.230.72.245,3N22RG2PY65,Consumer,Los Angeles,California,United States,Office Supplies,Kitchen Appliances,Dainty Silver Charm Bracelet,5,0.1,$5.58,1.97
+673,8/11/2024,8/15/2024,Standard,Male,10.196.146.135,7QY3HV6CC17,Home Office,Melbourne,Victoria,Australia,Office Supplies,Outdoor Gear,Rustic Woodland Wall Art,2,0,$217.27,150.35
+674,11/25/2024,4/1/2024,Express,Female,161.189.240.201,1TU9RF8DY72,Home Office,Santiago de Cuba,Santiago de Cuba,Cuba,Technology,Sports Equipment,Industrial Metal Wall Clock,8,0.2,$87.84,150.269
+675,11/15/2024,11/13/2024,Economy,Male,153.94.253.89,7A89H85UH44,Consumer,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Office Supplies,Electronics,Vintage-Inspired Rotary Phone,12,0.2,$49.01,150.25
+676,2/11/2025,7/9/2024,Standard,Male,51.89.115.194,9T59A02GP84,Consumer,Suining,Sichuan,China,Furniture,Beauty Products,Classic Leather Passport Cover,2,0,$325.14,150.25
+677,11/19/2024,6/26/2024,Express,Male,5.89.151.86,8UE7H63NQ39,Corporate,Tongi,Dhaka,Bangladesh,Office Supplies,Toys,Funky Retro Wall Clock,2,0,$536.46,150.2
+678,1/19/2025,11/19/2024,Express,Female,129.180.30.167,6JU2WY1YW90,Home Office,Lahore,Punjab,Pakistan,Office Supplies,Kitchen Appliances,Sustainable Bamboo Utensil Set,4,0.1,-$369.42,150.19
+679,5/18/2024,3/19/2024,Economy,Male,86.143.205.246,9EM0A33VJ01,Consumer,Hyderabad,Telangana,India,Furniture,Pet Supplies,Bohemian Dreamcatcher Wall Decor,3,0.1,$436.77,150.11
+680,11/8/2024,3/9/2024,Standard,Female,179.43.211.42,5JY9AE6RR49,Home Office,Santo Domingo,Santo Domingo,Dominican Republic,Technology,Kitchen Appliances,Artistic Abstract Painting,4,0,-$118.11,150.109
+681,4/12/2024,11/3/2024,Express,Male,141.20.160.78,7CA4AJ3UF41,Corporate,Herne,North Rhine-Westphalia,Germany,Office Supplies,Outdoor Gear,Stylish Enamel Pin Set,5,0.1,$267.15,150.08
+682,3/1/2024,1/15/2025,Standard,Non-binary,200.183.218.140,7PD7ET8DY37,Home Office,Atlanta,Georgia,United States,Furniture,Sports Equipment,Boho Rattan Basket,1,0.1,$2.38,1.75
+683,4/27/2024,1/3/2025,Economy,Male,235.37.87.88,2G52GJ8UU58,Home Office,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Office Supplies,Electronics,Unique Hand-Blown Glass Vase,8,0.1,$129.17,150.07
+684,5/16/2024,12/15/2024,Standard,Female,133.84.138.109,7NA2Q52TD69,Corporate,Ciego de Ávila,Ciego de Ávila,Cuba,Technology,Pet Supplies,Eco-Friendly Reusable Straw Set,4,0,$628.64,150.068
+685,10/6/2024,2/16/2025,Express,Male,239.209.35.11,3HE7XF2GQ89,Home Office,Arkhangelsk,Arkhangel'sk,Russia,Technology,Pet Supplies,Charming Floral Tea Cup Set,8,0,$241.20,150.05
+686,2/16/2025,4/1/2024,Next-day,Female,159.94.163.41,8E80W12TA57,Home Office,Bochum,North Rhine-Westphalia,Germany,Office Supplies,Kitchen Appliances,Vintage Brass Desk Lamp,3,0,$134.19,150.05
+687,6/28/2024,4/23/2024,Economy,Bigender,238.22.119.241,1N38CV5QU07,Consumer,Ljubljana,Ljubljana,Slovenia,Furniture,Clothing,Edgy Skull Print Shower Curtain,6,0,$519.30,150.03
+688,6/3/2024,1/10/2025,Economy,Male,100.253.18.109,3GD3UH2GD69,Home Office,Salem,Oregon,United States,Technology,Beauty Products,Glamorous Crystal Candle Holder,2,0,$0.59,1.61
+689,6/6/2024,3/17/2024,Express,Male,16.196.22.202,9TH6PQ4QE44,Consumer,Bogotá,Bogota,Colombia,Furniture,Clothing,Eclectic Woven Throw Blanket,7,0,$243.74,149.939
+690,1/5/2025,7/18/2024,Standard,Male,5.6.89.62,2P95DJ8NF61,Corporate,Nizhyn,Chernihiv,Ukraine,Technology,Outdoor Gear,Playful Cactus Print Pillow,6,0,$88.74,149.89
+691,2/17/2025,6/23/2024,Economy,Female,246.110.12.140,1Q76P86MC51,Consumer,Mount Isa,Queensland,Australia,Furniture,Clothing,Glamorous Crystal Chandelier,2,0.1,$126.56,149.89
+692,12/18/2024,3/10/2024,Next-day,Female,208.234.234.128,6RF7YD4AQ35,Home Office,Mixco,Guatemala,Guatemala,Furniture,Kitchen Appliances,Art Deco Velvet Armchair,3,0,$213.12,149.862
+693,12/14/2024,4/26/2024,Economy,Female,105.109.9.99,5FN0AM3JW25,Home Office,Bamako,Bamako,Mali,Furniture,Outdoor Gear,Modern Concrete Planter,4,0.5,$732.60,149.76
+694,5/9/2024,10/7/2024,Next-day,Male,126.185.254.205,9HM6C14JP73,Home Office,New York City,New York,United States,Office Supplies,Home Decor,Unique Hand-Carved Wooden Bowl,3,0.1,$8.07,1.57
+695,10/27/2024,8/24/2024,Economy,Female,139.9.137.196,1CU7U29VT15,Home Office,Atlanta,Georgia,United States,Technology,Electronics,Funky Retro Wall Clock,2,0,$3.88,1.24
+696,3/30/2024,7/17/2024,Next-day,Non-binary,210.96.39.196,2VN5UG5DA91,Home Office,Shihezi,Xinjiang Uygur,China,Technology,Books,Modern Marble Coaster Set,9,0,$267.57,149.4
+697,12/9/2024,9/30/2024,Next-day,Male,55.30.39.37,6UW2C04DH66,Consumer,Montevideo,Montevideo,Uruguay,Office Supplies,Beauty Products,Modern Geometric Plant Stand,4,0.5,-$411.22,149.363
+698,6/21/2024,8/21/2024,Economy,Female,147.248.32.112,5NW2RP0PU79,Corporate,Anqing,Anhui,China,Furniture,Sports Equipment,Quirky Pop Art Print,6,0.5,$209.34,149.22
+699,4/10/2024,10/8/2024,Express,Female,106.205.20.86,6XN5RC6MT46,Consumer,Medan,Sumatera Utara,Indonesia,Technology,Home Decor,Cozy Cable Knit Blanket,6,0.2,$211.74,149.15
+700,1/24/2025,2/13/2025,Next-day,Female,56.166.237.16,3KU5M32RT60,Home Office,Srinagar,Jammu and Kashmir,India,Office Supplies,Sports Equipment,Stylish Faux Fur Throw,4,0,$861.24,149.14
+701,12/18/2024,7/3/2024,Express,Genderqueer,138.173.190.183,3PT2PT5EV73,Consumer,New York City,New York,United States,Office Supplies,Clothing,Trendy Canvas Tote Bag,1,0.25,$5.05,1.07
+702,12/5/2024,11/28/2024,Economy,Male,231.6.20.70,1TW3UU0TY10,Home Office,London,England,United Kingdom,Technology,Home Decor,Artistic Abstract Painting,4,0,$410.46,149.09
+703,6/24/2024,3/9/2024,Express,Male,222.130.159.245,8KM1CT8AK68,Consumer,Mumbai,Maharashtra,India,Technology,Books,Glamorous Crystal Chandelier,4,0,-$152.76,148.9
+704,10/15/2024,10/16/2024,Express,Male,177.164.4.228,7VJ4A56AH35,Corporate,Arlington,Virginia,United States,Technology,Home Decor,Coastal Seashell Decor,3,0,$26.70,8
+705,5/25/2024,10/27/2024,Standard,Female,38.254.141.123,8U45CC0FF92,Home Office,Tepic,Nayarit,Mexico,Technology,Books,Artistic Hand-Painted Plate,7,0.1,$478.38,148.8
+706,10/18/2024,3/21/2024,Economy,Female,110.22.32.0,1WM8N69XN92,Home Office,Kharkiv,Kharkiv,Ukraine,Furniture,Pet Supplies,Coastal Seashell Jewelry Box,6,0,$387.90,148.76
+707,12/23/2024,7/19/2024,Express,Male,70.42.43.2,2YV2HF1PU38,Home Office,Coyoacán,Distrito Federal,Mexico,Technology,Books,Classic Leather Passport Cover,4,0,$298.06,148.745
+708,7/11/2024,6/8/2024,Economy,Male,204.123.24.101,4MM2R72UJ45,Corporate,Dnipropetrovs'k,Dnipropetrovs'k,Ukraine,Furniture,Sports Equipment,Sleek Glass Water Pitcher,8,0.2,$164.88,148.74
+709,10/17/2024,5/14/2024,Next-day,Female,61.86.60.45,3A43DG4JJ25,Consumer,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Office Supplies,Outdoor Gear,Minimalist Desk Organizer,3,0,-$341.34,148.73
+710,5/23/2024,11/23/2024,Standard,Female,20.248.38.21,3FY9A40PP00,Home Office,Gorakhpur,Uttar Pradesh,India,Office Supplies,Home Decor,Bohemian Beaded Bracelet,3,0,$312.66,148.65
+711,10/22/2024,1/11/2025,Express,Male,4.12.24.161,2T42VF0YE55,Home Office,Ardabil,Ardabil,Iran,Office Supplies,Outdoor Gear,Glamorous Gold Bar Cart,1,0,$19.08,148.49
+712,12/9/2024,5/26/2024,Standard,Female,157.60.211.128,3DN9YV9HP21,Consumer,Vadodara,Gujarat,India,Technology,Sports Equipment,Boho Macrame Wall Hanging,4,0,$146.76,148.45
+713,4/1/2024,2/20/2024,Next-day,Female,215.162.2.97,5YW2VG6RJ99,Home Office,Paris,Ile-de-France,France,Furniture,Outdoor Gear,Funky Geometric Wall Art,5,0,-$802.49,148.41
+714,6/20/2024,6/12/2024,Express,Male,197.41.212.104,5V91FJ3GK73,Home Office,Ningbo,Zhejiang,China,Furniture,Electronics,Trendy Succulent Planter,7,0.3,$431.76,148.38
+715,11/18/2024,11/27/2024,Next-day,Female,43.29.26.116,2NF1KX1MA89,Consumer,Adelaide,South Australia,Australia,Technology,Outdoor Gear,Bohemian Beaded Bracelet,9,0.2,$376.60,148.38
+716,7/29/2024,8/9/2024,Standard,Male,99.149.41.174,9EU3MG6UT77,Corporate,Catania,Sicily,Italy,Office Supplies,Electronics,Dainty Gold Pendant Necklace,5,0,-$575.25,148.37
+717,10/3/2024,11/15/2024,Standard,Male,59.200.249.145,8JU3NP3RJ47,Consumer,Grigny,Ile-de-France,France,Office Supplies,Pet Supplies,Unique Hand-Carved Wooden Bowl,7,0.2,$354.06,148.35
+718,3/20/2024,12/27/2024,Express,Genderfluid,142.217.71.184,9MD8QY0QV89,Corporate,Leipzig,Saxony,Germany,Technology,Outdoor Gear,Timeless Diamond Stud Earrings,5,0.1,-$478.07,148.27
+719,6/29/2024,12/12/2024,Next-day,Male,200.76.204.254,1H55F27UD21,Consumer,Mexico City,Distrito Federal,Mexico,Office Supplies,Outdoor Gear,Stylish Faux Fur Throw,6,0.2,$413.18,148.211
+720,10/26/2024,1/26/2025,Express,Female,164.166.225.168,3VN5P63WV52,Consumer,Santiago,Santiago,Chile,Technology,Kitchen Appliances,Quirky Novelty Socks,3,0.1,$142.68,148.192
+721,11/24/2024,11/26/2024,Next-day,Female,204.185.153.78,7GF5A81KJ06,Home Office,São Paulo,São Paulo,Brazil,Furniture,Outdoor Gear,Cozy Faux Fur Rug,6,0.2,$197.88,148.136
+722,1/20/2025,5/15/2024,Next-day,Female,170.15.94.213,6E92JC5TQ69,Consumer,Arlington,Virginia,United States,Office Supplies,Beauty Products,Modern Marble Coaster Set,11,0.8,$34.21,6.8
+723,11/20/2024,3/10/2024,Economy,Male,229.156.104.132,5E30ET6JR60,Corporate,Sydney,New South Wales,Australia,Office Supplies,Clothing,Quirky Cat Print Tote Bag,4,0,$55.08,148.02
+724,5/6/2024,1/22/2025,Express,Female,4.188.163.221,6CN5XU3DR77,Home Office,Poza Rica de Hidalgo,Veracruz,Mexico,Office Supplies,Toys,Artistic Hand-Painted Plate,7,0,$577.30,148.012
+725,10/1/2024,4/26/2024,Express,Female,225.32.254.108,8A71V06WA43,Consumer,Manila,National Capital,Philippines,Furniture,Books,Retro Vinyl Record Storage,7,0,-$282.56,147.98
+726,1/26/2025,5/3/2024,Express,Polygender,218.91.167.87,4P92W70XV72,Home Office,Yibin,Sichuan,China,Technology,Books,Dainty Gold Pendant Necklace,7,0,$236.25,147.92
+727,9/5/2024,1/19/2025,Express,Male,59.27.139.192,3X88TF7EE25,Consumer,Tlalpan,Distrito Federal,Mexico,Office Supplies,Beauty Products,Playful Animal Print Rug,4,0.2,$23.20,147.844
+728,5/23/2024,11/28/2024,Standard,Female,188.157.156.208,5AX4PE4EP94,Home Office,Mahajanga,Boeny,Madagascar,Office Supplies,Kitchen Appliances,Glamorous Gold Bar Cart,1,0.37,$185.52,147.79
+729,11/9/2024,10/7/2024,Economy,Genderqueer,83.123.178.238,6C92X30PN03,Consumer,Saida,Saida,Algeria,Office Supplies,Clothing,Timeless Pearl Drop Earrings,2,0,$526.08,147.79
+730,5/8/2024,5/16/2024,Next-day,Male,21.34.61.199,9GE4DU1DD34,Consumer,Coyoacán,Distrito Federal,Mexico,Office Supplies,Toys,Trendy Terrarium Kit,5,0,$30.32,147.768
+731,10/9/2024,6/2/2024,Standard,Female,120.46.102.50,3XK2KA6ET58,Consumer,Surakarta,Jawa Tengah,Indonesia,Furniture,Beauty Products,Trendy Canvas Tote Bag,4,0.07,-$20.67,147.76
+732,12/13/2024,6/13/2024,Express,Male,154.35.150.110,4VP4AE0UF28,Home Office,Cergy,Ile-de-France,France,Office Supplies,Beauty Products,Unique Hand-Carved Wooden Bowl,7,0.1,$184.52,147.72
+733,5/22/2024,11/26/2024,Express,Male,173.59.64.49,6YT6J75JU50,Corporate,Santiago,Santiago,Chile,Office Supplies,Books,Art Deco Velvet Armchair,3,0.2,$236.76,147.64
+734,3/16/2024,11/26/2024,Standard,Female,210.55.35.232,9UR8WF7YW95,Corporate,Arzgir,Stavropol',Russia,Technology,Books,Quirky Cat Print Tote Bag,8,0.5,$282.00,147.64
+735,6/6/2024,7/20/2024,Express,Female,38.43.63.131,1HP3E82WM56,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Furniture,Electronics,Art Deco Brass Candle Holder,5,0,-$421.60,147.62
+736,10/15/2024,1/30/2025,Economy,Male,244.125.18.60,1E45V65NA57,Home Office,Jakarta,Jakarta,Indonesia,Office Supplies,Toys,Modern Hanging Plant Holder,8,0,-$499.30,147.46
+737,5/30/2024,6/18/2024,Next-day,Male,94.130.233.95,8W37FY4GP84,Home Office,London,England,United Kingdom,Technology,Books,Art Deco Velvet Armchair,8,0.2,$382.85,147.45
+738,10/17/2024,1/8/2025,Express,Female,63.225.161.120,8V94JY5PR35,Home Office,Alexandria,Al Iskandariyah,Egypt,Technology,Kitchen Appliances,Glamorous Gold Bar Cart,8,0.1,"$1,098.24",147.34
+739,5/11/2024,5/24/2024,Express,Female,121.102.170.209,7X30W47XF63,Consumer,Gravesend,England,United Kingdom,Technology,Electronics,Edgy Leather Cuff Bracelet,3,0.1,$445.41,147.33
+740,12/4/2024,12/2/2024,Standard,Male,174.104.28.73,9EX1QT6TR73,Home Office,Baku,Baki,Azerbaijan,Furniture,Books,Funky Geometric Wall Art,1,0,$50.01,147.24
+741,3/4/2024,7/18/2024,Standard,Female,167.198.230.245,3J29UP4XM31,Corporate,Mentougou,Beijing,China,Technology,Home Decor,Whimsical Unicorn Night Light,4,0,$201.72,147.23
+742,6/6/2024,5/7/2024,Next-day,Male,209.96.55.102,6TW4HK1RP23,Home Office,Geelong,Victoria,Australia,Office Supplies,Clothing,Luxury Leather Wallet,4,0.7,-$31.52,147.18
+743,11/16/2024,8/26/2024,Next-day,Female,171.116.196.245,7AT8PW6TT24,Home Office,Nampula,Nampula,Mozambique,Technology,Pet Supplies,Industrial Pipe Coat Rack,2,0,$484.44,147.02
+744,5/21/2024,12/21/2024,Next-day,Female,187.21.43.23,4TK1H30PD53,Corporate,Adelaide,South Australia,Australia,Office Supplies,Books,Vintage-Inspired Globe Bar Cart,2,0.002,$83.32,146.99
+745,9/12/2024,11/15/2024,Economy,Male,51.150.166.247,1CQ5NV8KX19,Home Office,New York City,New York,United States,Technology,Kitchen Appliances,Industrial Metal Wall Clock,5,0,$7.06,5.37
+746,4/3/2024,7/6/2024,Next-day,Female,89.114.73.133,5CV8ME2UM65,Corporate,Traralgon,Victoria,Australia,Office Supplies,Books,Eclectic Moroccan Pouf,6,0,-$512.71,146.82
+747,7/8/2024,5/4/2024,Express,Female,74.245.172.1,7CM1QJ1HK53,Consumer,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Office Supplies,Books,Sophisticated Leather Journal,4,0.1,$86.64,146.76
+748,5/26/2024,11/3/2024,Express,Male,177.191.123.11,5Q26XM5MC93,Corporate,Mexico City,Distrito Federal,Mexico,Office Supplies,Home Decor,Funky Geometric Wall Art,9,0,$542.64,146.557
+749,11/29/2024,8/2/2024,Express,Male,224.56.14.163,3G31DE7VW17,Home Office,Vinnytsya,Vinnytsya,Ukraine,Office Supplies,Beauty Products,Chic Marble Coaster Set,6,0,$264.60,146.55
+750,2/28/2024,3/28/2024,Standard,Female,246.49.90.52,4FX6W73UN81,Consumer,Jakarta,Jakarta,Indonesia,Technology,Clothing,Artistic Hand-Painted Plate,4,0,$269.71,146.35
+751,9/21/2024,10/6/2024,Next-day,Female,83.56.127.194,9YJ5UY0UT87,Corporate,Cincinnati,Ohio,United States,Furniture,Pet Supplies,Cozy Cable Knit Blanket,3,0,-$10.58,1.96
+752,8/2/2024,5/20/2024,Next-day,Female,225.82.151.87,9PA2H71HA68,Consumer,Cincinnati,Ohio,United States,Office Supplies,Electronics,Eco-Friendly Reusable Straw Set,3,0.07,$5.10,1.45
+753,1/21/2025,8/25/2024,Economy,Male,238.177.124.112,4R03C60FX13,Consumer,Paris,Ile-de-France,France,Technology,Home Decor,Bold Striped Beach Towel,5,0.35,$98.55,146.28
+754,7/25/2024,10/8/2024,Next-day,Bigender,227.183.29.47,4TA7WV9YE05,Corporate,Timaru,Canterbury,New Zealand,Office Supplies,Outdoor Gear,Modern Concrete Planter,2,0,$12.72,146.26
+755,9/30/2024,1/28/2025,Economy,Female,37.243.103.217,4TU7CH6KN10,Home Office,Libourne,Aquitaine-Limousin-Poitou-Charentes,France,Office Supplies,Books,Whimsical Starburst Wall Art,2,0,-$3.98,146.12
+756,4/1/2024,12/15/2024,Express,Female,54.49.221.147,5D55FE8VM68,Home Office,Managua,Managua,Nicaragua,Technology,Outdoor Gear,Unique Hand-Carved Wooden Bowl,4,0.002,$198.32,146.119
+757,4/23/2024,4/16/2024,Economy,Male,254.1.240.184,4E42AY3TG01,Home Office,Los Angeles,California,United States,Technology,Pet Supplies,Cozy Knit Throw Pillow,4,0.47,$8.30,1.42
+758,5/8/2024,5/17/2024,Standard,Male,30.231.142.197,3AJ7XK7UY45,Consumer,Cincinnati,Ohio,United States,Office Supplies,Clothing,Industrial Metal Wall Clock,2,0.1,-$1.93,1.32
+759,3/5/2024,5/25/2024,Express,Male,210.57.12.6,1KE2TK4HW02,Consumer,Knoxville,Tennessee,United States,Technology,Pet Supplies,Unique Hand-Carved Wooden Bowl,2,0.7,$0.41,1.29
+760,3/24/2024,2/14/2025,Standard,Agender,73.31.76.30,5PP4T54GV24,Consumer,London,England,United Kingdom,Furniture,Beauty Products,Edgy Skull Print Shower Curtain,8,0.4,$419.52,145.56
+761,10/31/2024,5/15/2024,Standard,Male,117.110.89.76,9GC0XF4KE08,Home Office,San Salvador,San Salvador,El Salvador,Furniture,Kitchen Appliances,Quirky Novelty Socks,9,0.002,"$1,313.28",145.495
+762,11/23/2024,8/2/2024,Economy,Male,235.42.69.249,9TT1J41HR19,Consumer,Franklin,Massachusetts,United States,Office Supplies,Sports Equipment,Trendy Succulent Planter,7,0,-$297.68,138.1
+763,3/7/2024,6/3/2024,Next-day,Agender,65.76.225.159,8XG6F04XY56,Corporate,Dublin,Dublin,Ireland,Furniture,Toys,Modern Marble Coaster Set,7,0,-$443.73,145.43
+764,3/3/2024,1/6/2025,Express,Male,45.75.251.238,3AQ3WW8FW56,Consumer,Medan,Sumatera Utara,Indonesia,Technology,Home Decor,Modern Concrete Planter,5,0.5,$655.73,145.28
+765,3/30/2024,8/22/2024,Economy,Female,62.134.73.14,3W12PQ7EW54,Corporate,León,Guanajuato,Mexico,Technology,Kitchen Appliances,Bold Geometric Area Rug,12,0,$897.84,145.275
+766,1/26/2025,11/15/2024,Economy,Agender,91.172.211.190,7HF6E75PX81,Corporate,Ashdod,Southern,Israel,Office Supplies,Sports Equipment,Funky Geometric Wall Art,8,0,$503.76,145.21
+767,2/18/2024,2/13/2025,Standard,Male,55.228.54.224,3GH5P96EA40,Home Office,Chittagong,Chittagong,Bangladesh,Office Supplies,Electronics,Whimsical Starburst Wall Art,5,0,$706.05,145.2
+768,6/15/2024,2/2/2025,Economy,Male,8.36.8.90,2VX7TW6AV26,Consumer,Pune,Maharashtra,India,Furniture,Home Decor,Trendy Succulent Planter,7,0.2,$394.38,145.13
+769,9/30/2024,10/21/2024,Express,Male,160.158.176.204,2FD0KT1HE48,Corporate,Alexandria,Al Iskandariyah,Egypt,Office Supplies,Clothing,Edgy Skull Print Shower Curtain,4,0,$26.52,145.11
+770,3/8/2024,7/10/2024,Economy,Male,15.244.152.1,6DE9VP0CA21,Corporate,Kendari,Sulawesi Tenggara,Indonesia,Technology,Toys,Sustainable Bamboo Utensil Set,6,0,$91.72,145.08
+771,4/5/2024,12/3/2024,Next-day,Genderfluid,192.152.22.138,4DP5JF6MY92,Corporate,Patrocínio,Minas Gerais,Brazil,Office Supplies,Sports Equipment,Glamorous Mirrored Tray,6,0.35,$246.48,145.065
+772,10/13/2024,8/5/2024,Next-day,Male,217.117.37.48,9W12G72MD80,Consumer,Mandurah,Western Australia,Australia,Technology,Clothing,Trendy Succulent Planter,8,0.07,$492.62,144.86
+773,3/22/2024,6/8/2024,Standard,Male,95.215.154.223,2EE5NF5MA06,Consumer,Hattiesburg,Mississippi,United States,Furniture,Clothing,Quirky Novelty Socks,6,0.1,$105.47,15.46
+774,4/10/2024,5/26/2024,Next-day,Female,16.46.30.178,7TA4T56ET91,Home Office,Tijuana,Baja California,Mexico,Office Supplies,Home Decor,Quirky Pop Art Print,2,0,-$205.61,144.67
+775,4/17/2024,11/21/2024,Economy,Male,136.56.38.114,4JK6RV8XF07,Consumer,Los Angeles,California,United States,Technology,Sports Equipment,Bohemian Dreamcatcher Wall Decor,1,0.2,$3.59,14.91
+776,4/9/2024,6/4/2024,Next-day,Male,190.236.189.149,4GD3G61FU73,Home Office,Slough,England,United Kingdom,Office Supplies,Toys,Boho Macrame Wall Tapestry,5,0,$652.95,144.5
+777,2/12/2025,2/9/2025,Standard,Female,125.245.128.36,3UY4V73NM65,Home Office,New York City,New York,United States,Office Supplies,Pet Supplies,Artistic Abstract Painting,8,0,$10.31,13.35
+778,5/3/2024,8/8/2024,Next-day,Bigender,243.10.42.108,2W26M43NF02,Home Office,London,England,United Kingdom,Technology,Beauty Products,Sustainable Bamboo Salad Bowl,9,0.4,$124.90,144.3
+779,11/16/2024,5/27/2024,Express,Female,43.155.218.24,3CJ1GW6JW25,Home Office,Rennes,Brittany,France,Office Supplies,Electronics,Edgy Leather Cuff Bracelet,8,0,$298.08,144.27
+780,6/28/2024,8/6/2024,Economy,Polygender,157.15.44.15,6NA6HD4FX37,Home Office,Datong,Shanxi,China,Furniture,Books,Sleek Aluminum Water Bottle,3,0.2,$39.42,144.26
+781,6/30/2024,12/27/2024,Express,Polygender,20.73.52.109,8JA0G76DD88,Consumer,Albury,New South Wales,Australia,Technology,Beauty Products,Sophisticated Leather Laptop Sleeve,8,0,-$32.47,143.97
+782,5/22/2024,12/15/2024,Standard,Female,165.3.236.247,7GG8CM5NP39,Consumer,Oberhausen,North Rhine-Westphalia,Germany,Office Supplies,Kitchen Appliances,Whimsical Ceramic Mug,5,0.2,$551.96,143.81
+783,10/26/2024,5/4/2024,Standard,Male,203.21.182.194,8Q70G82YM26,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Furniture,Toys,Coastal Seashell Decor,3,0.15,$432.45,143.79
+784,4/15/2024,5/30/2024,Express,Female,242.243.5.232,1G30UX3RW21,Consumer,Tallinn,Harjumaa,Estonia,Technology,Kitchen Appliances,Sleek Aluminum Water Bottle,4,0.1,$469.44,143.67
+785,9/7/2024,11/15/2024,Economy,Female,159.152.202.125,4T77FG1RE87,Consumer,Chipata,Eastern,Zambia,Office Supplies,Clothing,Trendy Canvas Tote Bag,14,0,$95.76,143.67
+786,12/9/2024,8/27/2024,Next-day,Male,243.241.188.244,6X31UU8EU76,Corporate,Yaounde,Centre,Cameroon,Furniture,Outdoor Gear,Stylish Faux Fur Throw,2,0,$456.48,143.66
+787,2/9/2025,2/16/2025,Economy,Female,141.118.7.82,4MA4V40YY15,Consumer,Camagüey,Camagüey,Cuba,Technology,Home Decor,Glamorous Crystal Candle Holder,5,0,$851.80,143.652
+788,2/11/2025,1/23/2025,Next-day,Male,48.65.28.84,7HD2VC1TG90,Corporate,Ad Diwaniyah,Al Qadisiyah,Iraq,Office Supplies,Kitchen Appliances,Whimsical Unicorn Night Light,2,0,$412.74,143.64
+789,3/21/2024,7/30/2024,Standard,Female,6.4.61.134,8N71K65AV86,Home Office,Bergen,Hordaland,Norway,Office Supplies,Clothing,Vintage Brass Desk Lamp,7,0.002,$252.84,143.63
+790,9/25/2024,9/17/2024,Express,Female,100.106.171.106,1QU0MA4JT08,Home Office,Galati,Galati,Romania,Office Supplies,Books,Whimsical Fairy Lights,10,0.2,$285.60,143.59
+791,12/31/2024,6/28/2024,Next-day,Female,49.219.92.106,2FQ0DX0CN88,Consumer,Toowoomba,Queensland,Australia,Furniture,Beauty Products,Eco-Friendly Beeswax Wrap Set,7,0,$391.94,143.58
+792,4/4/2024,10/20/2024,Next-day,Male,192.97.143.185,7HV7CQ2QM92,Consumer,Kharkiv,Kharkiv,Ukraine,Office Supplies,Outdoor Gear,Industrial Metal Wall Clock,2,0,$29.76,143.51
+793,3/30/2024,6/21/2024,Standard,Male,177.45.231.145,9J63J43WF02,Home Office,Lahore,Punjab,Pakistan,Technology,Clothing,Glamorous Gold Bar Cart,3,0.1,-$237.56,143.42
+794,5/1/2024,7/10/2024,Economy,Male,77.183.191.222,8KA2XG1QJ00,Corporate,Bry-sur-Marne,Ile-de-France,France,Furniture,Beauty Products,Glamorous Mirrored Tray,7,0,$28.92,143.41
+795,11/7/2024,8/18/2024,Next-day,Female,199.10.195.6,4N36JY0ET85,Home Office,Balneário Camboriú,Santa Catarina,Brazil,Office Supplies,Toys,Cozy Cable Knit Blanket,4,0,$28.40,143.276
+796,4/14/2024,1/28/2025,Express,Male,47.69.35.235,7D28NG0YQ41,Home Office,Dreux,Centre-Val de Loire,France,Technology,Electronics,Timeless Pearl Drop Earrings,6,0.1,$94.86,143.23
+797,2/3/2025,4/25/2024,Express,Polygender,184.169.183.160,4PX0YY1NF28,Home Office,Toulouse,Languedoc-Roussillon-Midi-Pyrénées,France,Technology,Electronics,Rustic Wooden Picture Frame,13,0,"-$1,345.50",143.21
+798,11/8/2024,7/17/2024,Economy,Male,34.16.69.131,6YU5HF8DM97,Home Office,Mumbai,Maharashtra,India,Furniture,Sports Equipment,Rustic Woodland Wall Art,6,0,-$257.76,143.2
+799,11/21/2024,8/26/2024,Standard,Polygender,123.54.169.61,9CC2CX2WU97,Consumer,Los Angeles,California,United States,Furniture,Electronics,Stylish Faux Fur Throw,3,0.15,$13.76,9.27
+800,11/23/2024,10/7/2024,Economy,Male,126.59.46.10,4YY3KF7HF69,Home Office,Benghazi,Banghazi,Libya,Office Supplies,Outdoor Gear,Bohemian Beaded Bracelet,2,0.7,$16.50,143.11
+801,5/5/2024,10/28/2024,Express,Female,139.40.87.208,7CH5VN0UV04,Consumer,Bacoor,Calabarzon,Philippines,Technology,Home Decor,Sleek Stainless Steel Water Bottle,5,0.07,$26.66,143.09
+802,5/9/2024,5/5/2024,Standard,Male,10.244.166.54,1FW1JA0KR87,Home Office,Port Elizabeth,Eastern Cape,South Africa,Technology,Toys,Funky Retro Wall Clock,8,0.35,$243.84,143.07
+803,11/26/2024,8/22/2024,Economy,Male,252.101.62.107,9P77VH3MH60,Corporate,Chittagong,Chittagong,Bangladesh,Furniture,Outdoor Gear,Classic Monogrammed Stationery Set,8,0.17,$121.20,143.03
+804,4/8/2024,12/20/2024,Next-day,Female,97.185.243.136,2GE0UK7GK69,Home Office,Nanning,Guangxi,China,Office Supplies,Toys,Art Deco Velvet Armchair,7,0,"$1,031.52",142.99
+805,1/24/2025,11/26/2024,Express,Male,41.14.147.143,3AV1YJ1KJ25,Corporate,Stolberg,North Rhine-Westphalia,Germany,Technology,Beauty Products,Vintage Camera Lens Necklace,4,0.32,$126.32,142.97
+806,9/5/2024,7/12/2024,Next-day,Female,159.190.180.162,3VH6JE5TV47,Home Office,New York City,New York,United States,Furniture,Books,Whimsical Fairy Lights,2,0.15,$45.98,7.78
+807,3/27/2024,4/30/2024,Express,Female,221.20.172.236,2U09N45PT80,Corporate,Trenton,Michigan,United States,Technology,Toys,Vintage Typewriter Key Necklace,2,0,$19.81,6.98
+808,1/7/2025,4/22/2024,Standard,Genderqueer,125.29.174.98,2NE7A01HY17,Consumer,San Francisco,California,United States,Furniture,Books,Bold Graphic Print Poster,3,0,-$17.46,90.81
+809,6/29/2024,6/24/2024,Next-day,Female,199.195.176.158,7WG2CC4WU24,Consumer,Bari,Apulia,Italy,Furniture,Sports Equipment,Classic Monogrammed Stationery Set,3,0,$0.00,142.63
+810,7/29/2024,7/31/2024,Next-day,Non-binary,82.43.237.101,8AA9HM7FW87,Home Office,Xining,Qinghai,China,Furniture,Books,Industrial Metal Wall Clock,7,0.4,$611.10,142.55
+811,3/3/2024,7/7/2024,Economy,Male,31.234.144.224,5M58VX0UE30,Consumer,Chelyabinsk,Chelyabinsk,Russia,Technology,Books,Classic Stainless Steel Watch,6,0,$519.30,142.51
+812,7/25/2024,12/3/2024,Standard,Female,54.172.170.28,3NG3YT1NE22,Consumer,Tabuk,Tabuk,Saudi Arabia,Office Supplies,Clothing,Rustic Farmhouse Sign,4,0,$925.44,142.47
+813,1/4/2025,3/28/2024,Next-day,Female,191.32.253.175,8CF6KC4TE85,Corporate,Leeds,England,United Kingdom,Furniture,Toys,Playful Cactus Print Pillow,6,0.002,$708.12,142.47
+814,3/23/2024,6/9/2024,Express,Female,235.122.32.80,5FK3U59WG41,Home Office,Ningbo,Zhejiang,China,Furniture,Beauty Products,Artistic Hand-Painted Plate,6,0.07,$59.17,142.46
+815,5/4/2024,12/25/2024,Economy,Female,186.222.152.180,2NU6KM4MW60,Corporate,Puebla,Puebla,Mexico,Office Supplies,Books,Elegant Sapphire Necklace,7,0.6,$132.52,142.408
+816,3/22/2024,2/14/2025,Express,Female,206.212.107.112,2VR1WN8CA12,Corporate,Guiyang,Guizhou,China,Furniture,Toys,Whimsical Unicorn Night Light,2,0.5,$207.66,142.38
+817,4/13/2024,3/21/2024,Standard,Female,83.229.21.180,3V76GR7PE30,Consumer,Durango,Durango,Mexico,Technology,Electronics,Coastal Seashell Jewelry Box,3,0.1,-$102.01,142.27
+818,2/22/2024,6/8/2024,Next-day,Female,64.195.125.98,7VX5AF8JX08,Home Office,Mount Isa,Queensland,Australia,Technology,Outdoor Gear,Stylish Engraved Cuff Bracelet,2,0,$157.70,142.21
+819,9/13/2024,5/24/2024,Economy,Bigender,48.83.62.33,8YX0FC0QM37,Corporate,Houston,Texas,United States,Furniture,Electronics,Funky Neon Wall Clock,5,0,-$15.99,14.12
+820,5/14/2024,10/20/2024,Economy,Genderfluid,181.154.200.213,9DV6MX9DP24,Home Office,Ballarat,Victoria,Australia,Technology,Books,Timeless Diamond Stud Earrings,7,0.2,$143.33,142.19
+821,10/12/2024,8/26/2024,Express,Female,217.3.242.85,8YR4JN8GK33,Consumer,Philadelphia,Pennsylvania,United States,Technology,Sports Equipment,Vintage-Inspired Globe Bar Cart,3,0,$21.59,6.09
+822,8/18/2024,9/16/2024,Standard,Female,165.101.62.138,6K50MM4GD81,Consumer,Houston,Texas,United States,Technology,Electronics,Coastal Nautical Rope Mirror,4,0,-$53.07,5.62
+823,9/20/2024,1/11/2025,Next-day,Male,152.146.251.106,7HK2QY9KQ82,Consumer,Tokyo,Tokyo,Japan,Furniture,Sports Equipment,Eclectic Woven Throw Blanket,6,0.1,$541.62,141.98
+824,9/8/2024,11/15/2024,Standard,Female,109.84.167.194,2WF3YN3DD64,Home Office,Barcelona,Catalonia,Spain,Technology,Books,Edgy Leather Cuff Bracelet,2,0,$210.66,141.92
+825,10/15/2024,4/7/2024,Next-day,Female,225.227.250.23,6GX9NE7NJ36,Consumer,Garbsen,Lower Saxony,Germany,Furniture,Home Decor,Glamorous Mirrored Tray,9,0.2,$266.49,141.9
+826,9/8/2024,1/26/2025,Next-day,Male,22.73.85.103,5XC6GE0VK80,Corporate,Bene Beraq,Tel Aviv,Israel,Furniture,Books,Retro Vintage Film Camera,4,0.2,$0.00,141.73
+827,10/29/2024,9/21/2024,Economy,Male,212.22.106.130,8K60P08MJ97,Corporate,San Francisco,California,United States,Furniture,Home Decor,Coastal Nautical Rope Mirror,2,0.1,$2.80,2.02
+828,2/21/2024,10/29/2024,Next-day,Male,199.42.54.218,9CQ1UU7RF46,Consumer,Bangkok,Bangkok,Thailand,Technology,Books,Whimsical Unicorn Night Light,8,0,-$813.61,141.65
+829,4/11/2024,5/17/2024,Economy,Male,227.99.88.43,9VG3KQ4GN40,Consumer,Rotherham,England,United Kingdom,Furniture,Outdoor Gear,Chic Marble Coaster Set,3,0.002,$57.24,141.62
+830,2/12/2025,4/9/2024,Express,Female,54.25.182.185,1RW7MM9KP25,Corporate,Hastings,Hawke's Bay,New Zealand,Office Supplies,Kitchen Appliances,Minimalist Glass Vase,6,0,$638.46,141.56
+831,12/17/2024,1/20/2025,Economy,Female,222.70.171.236,4U01XE4MG66,Consumer,Bekasi,Jawa Barat,Indonesia,Technology,Pet Supplies,Bohemian Beaded Bracelet,5,0,$706.56,141.54
+832,11/11/2024,9/12/2024,Standard,Female,123.155.205.165,9YH6Y12HM15,Consumer,London,England,United Kingdom,Technology,Beauty Products,Minimalist Concrete Coasters,4,0.2,$559.74,141.54
+833,8/22/2024,4/10/2024,Next-day,Male,127.156.29.114,8RW5J46TF37,Corporate,Los Angeles,California,United States,Furniture,Outdoor Gear,Minimalist Wooden Desk Organizer,9,0,$22.41,31.39
+834,3/29/2024,4/14/2024,Next-day,Female,60.88.109.12,1AX8FT3XE33,Corporate,Cork,Cork,Ireland,Furniture,Kitchen Appliances,Whimsical Fairy Lights,5,0,-$247.13,141.5
+835,11/7/2024,5/4/2024,Standard,Male,204.199.125.155,8KY8DG9CD78,Consumer,Los Angeles,California,United States,Office Supplies,Books,Timeless Diamond Stud Earrings,1,0.27,$68.04,14.17
+836,8/25/2024,10/23/2024,Next-day,Male,176.168.92.53,1Y64DY3VP63,Corporate,Roodepoort,Gauteng,South Africa,Office Supplies,Toys,Industrial Pipe Shelving Unit,1,0.5,$78.12,141.37
+837,9/5/2024,4/1/2024,Standard,Female,175.155.232.68,1GH0TR8UW42,Consumer,Los Angeles,California,United States,Furniture,Toys,Elegant Sapphire Necklace,2,0.2,$3.35,3.2
+838,5/4/2024,1/27/2025,Standard,Male,156.125.188.39,1P35JR5CK84,Consumer,Fontaine,Auvergne-Rhône-Alpes,France,Technology,Clothing,Coastal Seashell Jewelry Box,4,0,$759.26,141.35
+839,8/23/2024,1/20/2025,Express,Female,193.104.230.126,5AC8C98QE42,Corporate,Bremen,Bremen,Germany,Furniture,Outdoor Gear,Coastal Seashell Decor,9,0.2,-$12.96,141.34
+840,11/17/2024,8/30/2024,Standard,Male,13.187.242.149,4E91N47RC92,Consumer,Rabat,Rabat-Salé-Zemmour-Zaer,Morocco,Office Supplies,Beauty Products,Chic Rose Gold Earrings,4,0.002,$741.60,141.32
+841,1/16/2025,3/19/2024,Express,Male,31.187.82.235,1WJ7M28MW79,Consumer,Christchurch,Canterbury,New Zealand,Technology,Toys,Trendy Canvas Tote Bag,2,0,$290.34,141.29
+842,9/30/2024,6/30/2024,Economy,Male,73.57.156.71,4UG8UJ1KK10,Home Office,Tamarac,Florida,United States,Office Supplies,Books,Modern Concrete Planter,1,0,-$2.53,1.85
+843,11/16/2024,7/11/2024,Next-day,Female,178.50.9.25,5GY0TD3MX51,Corporate,Los Angeles,California,United States,Technology,Home Decor,Whimsical Ceramic Mug,2,0,$3.08,1.78
+844,7/4/2024,3/17/2024,Standard,Male,46.27.236.47,3XN2X29HV93,Consumer,José Bonifácio,São Paulo,Brazil,Office Supplies,Outdoor Gear,Rustic Farmhouse Sign,2,0,$7.05,141.208
+845,1/6/2025,3/5/2024,Economy,Male,91.246.150.212,3MH6UE5GJ09,Consumer,Lusaka,Lusaka,Zambia,Technology,Beauty Products,Playful Emoji Pillow,2,0.1,$261.18,141.2
+846,7/10/2024,3/16/2024,Standard,Male,135.48.59.101,2WA0MT0EY82,Home Office,Leeds,England,United Kingdom,Office Supplies,Clothing,Boho Macrame Wall Tapestry,5,0.1,"$1,040.55",141.12
+847,9/14/2024,3/5/2024,Economy,Female,97.48.214.94,8Y15G41UR17,Corporate,Saint-Priest,Auvergne-Rhône-Alpes,France,Office Supplies,Pet Supplies,Industrial Pipe Coat Rack,4,0,$174.64,141.04
+848,3/26/2024,12/22/2024,Next-day,Female,148.175.58.194,6CF9CJ0KJ04,Corporate,Los Angeles,California,United States,Furniture,Sports Equipment,Retro Vinyl Record Storage,2,0.2,$2.79,1.5
+849,9/6/2024,11/9/2024,Standard,Female,196.5.169.131,2HT7NY8CR61,Home Office,Shanghai,Shanghai,China,Technology,Clothing,Coastal Seashell Decor,6,0,$124.02,140.99
+850,2/6/2025,10/20/2024,Next-day,Male,165.199.177.18,5GX0AD9RE76,Home Office,Basra,Al Basrah,Iraq,Furniture,Pet Supplies,Minimalist Desk Organizer,6,0.2,$698.40,140.93
+851,11/15/2024,10/18/2024,Next-day,Male,158.125.165.182,1AJ7GW8NX29,Corporate,Pretoria,Gauteng,South Africa,Technology,Kitchen Appliances,Quirky Pop Art Print,14,0.25,$690.90,140.88
+852,1/14/2025,7/5/2024,Express,Female,152.103.112.176,1EA1EE4VN22,Corporate,Bandung,Jawa Barat,Indonesia,Office Supplies,Clothing,Bold Geometric Area Rug,3,0,$97.38,140.86
+853,7/21/2024,2/15/2025,Economy,Female,137.16.29.124,4F09KR0EX85,Home Office,Manila,National Capital,Philippines,Office Supplies,Toys,Industrial Pipe Shelving Unit,3,0.1,-$32.26,140.77
+854,5/16/2024,2/28/2024,Standard,Male,17.142.82.75,9XJ5H77JK33,Corporate,Meriden,Connecticut,United States,Furniture,Kitchen Appliances,Trendy Succulent Planter,4,0,$2.89,1.43
+855,6/23/2024,8/23/2024,Economy,Female,114.142.82.75,6G61CX1UA68,Corporate,Meizhou,Guangdong,China,Furniture,Electronics,Playful Emoji Pillow,2,0,$129.90,140.72
+856,11/21/2024,12/8/2024,Next-day,Male,95.155.146.101,3HC6VX7XT91,Consumer,Guasave,Sinaloa,Mexico,Furniture,Home Decor,Quirky Pop Art Print,5,0,$176.81,140.7
+857,1/27/2025,4/19/2024,Economy,Male,56.157.233.131,5MU8TM2HE76,Home Office,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Office Supplies,Beauty Products,Boho Rattan Basket,5,0,-$320.23,140.66
+858,10/14/2024,3/1/2024,Economy,Male,26.101.48.212,5HP1AT5DP74,Home Office,Brisbane,Queensland,Australia,Office Supplies,Pet Supplies,Stylish Enamel Pin Set,5,0,$725.09,140.62
+859,2/9/2025,9/5/2024,Standard,Bigender,136.122.144.209,7Q91D44XX73,Corporate,Akron,Ohio,United States,Office Supplies,Sports Equipment,Modern Hanging Plant Holder,3,0,-$4.59,1.1
+860,7/25/2024,3/1/2024,Express,Male,25.190.165.248,8NR1GW2UH83,Consumer,Auckland,Auckland,New Zealand,Technology,Beauty Products,Bohemian Dreamcatcher Wall Decor,4,0,-$52.34,140.59
+861,8/13/2024,12/14/2024,Standard,Male,243.2.21.34,8YK1H58PH10,Consumer,Santana de Parnaíba,São Paulo,Brazil,Office Supplies,Toys,Chic Marble Serving Tray,5,0.5,$301.47,140.523
+862,8/20/2024,11/7/2024,Standard,Female,250.157.236.0,9Q97R66WP92,Consumer,Mianyang,Sichuan,China,Technology,Electronics,Industrial Pipe Shelving Unit,3,0.1,$279.36,140.34
+863,11/16/2024,10/29/2024,Standard,Female,208.81.196.253,8PW1PV6WX25,Corporate,Los Angeles,California,United States,Technology,Toys,Rustic Farmhouse Sign,4,0,$5.43,1.06
+864,1/10/2025,5/24/2024,Standard,Male,247.45.5.12,8P20PP6QC54,Home Office,Utrecht,Utrecht,Netherlands,Furniture,Beauty Products,Playful Animal Print Rug,7,0,-$343.46,140.15
+865,5/28/2024,2/5/2025,Economy,Male,74.146.19.60,5DQ5R62YA79,Consumer,Lafayette,Louisiana,United States,Office Supplies,Toys,Modern Geometric Plant Stand,2,0,$33.31,287.77
+866,2/22/2024,1/2/2025,Standard,Female,227.216.104.51,6EU7G81VY67,Consumer,Mianyang,Sichuan,China,Furniture,Kitchen Appliances,Glamorous Gold Bar Cart,6,0,$174.42,140.11
+867,4/23/2024,1/15/2025,Next-day,Genderfluid,237.114.3.113,9U50YX5HG36,Home Office,Minneapolis,Minnesota,United States,Technology,Kitchen Appliances,Sleek Stainless Steel Water Bottle,2,0,$843.17,271.12
+868,9/20/2024,4/19/2024,Standard,Female,137.216.164.210,3R89TR8YN52,Home Office,Avondale,Arizona,United States,Office Supplies,Outdoor Gear,Eco-Friendly Beeswax Wrap Set,8,0,$83.51,241.86
+869,2/4/2025,10/19/2024,Next-day,Female,153.243.131.170,2N95EK3RU74,Home Office,Turin,Piedmont,Italy,Technology,Kitchen Appliances,Edgy Skull Print Shower Curtain,3,0,$420.30,139.93
+870,12/15/2024,8/3/2024,Express,Bigender,88.239.220.31,9U11M83EP63,Corporate,Liaocheng,Shandong,China,Technology,Books,Charming Floral Tea Towel,12,0.1,$381.60,139.92
+871,8/16/2024,7/18/2024,Express,Male,251.87.24.63,6FD5U69FA54,Corporate,Aubervilliers,Ile-de-France,France,Office Supplies,Outdoor Gear,Retro Vintage Film Camera,3,0,-$385.11,139.9
+872,4/13/2024,2/27/2024,Economy,Agender,230.172.182.178,5KF8M55CU26,Home Office,Bandung,Jawa Barat,Indonesia,Technology,Pet Supplies,Vintage Brass Desk Lamp,4,0,$302.06,139.89
+873,1/28/2025,3/8/2024,Economy,Female,6.144.42.15,6JM4VF2DA18,Consumer,Geraldton,Western Australia,Australia,Office Supplies,Sports Equipment,Quirky Pop Art Print,7,0,$36.62,139.84
+874,9/13/2024,1/2/2025,Express,Female,228.12.123.224,8QF2H37AC19,Home Office,Upper Hutt,Wellington,New Zealand,Furniture,Electronics,Vintage Typewriter Key Necklace,4,0,$29.64,139.79
+875,10/3/2024,5/19/2024,Express,Male,58.145.21.168,4CX4NM5CM36,Consumer,Seattle,Washington,United States,Technology,Beauty Products,Timeless Pearl Necklace,5,0,$381.24,152.22
+876,7/13/2024,4/9/2024,Standard,Male,1.155.21.159,4GK3Q70WU35,Consumer,Neuilly-sur-Seine,Ile-de-France,France,Office Supplies,Home Decor,Industrial Pipe Coat Rack,6,0.1,$730.26,139.75
+877,3/27/2024,8/3/2024,Standard,Male,46.91.87.16,4GU8UW7QP07,Corporate,Faridabad,Haryana,India,Furniture,Sports Equipment,Vintage Camera Lens Necklace,2,0,$618.48,139.73
+878,10/30/2024,10/13/2024,Next-day,Female,47.223.152.1,2UP3HX2VR80,Consumer,Tegucigalpa,Francisco Morazán,Honduras,Furniture,Electronics,Whimsical Unicorn Night Light,3,0.17,$73.93,139.689
+879,3/6/2024,5/17/2024,Express,Female,209.44.128.144,6WC6JX5PD83,Consumer,Regina,Saskatchewan,Canada,Furniture,Books,Classic Leather Passport Cover,4,0,$24.72,9.86
+880,5/13/2024,6/2/2024,Next-day,Male,210.123.131.208,5PA6QU2XJ81,Corporate,New York City,New York,United States,Technology,Clothing,Rustic Woodland Wall Art,11,0,$17.64,5.25
+881,5/18/2024,12/18/2024,Express,Female,168.167.165.183,3N74AE4JF77,Consumer,Cape Town,Western Cape,South Africa,Furniture,Toys,Modern Geometric Plant Stand,1,0.2,$101.07,139.62
+882,8/27/2024,11/23/2024,Express,Female,242.230.0.240,5X35MQ0AU04,Corporate,Tampa,Florida,United States,Office Supplies,Outdoor Gear,Glamorous Crystal Candle Holder,1,0,-$0.73,3.26
+883,3/28/2024,6/26/2024,Standard,Female,233.1.137.191,6QH9VJ7RH69,Home Office,Paris,Ile-de-France,France,Office Supplies,Home Decor,Charming Vintage Tea Set,5,0,$222.36,139.58
+884,6/30/2024,3/9/2024,Standard,Female,99.102.209.155,2CP7YW8TG11,Home Office,Brisbane,Queensland,Australia,Technology,Sports Equipment,Edgy Skull Print Throw Blanket,4,0.4,-$34.84,139.52
+885,9/8/2024,10/24/2024,Express,Female,40.112.168.225,5M18KA8MM29,Corporate,Cape Town,Western Cape,South Africa,Office Supplies,Kitchen Appliances,Glamorous Crystal Candle Holder,4,0,$193.44,139.52
+886,7/25/2024,1/14/2025,Economy,Male,46.252.31.194,7TM2MX2NH24,Home Office,Mississauga,Ontario,Canada,Office Supplies,Beauty Products,Bold Geometric Area Rug,2,0.2,$9.60,2.81
+887,2/16/2025,11/12/2024,Next-day,Female,155.161.68.76,7CX5K66XN95,Home Office,Santa Ana,Santa Ana,El Salvador,Technology,Kitchen Appliances,Minimalist Desk Organizer,6,0.2,$297.48,139.508
+888,4/17/2024,9/15/2024,Express,Male,213.150.244.113,2AG0KA4FY98,Corporate,Jixi,Heilongjiang,China,Furniture,Toys,Quirky Pop Art Print,3,0,$127.26,139.49
+889,2/29/2024,10/4/2024,Next-day,Male,49.100.53.63,2VE2V56VF64,Home Office,Villa Nueva,Guatemala,Guatemala,Office Supplies,Toys,Retro Vintage Film Camera,3,0.5,$134.21,139.487
+890,9/18/2024,4/8/2024,Standard,Female,210.249.2.217,8PP0PR0TP20,Home Office,Pembroke Pines,Florida,United States,Office Supplies,Books,Coastal Seashell Jewelry Box,2,0,$5.80,1.93
+891,11/7/2024,1/30/2025,Next-day,Male,217.228.64.23,1AR8KW8WP78,Home Office,Kharkiv,Kharkiv,Ukraine,Technology,Clothing,Glamorous Mirrored Tray,2,0,$371.16,139.44
+892,10/29/2024,3/29/2024,Express,Male,153.122.167.152,1G01RE9NU15,Home Office,Mashhad,Razavi Khorasan,Iran,Office Supplies,Beauty Products,Sleek Glass Water Pitcher,6,0,$83.16,139.23
+893,2/4/2025,3/19/2024,Standard,Male,28.11.128.136,7GP5VX5CP59,Consumer,Le Havre,Normandy,France,Technology,Books,Unique Hand-Carved Wooden Bowl,13,0,$180.41,139.2
+894,4/26/2024,10/12/2024,Standard,Female,156.76.147.166,3DT6VV3MT61,Corporate,Givors,Auvergne-Rhône-Alpes,France,Technology,Home Decor,Eco-Friendly Reusable Straw Set,4,0.1,$130.20,139.08
+895,11/19/2024,11/8/2024,Express,Male,61.97.131.39,1Y33HH6AC59,Corporate,Dormagen,North Rhine-Westphalia,Germany,Technology,Kitchen Appliances,Industrial Steampunk Desk Lamp,7,0,$63.63,139.07
+896,7/7/2024,8/24/2024,Next-day,Non-binary,3.163.237.101,9P43T30EH56,Home Office,Mwanza,Mwanza,Tanzania,Furniture,Beauty Products,Vintage Camera Lens Necklace,10,0,-$137.34,139.05
+897,10/7/2024,10/3/2024,Express,Male,179.20.106.232,8MY4MK1JV38,Consumer,New York City,New York,United States,Office Supplies,Beauty Products,Art Deco Velvet Armchair,3,0,$8.07,1.75
+898,6/29/2024,3/2/2024,Economy,Female,62.106.34.67,8AP3VM1MP92,Corporate,Antananarivo,Analamanga,Madagascar,Furniture,Clothing,Chic Linen Table Runner,4,0,$181.32,138.96
+899,4/17/2024,5/31/2024,Economy,Male,254.75.4.135,7UV1K21XF44,Consumer,Antipolo,Calabarzon,Philippines,Furniture,Sports Equipment,Timeless Pearl Drop Earrings,5,0,-$174.87,138.93
+900,10/19/2024,1/24/2025,Express,Male,43.138.206.31,5NN3RX5WJ11,Home Office,Pembroke Pines,Florida,United States,Technology,Electronics,Sleek Aluminum Water Bottle,9,0,-$6.00,1.27
+901,3/29/2024,1/18/2025,Economy,Female,194.206.179.65,7JM6EC4TT82,Corporate,Jakarta,Jakarta,Indonesia,Technology,Sports Equipment,Rustic Wooden Picture Frame,4,,$73.79,138.9
+902,8/20/2024,5/1/2024,Express,Male,89.202.89.181,2CT8U94DV57,Corporate,Manila,National Capital,Philippines,Technology,Beauty Products,Stylish Faux Fur Throw,5,,-$471.79,138.87
+903,2/20/2024,1/29/2025,Express,Female,143.158.117.54,4J33JX2UH14,Consumer,Denpasar,Bali,Indonesia,Technology,Kitchen Appliances,Modern Geometric Plant Stand,7,,$347.09,138.79
+904,3/1/2024,9/21/2024,Standard,Female,63.109.126.177,4KJ8EC3JP37,Consumer,Petapa,Guatemala,Guatemala,Office Supplies,Sports Equipment,Minimalist Desk Organizer,6,,$378.84,138.78
+905,10/10/2024,2/26/2024,Express,Female,32.44.78.105,2N23J65HU86,Consumer,Dallas,Texas,United States,Technology,Sports Equipment,Artistic Abstract Painting,9,,-$437.54,119.72
+906,9/1/2024,8/31/2024,Express,Female,202.204.155.86,9PK6QN1CU01,Consumer,Miramas,Provence-Alpes-Côte d'Azur,France,Office Supplies,Pet Supplies,Minimalist Wooden Desk Organizer,4,,$105.47,138.75
+907,8/18/2024,6/9/2024,Next-day,Male,242.3.230.20,3AF3WE6PK80,Corporate,Tlalnepantla,México,Mexico,Office Supplies,Outdoor Gear,Bohemian Beaded Bracelet,6,,$751.80,138.706
+908,7/5/2024,12/19/2024,Express,Male,22.43.56.49,9XH8WF7RC07,Corporate,Barcelona,Catalonia,Spain,Furniture,Beauty Products,Dainty Rose Gold Hoop Earrings,3,,$11.61,138.49
+909,1/30/2025,3/10/2024,Next-day,Male,189.246.31.245,7XF4J90ET84,Consumer,Mabopane,Gauteng,South Africa,Office Supplies,Kitchen Appliances,Chic Rose Gold Earrings,8,,$225.36,138.49
+910,9/1/2024,12/17/2024,Next-day,Male,91.232.139.93,5V52C20YJ78,Consumer,David,Chiriquí,Panama,Technology,Pet Supplies,Glamorous Crystal Candle Holder,10,,-$535.32,138.486
+911,7/29/2024,10/2/2024,Standard,Female,113.149.214.68,9GX4NJ4KX93,Consumer,Chihuahua,Chihuahua,Mexico,Office Supplies,Kitchen Appliances,Vintage Camera Lens Necklace,8,,$183.36,138.471
+912,11/12/2024,6/8/2024,Standard,Male,131.194.160.180,2CU7WT1WP86,Consumer,Managua,Managua,Nicaragua,Technology,Electronics,Eclectic Patchwork Quilt,7,,$222.74,138.414
+913,4/6/2024,6/14/2024,Economy,Female,51.72.204.171,2MU0GC3HT46,Home Office,Irapuato,Guanajuato,Mexico,Office Supplies,Pet Supplies,Industrial Steampunk Desk Lamp,4,,$42.93,138.401
+914,4/25/2024,4/9/2024,Economy,Female,244.157.221.31,4KQ2JG0XD09,Home Office,Jakarta,Jakarta,Indonesia,Office Supplies,Clothing,Unique Handmade Pottery Bowl,4,,$311.90,138.36
+915,4/20/2024,2/2/2025,Express,Female,80.217.138.69,9MA6GP7NF67,Home Office,Dos Hermanas,Andalusía,Spain,Technology,Books,Industrial Metal Wall Clock,8,,-$362.78,138.34
+916,7/8/2024,1/6/2025,Standard,Male,144.146.35.93,9KN2DE4TC22,Home Office,Wuhan,Hubei,China,Furniture,Pet Supplies,Luxury Leather Wallet,6,,"-$1,097.28",138.33
+917,6/12/2024,9/15/2024,Standard,Female,75.218.180.147,8P09YC1RR26,Corporate,Hamburg,Hamburg,Germany,Office Supplies,Toys,Industrial Steampunk Desk Lamp,3,,$242.03,138.31
+918,5/27/2024,1/6/2025,Standard,Male,38.27.4.223,5P24M30RT24,Consumer,Alice Springs,Northern Territory,Australia,Office Supplies,Toys,Boho Macrame Wall Hanging,2,,$489.42,138.24
+919,12/19/2024,9/28/2024,Economy,Female,126.245.90.41,3T17MW7JC04,Consumer,Ufa,Bashkortostan,Russia,Office Supplies,Home Decor,Chic Marble Serving Tray,6,,$51.84,138.18
+920,8/15/2024,9/11/2024,Express,Male,20.22.180.105,4M48WQ1UP17,Consumer,Villa Frontera,Coahuila,Mexico,Furniture,Books,Bold Geometric Area Rug,5,,-$58.44,138.144
+921,5/3/2024,8/18/2024,Next-day,Female,211.140.211.239,1KR9KM5FX92,Home Office,New York City,New York,United States,Office Supplies,Beauty Products,Bohemian Fringe Hammock,3,,$134.99,54.33
+922,2/5/2025,1/13/2025,Standard,Non-binary,175.95.200.117,2YR0DN4WU25,Consumer,Suzhou,Jiangsu,China,Office Supplies,Electronics,Chic Velvet Throw Pillow,4,,$393.48,138.04
+923,7/24/2024,12/14/2024,Standard,Male,241.144.141.237,2YJ9NT0XK53,Consumer,Brisbane,Queensland,Australia,Technology,Outdoor Gear,Artistic Abstract Painting,7,,$110.65,138.04
+924,12/15/2024,10/17/2024,Economy,Female,18.226.81.30,4A27MQ9JW25,Consumer,Hartlepool,England,United Kingdom,Technology,Clothing,Industrial Pipe Coat Rack,3,,$239.58,138.03
+925,10/13/2024,10/31/2024,Express,Polygender,173.21.246.158,7U06U30VQ86,Home Office,Dallas,Texas,United States,Furniture,Clothing,Quirky Cat Print Tote Bag,5,,$84.66,25.58
+926,10/13/2024,7/10/2024,Economy,Female,11.210.233.59,5EN4H50EC19,Home Office,Orizaba,Veracruz,Mexico,Furniture,Beauty Products,Coastal Nautical Rope Mirror,3,,$269.70,137.904
+927,9/13/2024,5/1/2024,Next-day,Male,18.158.118.206,2CN4J21RK31,Corporate,Mackay,Queensland,Australia,Furniture,Clothing,Art Deco Velvet Armchair,6,,-$0.16,137.9
+928,2/22/2024,1/2/2025,Standard,Agender,70.191.12.96,4X23RN9YD78,Corporate,New York City,New York,United States,Furniture,Books,Industrial Pipe Shelving Unit,2,,$5.87,4.26
+929,2/29/2024,2/27/2024,Next-day,Male,10.40.36.239,8FK8TA7TY29,Consumer,Morelia,Michoacán,Mexico,Office Supplies,Outdoor Gear,Sleek Aluminum Water Bottle,8,,$166.21,137.684
+930,9/13/2024,4/18/2024,Express,Male,140.193.19.204,2W79VV7CY23,Corporate,Lázaro Cárdenas,Michoacán,Mexico,Furniture,Toys,Modern Geometric Plant Stand,4,,$73.92,137.667
+931,4/18/2024,2/26/2024,Economy,Female,20.196.33.151,9HC6YU8TP05,Corporate,Kinshasa,Kinshasa,Democratic Republic of the Congo,Furniture,Kitchen Appliances,Trendy Canvas Tote Bag,4,,$0.00,137.65
+932,10/21/2024,11/1/2024,Next-day,Female,228.125.87.84,7R35R31DQ14,Consumer,San Francisco,California,United States,Office Supplies,Sports Equipment,Artistic Abstract Painting,2,,-$1.78,3.92
+933,4/9/2024,6/8/2024,Express,Female,10.213.169.205,5D65HG4FP10,Corporate,Mexico City,Distrito Federal,Mexico,Office Supplies,Home Decor,Whimsical Ceramic Mug,4,,$220.56,137.604
+934,3/26/2024,9/15/2024,Next-day,Male,230.177.179.196,8P63YJ7ER39,Corporate,Nancy,Alsace-Champagne-Ardenne-Lorraine,France,Office Supplies,Pet Supplies,Quirky Cat Print Tote Bag,5,,$98.55,137.53
+935,4/14/2024,1/17/2025,Express,Female,140.69.164.216,8H79P16PH02,Corporate,Surabaya,Jawa Timur,Indonesia,Office Supplies,Electronics,Boho Rattan Basket,7,,-$56.76,137.51
+936,6/17/2024,9/3/2024,Economy,Female,243.128.133.74,9H14EG8JP24,Consumer,Busan,Busan,South Korea,Technology,Clothing,Timeless Pearl Necklace,3,,-$302.36,137.5
+937,1/20/2025,6/7/2024,Standard,Male,126.2.32.119,4G62MW8GW55,Consumer,Bartlett,Tennessee,United States,Technology,Beauty Products,Glamorous Crystal Chandelier,8,,$10.01,3.12
+938,1/7/2025,12/3/2024,Economy,Male,68.93.38.18,8TC4V51VG14,Corporate,Shaoxing,Zhejiang,China,Furniture,Clothing,Sleek Glass Water Pitcher,2,,$370.86,137.43
+939,10/31/2024,9/8/2024,Next-day,Male,204.252.236.192,6JY6MX1CU69,Corporate,Dallas,Texas,United States,Office Supplies,Home Decor,Sophisticated Leather Laptop Sleeve,3,,$0.79,1.84
+940,8/5/2024,2/1/2025,Standard,Genderqueer,193.79.64.34,4C19GE8DE43,Home Office,Holguín,Holguín,Cuba,Office Supplies,Home Decor,Charming Floral Tea Cup Set,5,,$73.47,137.399
+941,1/11/2025,3/8/2024,Standard,Female,222.166.234.251,4TF8AY1NR75,Consumer,Korba,Chhattisgarh,India,Technology,Electronics,Minimalist Glass Vase,7,,$408.24,137.38
+942,7/11/2024,3/12/2024,Economy,Female,35.104.78.47,6FX9CD5HW99,Home Office,Viterbo,Lazio,Italy,Technology,Outdoor Gear,Modern Hanging Plant Holder,6,,$840.78,137.15
+943,1/16/2025,10/18/2024,Economy,Male,72.220.2.147,2D15DC0PK47,Corporate,Mecca,Makkah,Saudi Arabia,Office Supplies,Outdoor Gear,Vintage-Inspired Rotary Phone,10,,$20.10,137.14
+944,4/18/2024,9/26/2024,Next-day,Male,83.176.125.73,6VX2ED1EW11,Corporate,Decatur,Alabama,United States,Office Supplies,Electronics,Classic Leather Passport Cover,3,,$6.87,1.54
+945,8/9/2024,11/3/2024,Standard,Male,103.142.90.51,7C72C28GX57,Home Office,Gold Coast,Queensland,Australia,Office Supplies,Beauty Products,Trendy Succulent Planter,2,,-$0.05,137.04
+946,7/7/2024,5/3/2024,Economy,Female,247.240.251.167,1N84QQ9FH50,Corporate,Carcassonne,Languedoc-Roussillon-Midi-Pyrénées,France,Furniture,Electronics,Vintage-Inspired Record Player,7,,$296.33,137.03
+947,9/16/2024,4/14/2024,Express,Male,30.136.31.94,6MV2YX9MQ71,Home Office,Villach,Carinthia,Austria,Office Supplies,Beauty Products,Modern Marble Coaster Set,7,,$793.80,136.99
+948,4/27/2024,9/10/2024,Express,Male,110.47.139.61,6F09ET8WR69,Corporate,Tlaquepaque,Jalisco,Mexico,Technology,Sports Equipment,Stylish Faux Fur Throw,6,,$160.63,136.943
+949,7/1/2024,5/6/2024,Economy,Female,49.52.248.180,5P62QN2UW74,Corporate,Altamura,Apulia,Italy,Office Supplies,Clothing,Sleek Stainless Steel Water Bottle,7,,$120.33,136.93
+950,12/8/2024,8/14/2024,Next-day,Male,194.29.66.141,2HD5PY6RQ45,Home Office,Quito,Pichincha,Ecuador,Furniture,Toys,Sleek Aluminum Water Bottle,5,,$228.68,136.908
+951,2/23/2024,1/5/2025,Standard,Female,77.4.154.246,3TQ1YY2WE86,Consumer,Manila,National Capital,Philippines,Furniture,Kitchen Appliances,Rustic Woodland Wall Art,2,,-$153.02,136.9
+952,5/2/2024,9/12/2024,Standard,Male,243.119.35.211,6YP1T21YJ70,Home Office,Reynosa,Tamaulipas,Mexico,Technology,Books,Timeless Pearl Drop Earrings,5,,$475.80,136.847
+953,5/10/2024,11/4/2024,Express,Male,217.209.222.151,8N50WE7NC35,Corporate,Perth,Western Australia,Australia,Office Supplies,Kitchen Appliances,Whimsical Starburst Wall Art,3,,$146.09,136.79
+954,4/11/2024,11/27/2024,Next-day,Female,248.153.179.199,7G88CH8KP00,Corporate,Toronto,Ontario,Canada,Technology,Home Decor,Minimalist Glass Vase,2,,$488.10,109.66
+955,2/20/2024,4/8/2024,Express,Female,58.73.116.104,5TP2DN6FJ42,Home Office,Ezhou,Hubei,China,Office Supplies,Home Decor,Glamorous Gold Bar Cart,4,,$455.76,136.64
+956,7/25/2024,2/13/2025,Next-day,Male,111.163.118.180,1F66F48QW82,Corporate,Escuintla,Escuintla,Guatemala,Office Supplies,Beauty Products,Bohemian Fringe Hammock,9,,$710.28,136.62
+957,9/2/2024,5/31/2024,Standard,Female,97.159.199.106,3WV3K65NM36,Corporate,Detroit,Michigan,United States,Furniture,Beauty Products,Quirky Pop Art Print,4,,$98.52,40.32
+958,12/17/2024,8/29/2024,Standard,Female,223.95.97.239,9RF4PY8GR46,Consumer,Bhilai,Chhattisgarh,India,Technology,Electronics,Retro Vintage Film Camera,7,,$301.14,136.46
+959,10/17/2024,9/29/2024,Economy,Male,73.110.160.114,8W40AW0RH49,Consumer,Mangalore,Karnataka,India,Office Supplies,Sports Equipment,Charming Floral Tea Towel,3,,$344.07,136.45
+960,12/5/2024,6/24/2024,Express,Female,42.130.80.34,8HV5H16VY97,Consumer,Agra,Uttar Pradesh,India,Technology,Home Decor,Whimsical Unicorn Night Light,9,,$91.53,136.4
+961,4/2/2024,7/11/2024,Next-day,Male,154.221.180.204,7M40M64RU41,Home Office,Gujranwala,Punjab,Pakistan,Office Supplies,Pet Supplies,Funky Retro Wall Clock,13,,-$0.20,136.38
+962,10/5/2024,8/27/2024,Next-day,Female,87.95.197.20,4VY9F10GM20,Consumer,Jena,Thuringia,Germany,Office Supplies,Pet Supplies,Edgy Skull Print Throw Blanket,3,,$155.17,136.35
+963,10/31/2024,12/12/2024,Standard,Male,149.213.16.166,6XN3VG4XK28,Consumer,Oxford,England,United Kingdom,Technology,Sports Equipment,Bold Geometric Area Rug,2,,$267.30,136.32
+964,10/8/2024,10/21/2024,Economy,Male,207.105.243.159,2CP7C74JA15,Corporate,Anantapur,Andhra Pradesh,India,Office Supplies,Books,Eclectic Patchwork Quilt,3,,$83.52,136.27
+965,8/5/2024,3/31/2024,Next-day,Male,184.162.136.54,3WP7DG4WG58,Consumer,Detroit,Michigan,United States,Technology,Clothing,Retro Polaroid Camera,3,,$163.19,20.91
+966,5/3/2024,12/22/2024,Standard,Female,35.85.254.139,4MV4F44VX21,Corporate,Springfield,Missouri,United States,Office Supplies,Pet Supplies,Chic Marble Coaster Set,1,,$47.73,20.26
+967,2/18/2024,4/6/2024,Standard,Male,179.193.57.153,3A36PX5MD87,Home Office,Detroit,Michigan,United States,Office Supplies,Toys,Timeless Diamond Stud Earrings,3,,$58.79,17.37
+968,10/10/2024,4/25/2024,Next-day,Female,16.83.245.182,7E70HX1JD47,Home Office,Qom,Qom,Iran,Technology,Kitchen Appliances,Chic Rose Gold Earrings,1,,$287.85,136.02
+969,3/13/2024,10/11/2024,Economy,Male,27.127.137.172,6U98KV6EX89,Home Office,Jiaozuo,Henan,China,Technology,Books,Sleek Glass Water Pitcher,7,,$145.95,135.99
+970,1/5/2025,8/14/2024,Next-day,Male,177.1.235.220,4MY1HM6MH40,Consumer,Albany,Western Australia,Australia,Office Supplies,Kitchen Appliances,Art Deco Velvet Armchair,6,,$9.97,135.97
+971,1/15/2025,10/3/2024,Next-day,Male,238.60.216.239,1EW2K90QW15,Consumer,Kuala Lumpur,Kuala Lumpur,Malaysia,Technology,Home Decor,Glamorous Crystal Chandelier,8,,$331.92,135.89
+972,5/15/2024,6/19/2024,Standard,Male,153.92.204.180,8X11V06DD12,Consumer,Elx,Valenciana,Spain,Technology,Electronics,Sophisticated Leather Journal,6,,$320.94,135.88
+973,4/29/2024,10/1/2024,Economy,Female,188.230.176.42,8HT8HE2XU63,Home Office,Springfield,Missouri,United States,Furniture,Home Decor,Charming Floral Tea Towel,3,,$4.86,14.44
+974,12/16/2024,2/26/2024,Express,Male,176.162.223.177,2XR2AR6RX02,Consumer,Portsmouth,England,United Kingdom,Office Supplies,Clothing,Chic Linen Table Runner,7,,$583.17,135.82
+975,9/13/2024,5/10/2024,Next-day,Polygender,164.16.181.207,3YU0UN7JN01,Corporate,Viterbo,Lazio,Italy,Furniture,Outdoor Gear,Minimalist Glass Vase,3,,$273.51,135.64
+976,1/19/2025,6/2/2024,Express,Male,163.124.33.31,2JW6A49QY54,Home Office,Hildesheim,Lower Saxony,Germany,Technology,Beauty Products,Stylish Enamel Pin Set,7,,$158.53,135.6
+977,3/7/2024,9/14/2024,Standard,Genderqueer,93.203.0.162,6AM3QW9HH24,Home Office,Springfield,Missouri,United States,Furniture,Sports Equipment,Vintage-Inspired Globe Bar Cart,8,,$25.40,6.4
+978,5/8/2024,4/25/2024,Express,Male,138.208.93.205,7VM1R74HM41,Home Office,Ho Chi Minh City,Ho Chí Minh City,Vietnam,Technology,Outdoor Gear,Edgy Leather Cuff Bracelet,9,,$836.12,135.5
+979,2/29/2024,7/9/2024,Standard,Female,183.238.222.61,7UK8H06MU09,Home Office,Lusaka,Lusaka,Zambia,Furniture,Outdoor Gear,Bold Geometric Area Rug,2,,$407.10,135.43
+980,10/7/2024,3/2/2024,Next-day,Female,3.184.214.65,5R78V46DG33,Consumer,Managua,Managua,Nicaragua,Technology,Pet Supplies,Cozy Knit Throw Pillow,5,,$17.30,135.404
+981,6/8/2024,3/9/2024,Standard,Male,206.142.198.48,9U30JM6DM01,Home Office,Orizaba,Veracruz,Mexico,Office Supplies,Electronics,Trendy Canvas Tote Bag,5,,$123.02,135.304
+982,7/12/2024,12/19/2024,Economy,Female,226.1.244.65,5EN6Q90QY68,Consumer,Sunderland,England,United Kingdom,Furniture,Home Decor,Eclectic Woven Throw Blanket,13,,"$1,216.02",135.25
+983,6/6/2024,5/11/2024,Economy,Female,206.249.136.33,8P60DW7NV62,Corporate,Al Mahallah al Kubra,Al Gharbiyah,Egypt,Furniture,Pet Supplies,Modern Marble Coaster Set,2,,$235.80,135.23
+984,4/25/2024,3/18/2024,Express,Male,24.200.171.96,2DR8JT4TG77,Home Office,La Plata,Provincia de Buenos Aires,Argentina,Office Supplies,Books,Minimalist Desk Organizer,5,,-$463.26,135.206
+985,4/11/2024,10/1/2024,Next-day,Male,3.64.70.152,5AA3VP3EE66,Corporate,Ninghai,Shandong,China,Office Supplies,Beauty Products,Cozy Knit Throw Pillow,3,,$8.91,135.18
+986,5/1/2024,12/24/2024,Express,Male,91.93.40.230,5A00KN0FW08,Home Office,Santo Domingo,Santo Domingo,Dominican Republic,Office Supplies,Outdoor Gear,Retro Vinyl Record Storage,2,,$121.83,135.153
+987,7/26/2024,6/30/2024,Express,Female,178.233.11.243,4YY8H22TA04,Corporate,Macapá,Amapá,Brazil,Furniture,Home Decor,Art Deco Brass Candle Holder,5,,$160.02,135.15
+988,11/16/2024,8/16/2024,Next-day,Male,187.177.144.12,9XD8NP5XQ33,Home Office,Zigong,Sichuan,China,Technology,Home Decor,Coastal Seashell Decor,2,,$218.82,134.97
+989,5/13/2024,11/2/2024,Express,Female,130.123.129.30,1W75DG5VV59,Corporate,Landskrona,Skåne,Sweden,Office Supplies,Outdoor Gear,Timeless Pearl Drop Earrings,5,,-$212.18,134.8
+990,3/16/2024,6/22/2024,Economy,Male,181.140.203.65,6YK2QF6CN57,Corporate,Wellington,Wellington,New Zealand,Office Supplies,Kitchen Appliances,Charming Floral Tea Towel,2,,$282.42,134.69
+991,5/19/2024,10/19/2024,Economy,Female,150.110.181.209,9YK4EW5UX85,Home Office,Helsinki,Uusimaa,Finland,Technology,Clothing,Eclectic Moroccan Pouf,3,,$383.22,134.68
+992,12/19/2024,11/18/2024,Economy,Male,198.135.35.36,2J84VK9XM07,Home Office,Middletown,Connecticut,United States,Technology,Toys,Modern Hanging Plant Holder,2,,$9.89,6.23
+993,1/30/2025,2/24/2024,Next-day,Male,108.126.6.7,8NM6G36YN64,Home Office,Springfield,Missouri,United States,Furniture,Pet Supplies,Artistic Ceramic Sculpture,3,,$10.09,2.58
+994,8/11/2024,11/16/2024,Express,Male,224.168.243.220,1NG8QA5CP11,Consumer,Townsville,Queensland,Australia,Office Supplies,Outdoor Gear,Dainty Silver Charm Bracelet,6,,$638.46,134.63
+995,5/10/2024,3/10/2024,Express,Male,171.231.130.32,5QA1JF9EM94,Corporate,Budapest,Budapest,Hungary,Office Supplies,Sports Equipment,Industrial Pipe Coat Rack,1,,$159.87,134.59
+996,11/11/2024,11/12/2024,Next-day,Female,11.67.204.77,3M32TC1EC31,Home Office,Mejicanos,San Salvador,El Salvador,Furniture,Sports Equipment,Chic Rose Gold Earrings,5,,$22.20,134.58
+997,8/22/2024,9/29/2024,Standard,Male,176.56.191.42,9XW3N74MM79,Home Office,Pune,Maharashtra,India,Office Supplies,Electronics,Coastal Seashell Jewelry Box,5,,$217.95,134.52
+998,3/14/2024,9/12/2024,Next-day,Female,87.201.22.232,7W02F16YT37,Home Office,Bath,England,United Kingdom,Furniture,Clothing,Cozy Cable Knit Blanket,4,,$280.32,134.48
+999,4/30/2024,11/23/2024,Express,Male,137.149.29.226,5PM2XJ1DC65,Consumer,Lome,Maritime,Togo,Technology,Pet Supplies,Modern Hanging Plant Holder,2,,$43.44,134.39
+1000,1/20/2025,2/22/2024,Next-day,Male,152.53.51.102,9VC9U93CN78,Home Office,Detroit,Michigan,United States,Office Supplies,Pet Supplies,Quirky Pop Art Print,2,,$5.66,1.53
